@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="net.minecraft.src.Entity"/>
+<fullyQualifiedTypeName name="java.net.HttpURLConnection"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="net.minecraft.src.ThreadLoadSkin"/>
+<fullyQualifiedTypeName name="net.minecraft.util.SkinGetter"/>
+<fullyQualifiedTypeName name="net.minecraft.src.Item"/>
+<fullyQualifiedTypeName name="net.minecraft.src.RenderGlobal"/>
+<fullyQualifiedTypeName name="net.minecraft.src.Packet60Explosion"/>
+<fullyQualifiedTypeName name="net.minecraft.src.Packet63WorldParticles"/>
+<fullyQualifiedTypeName name="org.lwjgl.opengl.EXTBlendFuncSeparate"/>
+<fullyQualifiedTypeName name="org.lwjgl.opengl.GL14"/>
+<fullyQualifiedTypeName name="org.lwjgl.opengl.ContextCapabilities"/>
+<fullyQualifiedTypeName name="net.minecraft.src.EntitySteamFX"/>
+<fullyQualifiedTypeName name="net.minecraft.client.Minecraft"/>
+<fullyQualifiedTypeName name="java.net.URL"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="net.minecraft.util.VersionWriter"/>
+<fullyQualifiedTypeName name="net.minecraft.src.ColorizerFoliage"/>
+<fullyQualifiedTypeName name="net.minecraft.src.TextureUtils"/>
+<fullyQualifiedTypeName name="net.minecraft.src.a1Version"/>
+<fullyQualifiedTypeName name="net.minecraft.src.Config"/>
+<fullyQualifiedTypeName name="net.minecraft.src.TileEntityChestRenderer"/>
+<fullyQualifiedTypeName name="net.minecraft.src.TileEntityChest"/>
+<fullyQualifiedTypeName name="net.minecraft.src.Block"/>
+<fullyQualifiedTypeName name="org.lwjgl.opengl.GL11"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.SystemException"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="net.minecraft.src.BiomeGenBase"/>
+</qualifiedTypeNameHistroy>
