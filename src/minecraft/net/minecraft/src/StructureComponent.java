@@ -547,10 +547,7 @@ public abstract class StructureComponent
         	{
         		changedID = Block.rottingWood.blockID;
         	}
-        	if(blockId == Block.planks.blockID)
-        	{
-        		changedID = Block.rottingWood.blockID;
-        	}
+        	
         	if(blockId == Block.stairsCobblestone.blockID)
         	{
         		changedID = Block.stairsMossyCobble.blockID;

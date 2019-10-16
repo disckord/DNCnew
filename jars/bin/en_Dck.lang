@@ -303,6 +303,9 @@ book.finalizeWarning=Note! When you sign the book, it will no longer be editable
 tile.coalBlock.name=Coal Block
 tile.stone.name=Stone
 
+tile.rottingwood.name=Rotting Wood
+tile.stairsRottingWood.name=Rotting Wood Stairs
+tile.stairsMossyCobble.name=Mossy Cobblestone Stairs
 tile.grass.name=Grass Block
 tile.dirt.name=Dirt
 tile.stonebrick.name=Cobblestone

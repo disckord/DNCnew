@@ -20956,3 +20956,31 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: 4096
 2019-10-07 16:31:40 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
 2019-10-07 16:31:40 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
 2019-10-07 16:31:40 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-10-14 11:59:06 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-10-14 11:59:06 [SERVER] [INFO] Generating keypair
+2019-10-14 11:59:06 [SERVER] [INFO] Preparing start region for level 0
+2019-10-14 11:59:07 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 249 at (-293.65037842721404, 77.0, 278.0731333388178)
+2019-10-14 12:00:16 [SERVER] [INFO] Saving and pausing game...
+2019-10-14 12:00:16 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-10-14 12:00:17 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-10-14 12:00:17 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-10-14 12:00:17 [SERVER] [INFO] Stopping server
+2019-10-14 12:00:17 [SERVER] [INFO] Saving players
+2019-10-14 12:00:17 [SERVER] [INFO] Saving worlds
+2019-10-14 12:00:17 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-10-14 12:00:17 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-10-14 12:00:17 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-10-16 16:10:34 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-10-16 16:10:34 [SERVER] [INFO] Generating keypair
+2019-10-16 16:10:34 [SERVER] [INFO] Preparing start region for level 0
+2019-10-16 16:10:35 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 13 at (360.32971926513477, 5.0, 1716.9510276517312)
+2019-10-16 16:11:29 [SERVER] [INFO] Saving and pausing game...
+2019-10-16 16:11:29 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-10-16 16:11:29 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-10-16 16:11:29 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-10-16 16:11:29 [SERVER] [INFO] Stopping server
+2019-10-16 16:11:29 [SERVER] [INFO] Saving players
+2019-10-16 16:11:29 [SERVER] [INFO] Saving worlds
+2019-10-16 16:11:29 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-10-16 16:11:29 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-10-16 16:11:29 [SERVER] [INFO] Saving chunks for level 'New World'/The End
