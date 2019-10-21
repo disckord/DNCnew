@@ -594,9 +594,9 @@ public class EntityPlayerSP extends EntityPlayer
      */
     public void setXPStats(float par1, int par2, int par3)
     {
-        this.experience = par1;
-        this.experienceTotal = par2;
-        this.experienceLevel = par3;
+        this.experience = 0;
+        this.experienceTotal = 0;
+        this.experienceLevel = 0;
     }
 
     public void sendChatToPlayer(String par1Str)

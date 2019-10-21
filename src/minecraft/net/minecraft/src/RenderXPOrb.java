@@ -16,7 +16,7 @@ public class RenderXPOrb extends Render
      */
     public void renderTheXPOrb(EntityXPOrb par1EntityXPOrb, double par2, double par4, double par6, float par8, float par9)
     {
-        GL11.glPushMatrix();
+       /* GL11.glPushMatrix();
         GL11.glTranslatef((float)par2, (float)par4, (float)par6);
         int var10 = par1EntityXPOrb.getTextureByXP();
         this.loadTexture("/item/xporb.png");
@@ -53,7 +53,7 @@ public class RenderXPOrb extends Render
         var11.draw();
         GL11.glDisable(GL11.GL_BLEND);
         GL11.glDisable(GL12.GL_RESCALE_NORMAL);
-        GL11.glPopMatrix();
+        GL11.glPopMatrix();*/
     }
 
     /**

@@ -665,7 +665,7 @@ public class NetClientHandler extends NetHandler
         {
             if (var2 instanceof EntityXPOrb)
             {
-                this.worldClient.playSoundAtEntity(var2, "random.orb", 0.2F, ((this.rand.nextFloat() - this.rand.nextFloat()) * 0.7F + 1.0F) * 2.0F);
+           //     this.worldClient.playSoundAtEntity(var2, "random.orb", 0.2F, ((this.rand.nextFloat() - this.rand.nextFloat()) * 0.7F + 1.0F) * 2.0F);
             }
             else
             {

@@ -238,7 +238,7 @@ public class EntityXPOrb extends Entity
             if (this.field_70532_c == 0 && par1EntityPlayer.xpCooldown == 0)
             {
                 par1EntityPlayer.xpCooldown = 2;
-                this.playSound("random.orb", 0.1F, 0.5F * ((this.rand.nextFloat() - this.rand.nextFloat()) * 0.7F + 1.8F));
+              //  this.playSound("random.orb", 0.1F, 0.5F * ((this.rand.nextFloat() - this.rand.nextFloat()) * 0.7F + 1.8F));
                 par1EntityPlayer.onItemPickup(this, 1);
                 par1EntityPlayer.addExperience(this.xpValue);
                 this.setDead();

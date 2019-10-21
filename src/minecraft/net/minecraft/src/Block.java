@@ -707,7 +707,7 @@ public class Block
      */
     protected void dropXpOnBlockBreak(World par1World, int par2, int par3, int par4, int par5)
     {
-        if (!par1World.isRemote)
+      /*  if (!par1World.isRemote)
         {
             while (par5 > 0)
             {
@@ -715,7 +715,7 @@ public class Block
                 par5 -= var6;
                 par1World.spawnEntityInWorld(new EntityXPOrb(par1World, (double)par2 + 0.5D, (double)par3 + 0.5D, (double)par4 + 0.5D, var6));
             }
-        }
+        }*/
     }
 
     /**
