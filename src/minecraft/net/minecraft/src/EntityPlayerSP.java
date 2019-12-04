@@ -6,6 +6,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 import net.minecraft.client.Minecraft;
+import net.minecraft.util.PerkGetter;
 import net.minecraft.util.SkinGetter;
 
 public class EntityPlayerSP extends EntityPlayer
@@ -85,13 +86,33 @@ public class EntityPlayerSP extends EntityPlayer
     {
         return true;
     }
-
+     private Perk  currentPerk = PerkGetter.getPerkByName("Count Napula");
     /**
      * Called frequently so the entity can update its state every tick as required. For example, zombies and skeletons
      * use this to react to sunlight and start to burn.
      */
     public void onLivingUpdate()
     {
+    	System.out.println(username);
+    	System.out.println(currentPerk.name);
+    	//#########################################################
+    	//PERKS
+		if(currentPerk != null && Minecraft.getMinecraft().gameSettings.thirdPersonView > 0)
+    	{
+    		if(this.worldObj.rand.nextInt(100) <= 75)
+    		{
+    			this.worldObj.spawnParticle(currentPerk.particleEffect, this.posX + (this.worldObj.rand.nextDouble() - 0.5D) * 1.2D, (this.posY - 0.2D) + (this.worldObj.rand.nextDouble() * 0.6D) , this.posZ + (this.worldObj.rand.nextDouble() - 0.5D) * 1.2D, 0, 0.005, 0);
+    			
+    		}
+    		if (this.worldObj.rand.nextInt(66) == 0)
+            {
+                this.playSound(currentPerk.soundEffect, 1.0F, 1.0F);
+            }
+    	}
+		//END PERKS
+		//#########################################################
+		
+		
         if (this.sprintingTicksLeft > 0)
         {
             --this.sprintingTicksLeft;

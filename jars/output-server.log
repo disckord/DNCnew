@@ -21214,3 +21214,381 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: 4096
 2019-10-21 14:46:00 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
 2019-10-21 14:46:00 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
 2019-10-21 14:46:00 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-02 17:29:13 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-02 17:29:13 [SERVER] [INFO] Generating keypair
+2019-12-02 17:29:13 [SERVER] [INFO] Preparing start region for level 0
+2019-12-02 17:29:14 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 18 at (231.16819097326763, 4.0, 1578.421333520924)
+2019-12-02 17:29:44 [SERVER] [INFO] Saving and pausing game...
+2019-12-02 17:29:44 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-02 17:29:44 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-02 17:29:44 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-02 17:29:44 [SERVER] [INFO] disckord lost connection: disconnect.quitting
+2019-12-02 17:29:45 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2019-12-02 17:29:45 [SERVER] [INFO] Stopping server
+2019-12-02 17:29:45 [SERVER] [INFO] Saving players
+2019-12-02 17:29:45 [SERVER] [INFO] Saving worlds
+2019-12-02 17:29:45 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-02 17:29:45 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-02 17:29:45 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-02 17:30:42 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-02 17:30:42 [SERVER] [INFO] Generating keypair
+2019-12-02 17:30:43 [SERVER] [INFO] Preparing start region for level 0
+2019-12-02 17:30:43 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 13 at (270.44941912849606, 17.244942801733828, 1598.6568457014203)
+2019-12-02 17:30:44 [SERVER] [INFO] Saving and pausing game...
+2019-12-02 17:30:44 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-02 17:30:44 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-02 17:30:44 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-02 17:31:22 [SERVER] [INFO] [disckord: Set the time to 12500]
+2019-12-02 17:31:50 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-02 17:31:50 [SERVER] [INFO] Generating keypair
+2019-12-02 17:31:50 [SERVER] [INFO] Preparing start region for level 0
+2019-12-02 17:31:50 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 13 at (271.3357899151503, 4.0, 1606.8583320423384)
+2019-12-02 17:34:19 [SERVER] [INFO] Saving and pausing game...
+2019-12-02 17:34:19 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-02 17:34:19 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-02 17:34:19 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-02 17:34:51 [SERVER] [INFO] Saving and pausing game...
+2019-12-02 17:34:51 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-02 17:34:51 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-02 17:34:51 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-02 17:34:53 [SERVER] [INFO] Saving and pausing game...
+2019-12-02 17:34:53 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-02 17:34:53 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-02 17:34:53 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-02 17:34:53 [SERVER] [INFO] disckord lost connection: disconnect.quitting
+2019-12-02 17:34:53 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2019-12-02 17:34:53 [SERVER] [INFO] Stopping server
+2019-12-02 17:34:53 [SERVER] [INFO] Saving players
+2019-12-02 17:34:53 [SERVER] [INFO] Saving worlds
+2019-12-02 17:34:53 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-02 17:34:53 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-02 17:34:53 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:01:44 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-04 17:01:44 [SERVER] [INFO] Generating keypair
+2019-12-04 17:01:45 [SERVER] [INFO] Preparing start region for level 0
+2019-12-04 17:01:46 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 222 at (271.54708100800957, 87.904149094818, 180.63362378158126)
+2019-12-04 17:01:51 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 17:01:51 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:01:51 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:01:51 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:01:54 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 17:01:54 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:01:54 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:01:54 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:02:18 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 17:02:18 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:02:18 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:02:18 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:02:21 [SERVER] [INFO] Stopping server
+2019-12-04 17:02:21 [SERVER] [INFO] Saving players
+2019-12-04 17:02:58 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-04 17:02:58 [SERVER] [INFO] Generating keypair
+2019-12-04 17:02:58 [SERVER] [INFO] Preparing start region for level 0
+2019-12-04 17:02:58 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 205 at (267.69999998807907, 82.0, 181.48565281003462)
+2019-12-04 17:03:06 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 17:03:06 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:03:06 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:03:06 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:03:06 [SERVER] [INFO] Stopping server
+2019-12-04 17:03:06 [SERVER] [INFO] Saving players
+2019-12-04 17:03:06 [SERVER] [INFO] Saving worlds
+2019-12-04 17:03:06 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:03:06 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:03:06 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:03:43 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-04 17:03:43 [SERVER] [INFO] Generating keypair
+2019-12-04 17:03:44 [SERVER] [INFO] Preparing start region for level 0
+2019-12-04 17:03:44 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 198 at (266.4341194948561, 83.74848791821934, 192.81254072869493)
+2019-12-04 17:04:18 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 17:04:18 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:04:18 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:04:18 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:04:19 [SERVER] [INFO] Stopping server
+2019-12-04 17:04:19 [SERVER] [INFO] Saving players
+2019-12-04 17:04:19 [SERVER] [INFO] Saving worlds
+2019-12-04 17:04:19 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:04:19 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:04:19 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:05:06 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-04 17:05:06 [SERVER] [INFO] Generating keypair
+2019-12-04 17:05:06 [SERVER] [INFO] Preparing start region for level 0
+2019-12-04 17:05:07 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 177 at (290.3945910333806, 105.0, 239.29538315195447)
+2019-12-04 17:05:25 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 17:05:25 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:05:25 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:05:25 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:05:26 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 17:05:26 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:05:26 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:05:26 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:05:26 [SERVER] [INFO] disckord lost connection: disconnect.quitting
+2019-12-04 17:05:26 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2019-12-04 17:05:26 [SERVER] [INFO] Stopping server
+2019-12-04 17:05:26 [SERVER] [INFO] Saving players
+2019-12-04 17:05:26 [SERVER] [INFO] Saving worlds
+2019-12-04 17:05:26 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:05:26 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:05:26 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:12:58 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-04 17:12:58 [SERVER] [INFO] Generating keypair
+2019-12-04 17:12:58 [SERVER] [INFO] Preparing start region for level 0
+2019-12-04 17:12:58 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 175 at (298.441598785713, 108.0, 260.79781694084454)
+2019-12-04 17:13:33 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 17:13:33 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:13:33 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:13:33 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:13:34 [SERVER] [INFO] disckord lost connection: disconnect.quitting
+2019-12-04 17:13:34 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2019-12-04 17:13:34 [SERVER] [INFO] Stopping server
+2019-12-04 17:13:34 [SERVER] [INFO] Saving players
+2019-12-04 17:13:34 [SERVER] [INFO] Saving worlds
+2019-12-04 17:13:34 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:13:34 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:13:34 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:14:16 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-04 17:14:16 [SERVER] [INFO] Generating keypair
+2019-12-04 17:14:16 [SERVER] [INFO] Preparing start region for level 0
+2019-12-04 17:14:17 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 160 at (331.1210254314895, 107.0, 257.8919209007952)
+2019-12-04 17:14:24 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 17:14:24 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:14:24 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:14:24 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:14:24 [SERVER] [INFO] disckord lost connection: disconnect.quitting
+2019-12-04 17:14:24 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2019-12-04 17:14:24 [SERVER] [INFO] Stopping server
+2019-12-04 17:14:24 [SERVER] [INFO] Saving players
+2019-12-04 17:14:24 [SERVER] [INFO] Saving worlds
+2019-12-04 17:14:24 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:14:24 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:14:24 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:14:52 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-04 17:14:52 [SERVER] [INFO] Generating keypair
+2019-12-04 17:14:52 [SERVER] [INFO] Preparing start region for level 0
+2019-12-04 17:14:52 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 157 at (331.1210254314895, 107.0, 257.8919209007952)
+2019-12-04 17:15:30 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 17:15:30 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:15:30 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:15:30 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:15:42 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 17:15:42 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:15:42 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:15:42 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:15:42 [SERVER] [INFO] Stopping server
+2019-12-04 17:15:42 [SERVER] [INFO] Saving players
+2019-12-04 17:15:43 [SERVER] [INFO] Saving worlds
+2019-12-04 17:15:43 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:15:43 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:15:43 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:16:05 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-04 17:16:05 [SERVER] [INFO] Generating keypair
+2019-12-04 17:16:05 [SERVER] [INFO] Preparing start region for level 0
+2019-12-04 17:16:06 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 147 at (331.70378647494806, 106.0, 254.58634268252055)
+2019-12-04 17:16:26 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 17:16:26 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:16:27 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:16:27 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:16:27 [SERVER] [INFO] Stopping server
+2019-12-04 17:16:27 [SERVER] [INFO] Saving players
+2019-12-04 17:16:27 [SERVER] [INFO] Saving worlds
+2019-12-04 17:16:27 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:16:27 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:16:27 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:18:20 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-04 17:18:20 [SERVER] [INFO] Generating keypair
+2019-12-04 17:18:20 [SERVER] [INFO] Preparing start region for level 0
+2019-12-04 17:18:21 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 144 at (324.40636917003076, 106.0, 254.95147656238024)
+2019-12-04 17:20:27 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 17:20:27 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:20:27 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:20:27 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:20:27 [SERVER] [INFO] Stopping server
+2019-12-04 17:20:27 [SERVER] [INFO] Saving players
+2019-12-04 17:20:27 [SERVER] [INFO] Saving worlds
+2019-12-04 17:20:27 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:20:27 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:20:27 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:20:49 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-04 17:20:49 [SERVER] [INFO] Generating keypair
+2019-12-04 17:20:49 [SERVER] [INFO] Preparing start region for level 0
+2019-12-04 17:20:49 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 136 at (329.10436518772036, 106.0, 253.64724734561196)
+2019-12-04 17:22:14 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 17:22:14 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:22:14 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:22:14 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:22:14 [SERVER] [INFO] Stopping server
+2019-12-04 17:22:14 [SERVER] [INFO] Saving players
+2019-12-04 17:22:14 [SERVER] [INFO] Saving worlds
+2019-12-04 17:22:14 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:22:14 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:22:14 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:23:30 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-04 17:23:31 [SERVER] [INFO] Generating keypair
+2019-12-04 17:23:31 [SERVER] [INFO] Preparing start region for level 0
+2019-12-04 17:23:31 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 122 at (320.4244652983957, 105.0, 245.34841189631473)
+2019-12-04 17:23:48 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 17:23:48 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:23:48 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:23:48 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:23:49 [SERVER] [INFO] Stopping server
+2019-12-04 17:23:49 [SERVER] [INFO] Saving players
+2019-12-04 17:23:49 [SERVER] [INFO] Saving worlds
+2019-12-04 17:23:49 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:23:49 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:23:49 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:25:37 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-04 17:25:37 [SERVER] [INFO] Generating keypair
+2019-12-04 17:25:37 [SERVER] [INFO] Preparing start region for level 0
+2019-12-04 17:25:37 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 120 at (320.4244652983957, 105.0, 245.34841189631473)
+2019-12-04 17:25:47 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 17:25:47 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:25:47 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:25:47 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:25:47 [SERVER] [INFO] disckord lost connection: disconnect.quitting
+2019-12-04 17:25:47 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2019-12-04 17:25:47 [SERVER] [INFO] Stopping server
+2019-12-04 17:25:47 [SERVER] [INFO] Saving players
+2019-12-04 17:25:47 [SERVER] [INFO] Saving worlds
+2019-12-04 17:25:47 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:25:47 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:25:47 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:26:55 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-04 17:26:55 [SERVER] [INFO] Generating keypair
+2019-12-04 17:26:55 [SERVER] [INFO] Preparing start region for level 0
+2019-12-04 17:26:56 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 120 at (320.4244652983957, 105.0, 245.34841189631473)
+2019-12-04 17:27:14 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 17:27:14 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:27:14 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:27:14 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:27:14 [SERVER] [INFO] Stopping server
+2019-12-04 17:27:14 [SERVER] [INFO] Saving players
+2019-12-04 17:27:14 [SERVER] [INFO] Saving worlds
+2019-12-04 17:27:14 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:27:14 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:27:14 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:28:13 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-04 17:28:13 [SERVER] [INFO] Generating keypair
+2019-12-04 17:28:13 [SERVER] [INFO] Preparing start region for level 0
+2019-12-04 17:28:14 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 122 at (320.013829920966, 105.0, 250.62361930293656)
+2019-12-04 17:28:24 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 17:28:24 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:28:24 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:28:24 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:28:24 [SERVER] [INFO] Stopping server
+2019-12-04 17:28:24 [SERVER] [INFO] Saving players
+2019-12-04 17:28:25 [SERVER] [INFO] Saving worlds
+2019-12-04 17:28:25 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:28:25 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:28:25 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:28:44 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-04 17:28:44 [SERVER] [INFO] Generating keypair
+2019-12-04 17:28:44 [SERVER] [INFO] Preparing start region for level 0
+2019-12-04 17:28:45 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 123 at (330.0207113352055, 107.0, 257.5743372480207)
+2019-12-04 17:28:53 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 17:28:53 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:28:53 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:28:53 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 17:28:53 [SERVER] [INFO] Stopping server
+2019-12-04 17:28:53 [SERVER] [INFO] Saving players
+2019-12-04 17:28:53 [SERVER] [INFO] Saving worlds
+2019-12-04 17:28:53 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 17:28:53 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 17:28:53 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 20:43:26 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-04 20:43:26 [SERVER] [INFO] Generating keypair
+2019-12-04 20:43:27 [SERVER] [INFO] Preparing start region for level 0
+2019-12-04 20:43:28 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 123 at (330.2973566203509, 107.0, 256.7696275309126)
+2019-12-04 20:43:35 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 20:43:35 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 20:43:35 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 20:43:35 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 20:43:35 [SERVER] [INFO] Stopping server
+2019-12-04 20:43:35 [SERVER] [INFO] Saving players
+2019-12-04 20:43:35 [SERVER] [INFO] Saving worlds
+2019-12-04 20:43:35 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 20:43:35 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 20:43:35 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 20:44:55 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-04 20:44:55 [SERVER] [INFO] Generating keypair
+2019-12-04 20:44:55 [SERVER] [INFO] Preparing start region for level 0
+2019-12-04 20:44:55 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 123 at (328.6101385332877, 107.0, 258.34374847819265)
+2019-12-04 20:45:00 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 20:45:00 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 20:45:00 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 20:45:00 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 20:45:01 [SERVER] [INFO] Stopping server
+2019-12-04 20:45:01 [SERVER] [INFO] Saving players
+2019-12-04 20:45:01 [SERVER] [INFO] Saving worlds
+2019-12-04 20:45:01 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 20:45:01 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 20:45:01 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 20:45:10 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-04 20:45:10 [SERVER] [INFO] Generating keypair
+2019-12-04 20:45:10 [SERVER] [INFO] Preparing start region for level 0
+2019-12-04 20:45:10 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 123 at (328.6101385332877, 107.0, 258.34374847819265)
+2019-12-04 20:46:11 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 20:46:11 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 20:46:11 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 20:46:11 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 20:46:12 [SERVER] [INFO] Stopping server
+2019-12-04 20:46:12 [SERVER] [INFO] Saving players
+2019-12-04 20:46:12 [SERVER] [INFO] Saving worlds
+2019-12-04 20:46:12 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 20:46:12 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 20:46:12 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 21:34:38 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-04 21:34:38 [SERVER] [INFO] Generating keypair
+2019-12-04 21:34:39 [SERVER] [INFO] Preparing start region for level 0
+2019-12-04 21:34:39 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 125 at (320.8076030736184, 105.0, 246.1771644149934)
+2019-12-04 21:34:54 [SERVER] [INFO] <disckord> bruh
+2019-12-04 21:35:05 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 21:35:05 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 21:35:05 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 21:35:05 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 21:35:06 [SERVER] [INFO] disckord lost connection: disconnect.quitting
+2019-12-04 21:35:06 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2019-12-04 21:35:06 [SERVER] [INFO] Stopping server
+2019-12-04 21:35:06 [SERVER] [INFO] Saving players
+2019-12-04 21:35:06 [SERVER] [INFO] Saving worlds
+2019-12-04 21:35:06 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 21:35:06 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 21:35:06 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 21:36:07 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-04 21:36:07 [SERVER] [INFO] Generating keypair
+2019-12-04 21:36:07 [SERVER] [INFO] Preparing start region for level 0
+2019-12-04 21:36:08 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 123 at (320.5218341542735, 105.0, 246.0891211289265)
+2019-12-04 21:36:13 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 21:36:13 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 21:36:13 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 21:36:13 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 21:36:14 [SERVER] [INFO] disckord lost connection: disconnect.quitting
+2019-12-04 21:36:14 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2019-12-04 21:36:14 [SERVER] [INFO] Stopping server
+2019-12-04 21:36:14 [SERVER] [INFO] Saving players
+2019-12-04 21:36:14 [SERVER] [INFO] Saving worlds
+2019-12-04 21:36:14 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 21:36:14 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 21:36:14 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 21:36:52 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-04 21:36:52 [SERVER] [INFO] Generating keypair
+2019-12-04 21:36:52 [SERVER] [INFO] Preparing start region for level 0
+2019-12-04 21:36:53 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 123 at (320.5218341542735, 105.0, 246.0891211289265)
+2019-12-04 21:36:56 [SERVER] [INFO] Saving and pausing game...
+2019-12-04 21:36:56 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 21:36:56 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 21:36:56 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 21:36:56 [SERVER] [INFO] Stopping server
+2019-12-04 21:36:56 [SERVER] [INFO] Saving players
+2019-12-04 21:36:56 [SERVER] [INFO] Saving worlds
+2019-12-04 21:36:56 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 21:36:57 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 21:36:57 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-04 21:37:47 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-04 21:37:47 [SERVER] [INFO] Generating keypair
+2019-12-04 21:37:47 [SERVER] [INFO] Preparing start region for level 0
+2019-12-04 21:37:48 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 123 at (320.5218341542735, 105.0, 246.0891211289265)
+2019-12-04 21:37:48 [SERVER] [INFO] Stopping server
+2019-12-04 21:37:48 [SERVER] [INFO] Saving players
+2019-12-04 21:37:48 [SERVER] [INFO] Saving worlds
+2019-12-04 21:37:48 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-04 21:37:48 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-04 21:37:48 [SERVER] [INFO] Saving chunks for level 'New World'/The End

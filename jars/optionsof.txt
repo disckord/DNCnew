@@ -1,9 +1,9 @@
 ofRenderDistanceFine:256
 ofLimitFramerateFine:0
-ofFogType:3
+ofFogType:1
 ofFogStart:0.2
-ofMipmapLevel:4
-ofMipmapType:3
+ofMipmapLevel:0
+ofMipmapType:0
 ofLoadFar:false
 ofPreloadedChunks:0
 ofOcclusionFancy:true
@@ -49,7 +49,7 @@ ofTime:0
 ofClearWater:false
 ofDepthFog:false
 ofAaLevel:0
-ofAfLevel:16
+ofAfLevel:1
 ofProfiler:false
 ofBetterSnow:true
 ofSwampColors:false

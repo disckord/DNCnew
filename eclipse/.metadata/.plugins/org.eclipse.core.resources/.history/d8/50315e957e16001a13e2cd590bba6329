@@ -1,0 +1,17 @@
+package net.minecraft.src;
+
+public enum EnumPerks {
+	flame(1);
+	
+	public  int id;
+	private EnumPerks(int id)
+	{
+		this.id = id;
+	}
+	
+	public int getId()
+	{
+		return id;
+	}
+
+}

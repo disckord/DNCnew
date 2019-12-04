@@ -12,8 +12,8 @@ anaglyph3d:false
 advancedOpengl:true
 fpsLimit:0
 difficulty:0
-fancyGraphics:true
-ao:0
+fancyGraphics:false
+ao:2
 clouds:true
 skin:Default
 lastServer:192.168.0.222
@@ -40,7 +40,7 @@ chatHeightUnfocused:0.44366196
 chatScale:1.0
 chatWidth:1.0
 alphaTextures:true
-alphaFoliage:false
+alphaFoliage:true
 oldChests:true
 clearGlass:true
 key_key.attack:-100

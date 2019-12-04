@@ -2,20 +2,20 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="onGround" key="selection"/>
+		<item value="Sound" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
-			<item value="onGround"/>
-			<item value="noClip"/>
-			<item value="moveEntity"/>
 			<item value="sound"/>
-			<item value="xp"/>
+			<item value="fire"/>
 			<item value="playSoundAtEntity"/>
-			<item value="addex"/>
-			<item value="ex"/>
+			<item value="spawnpart"/>
+			<item value="mob"/>
+			<item value="spawn"/>
+			<item value="mobsp"/>
+			<item value="ond"/>
 		</list>
 		<list key="replacehistory">
 			<item value="var6"/>

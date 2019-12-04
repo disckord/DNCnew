@@ -32,4 +32,6 @@
 <fullyQualifiedTypeName name="org.omg.CORBA.SystemException"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="net.minecraft.src.BiomeGenBase"/>
+<fullyQualifiedTypeName name="net.minecraft.src.Perk"/>
+<fullyQualifiedTypeName name="net.minecraft.util.PerkGetter"/>
 </qualifiedTypeNameHistroy>

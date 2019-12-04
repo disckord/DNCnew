@@ -1,0 +1,14 @@
+package net.minecraft.src;
+
+public class Perk {
+	public static Perk[] perks = new Perk[64];
+	
+	public Perk(int id)
+	{
+		if(perks[id] != null)
+		{
+			 throw new IllegalArgumentException("Slot " + id + " is already occupied by " + perks[id] + " when adding " + this);
+		}
+	}
+
+}

@@ -184,6 +184,7 @@ public class EntityPlayerMP extends EntityPlayer implements ICrafting
      */
     public void onUpdate()
     {
+    	this.worldObj.spawnParticle("flame", this.posX, this.posY, this.posZ, 0, 0, 0);
         this.theItemInWorldManager.updateBlockRemoving();
         --this.initialInvulnerability;
         this.openContainer.detectAndSendChanges();

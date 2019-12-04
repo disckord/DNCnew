@@ -1,4 +1,4 @@
-#Wed Oct 02 14:15:51 AEST 2019
+#Wed Dec 04 17:15:33 AEDT 2019
 dtweak=false
 handDepthMul=0.125
 cloudShadow=false

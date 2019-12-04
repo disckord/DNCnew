@@ -119,7 +119,7 @@ public class MapGenVillage extends MapGenStructure
 
     protected StructureStart getStructureStart(int par1, int par2)
     {
-    	System.out.println("village x: " + par1 + " | village z: " + par2);
+    //	System.out.println("village x: " + par1 + " | village z: " + par2);
         return new StructureVillageStart(this.worldObj, this.rand, par1, par2, this.terrainType);
     }
 }

@@ -1,0 +1,10 @@
+package net.minecraft.src;
+
+public enum EnumPerks {
+	
+	private EnumPerks(int id)
+	{
+		this.id = id;
+	}
+
+}
