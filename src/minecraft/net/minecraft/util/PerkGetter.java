@@ -6,7 +6,7 @@ public class PerkGetter {
 	
 	public static Perk getPerkByName(String name)
 	{
-		
+		System.out.println("getting perk for " + name);
 		if(name == "disckord")
 		{
 	

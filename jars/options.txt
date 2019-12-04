@@ -13,10 +13,10 @@ advancedOpengl:true
 fpsLimit:0
 difficulty:0
 fancyGraphics:false
-ao:2
+ao:0
 clouds:true
 skin:Default
-lastServer:192.168.0.222
+lastServer:0.0.0.0
 lang:en_Dck
 chatVisibility:0
 chatColors:true

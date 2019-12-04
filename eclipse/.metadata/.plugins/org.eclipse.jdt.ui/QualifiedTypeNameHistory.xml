@@ -34,4 +34,5 @@
 <fullyQualifiedTypeName name="net.minecraft.src.BiomeGenBase"/>
 <fullyQualifiedTypeName name="net.minecraft.src.Perk"/>
 <fullyQualifiedTypeName name="net.minecraft.util.PerkGetter"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
 </qualifiedTypeNameHistroy>

@@ -2109,7 +2109,7 @@ public abstract class Minecraft implements Runnable, IPlayerUsage
         boolean var2 = false;
         boolean var3 = true;
         boolean var4 = false;
-        String var5 = "disckord";//"Player" + getSystemTime() % 1000L;
+        String var5 = a1Version.defaultUName;//"Player" + getSystemTime() % 1000L;
         String var6 = var5;
 
         if (par0ArrayOfStr.length > 0)
