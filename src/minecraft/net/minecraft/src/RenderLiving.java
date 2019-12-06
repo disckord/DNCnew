@@ -291,7 +291,11 @@ public class RenderLiving extends Render
 
     protected void func_98190_a(EntityLiving par1EntityLiving)
     {
+    	
+    	
         this.loadTexture(par1EntityLiving.getTexture());
+    	
+    	
     }
 
     /**

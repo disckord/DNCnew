@@ -17,9 +17,15 @@ public class RenderPlayer extends RenderLiving
         this.modelArmor = new ModelBiped(0.5F);
     }
 
-    protected void func_98191_a(EntityPlayer par1EntityPlayer)
+    protected void bindDownloadedSkinTexture(EntityPlayer par1EntityPlayer)
     {
+    	if(par1EntityPlayer.getEntityName() == "Enbi")
+    	{
+    		this.loadTexture("/Enbi.png");
+    	}
+    	else
         this.loadDownloadableImageTexture(par1EntityPlayer.skinUrl, par1EntityPlayer.getTexture());
+    	
     }
 
     /**
@@ -486,7 +492,7 @@ public class RenderPlayer extends RenderLiving
 
     protected void func_98190_a(EntityLiving par1EntityLiving)
     {
-        this.func_98191_a((EntityPlayer)par1EntityLiving);
+        this.bindDownloadedSkinTexture((EntityPlayer)par1EntityLiving);
     }
 
     public void doRenderLiving(EntityLiving par1EntityLiving, double par2, double par4, double par6, float par8, float par9)

@@ -1,0 +1,71 @@
+package net.minecraft.src;
+
+import java.util.Random;
+
+public class Perk {
+	public static Perk[] perks = new Perk[64];
+	public int id = 0;
+	public String name = "none";
+	public String particleEffect;
+	public String soundEffect;
+	public int particleMaxRange;
+	public int particleRange;
+	public int soundMaxRange;
+	public int soundRange;
+	public float soundVolume;
+	public float vertVel;
+	public Perk(int id, String name, String particleEffect, String soundEffect)
+	{
+		if(perks[id] != null)
+		{
+			 throw new IllegalArgumentException("Slot " + id + " is already occupied by " + perks[id] + " when adding " + this);
+		}
+		else
+		{
+			this.particleEffect = particleEffect;
+			this.soundEffect = soundEffect;
+			this.name = name;
+			this.id = id;
+			perks[id] = this;
+		}
+	}
+	
+	public boolean getParticleChance(Random rand)
+	{
+		return rand.nextInt(particleMaxRange) <= particleRange;
+	}
+	public boolean getSoundChance(Random rand)
+	{
+		return rand.nextInt(soundMaxRange) <= soundRange;
+	}
+	
+	private Perk setParticleFrequency(int maxRange, int range)
+	{
+		this.particleMaxRange = maxRange;
+		this.particleRange = range;
+		return this;
+	}
+	
+	private Perk setSoundFrequency(int maxRange, int range)
+	{
+		this.soundMaxRange = maxRange;
+		this.soundRange = range;
+		return this;
+	}
+	
+	private Perk setSoundVolume(float vol)
+	{
+		this.soundVolume = vol;
+		return this;
+	}
+	
+	private Perk setVertVelocity(float vel)
+	{
+		this.vertVel = vel;
+		return this;
+	}
+	public static Perk none = new Perk(0, "none", "", "");
+	public static Perk flame = new Perk(1, "flames", "flame", "fire.fire").setParticleFrequency(100, 75).setSoundFrequency(70, 1).setSoundVolume(0.5F).setVertVelocity(0.005f);
+	public static Perk bubbles = new Perk(2, "bubbles", "bubble", "liquid.bubble").setParticleFrequency(100, 75).setSoundFrequency(200, 1).setSoundVolume(0.1F);
+
+}

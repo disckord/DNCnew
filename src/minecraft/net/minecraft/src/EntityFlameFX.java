@@ -52,7 +52,8 @@ public class EntityFlameFX extends EntityFX
             var4 = 240;
         }
 
-        return var4 | var5 << 16;
+     //   return var4 | var5 << 16;
+        return 240;
     }
 
     /**

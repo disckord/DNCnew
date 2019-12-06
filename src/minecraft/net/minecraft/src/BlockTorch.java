@@ -297,6 +297,7 @@ public class BlockTorch extends Block
         }
         else
         {
+        	
             par1World.spawnParticle("smoke", var7, var9, var11, 0.0D, 0.0D, 0.0D);
             par1World.spawnParticle("flame", var7, var9, var11, 0.0D, 0.0D, 0.0D);
         }

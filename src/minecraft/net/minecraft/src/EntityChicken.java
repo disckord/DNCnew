@@ -47,7 +47,7 @@ public class EntityChicken extends EntityAnimal
      * use this to react to sunlight and start to burn.
      */
     public void onLivingUpdate()
-    {this.worldObj.spawnParticle("bubble", this.posX + (rand.nextDouble() - 0.5D) * 1.2D, (this.posY - 0.4D) + (rand.nextDouble() * 0.6D) , this.posZ + (rand.nextDouble() - 0.5D) * 1.2D, 0,0, 0);
+    {//this.worldObj.spawnParticle("bubble", this.posX + (rand.nextDouble() - 0.5D) * 1.2D, (this.posY - 0.4D) + (rand.nextDouble() * 0.6D) , this.posZ + (rand.nextDouble() - 0.5D) * 1.2D, 0,0, 0);
         super.onLivingUpdate();
         this.field_70888_h = this.field_70886_e;
         this.field_70884_g = this.destPos;

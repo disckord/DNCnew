@@ -31,10 +31,10 @@ public class EntityBubbleFX extends EntityFX
         this.motionY *= 0.8500000238418579D;
         this.motionZ *= 0.8500000238418579D;
 
-        if (this.worldObj.getBlockMaterial(MathHelper.floor_double(this.posX), MathHelper.floor_double(this.posY), MathHelper.floor_double(this.posZ)) != Material.water)
+       /* if (this.worldObj.getBlockMaterial(MathHelper.floor_double(this.posX), MathHelper.floor_double(this.posY), MathHelper.floor_double(this.posZ)) != Material.water)
         {
             this.setDead();
-        }
+        }*/
 
         if (this.particleMaxAge-- <= 0)
         {

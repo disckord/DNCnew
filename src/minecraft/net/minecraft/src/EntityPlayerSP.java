@@ -49,6 +49,7 @@ public class EntityPlayerSP extends EntityPlayer
         this.username = par3Session.username;
         if (par3Session != null && par3Session.username != null && par3Session.username.length() > 0)
         {
+        	
         	System.out.println(username);
         	String s = SkinGetter.getUuid(username);
         	currentPerk = PerkGetter.getPerkByName(username);
@@ -107,9 +108,9 @@ public class EntityPlayerSP extends EntityPlayer
     			this.worldObj.spawnParticle(currentPerk.particleEffect, this.posX + (rand.nextDouble() - 0.5D) * 1.2D, (this.posY - 0.4D) + (rand.nextDouble() * 0.6D) , this.posZ + (rand.nextDouble() - 0.5D) * 1.2D, 0,currentPerk.vertVel, 0);
     			
     		}
-    		if (currentPerk.getSoundChance(rand))
+    		if (currentPerk.hasSound && currentPerk.getSoundChance(rand))
             {
-                this.playSound(currentPerk.soundEffect, 0.2F + rand.nextFloat() * 0.2F, currentPerk.soundVolume + rand.nextFloat() * 0.15F);
+                this.playSound(currentPerk.soundEffect, currentPerk.soundVolume + rand.nextFloat() * 0.2F,  currentPerk.soundSpeed + rand.nextFloat() * 0.15F);
             }
     	}
 		//END PERKS

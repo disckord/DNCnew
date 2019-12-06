@@ -14,6 +14,8 @@ public class Perk {
 	public int soundRange;
 	public float soundVolume;
 	public float vertVel;
+	public float soundSpeed;
+	public boolean hasSound = false;
 	public Perk(int id, String name, String particleEffect, String soundEffect)
 	{
 		if(perks[id] != null)
@@ -28,6 +30,10 @@ public class Perk {
 			this.id = id;
 			perks[id] = this;
 		}
+	}
+	public Perk(int id, String name, String particleEffect)
+	{
+		this(id,name,particleEffect,"");
 	}
 	
 	public boolean getParticleChance(Random rand)
@@ -64,8 +70,20 @@ public class Perk {
 		this.vertVel = vel;
 		return this;
 	}
+	private Perk setSoundSpeed(float speed)
+	{
+		this.soundSpeed = speed;
+		return this;
+	}
+	private Perk setHasSound(boolean flag)
+	{
+		this.hasSound = flag;
+		return this;
+	}
 	public static Perk none = new Perk(0, "none", "", "");
-	public static Perk flame = new Perk(1, "flames", "flame", "fire.fire").setParticleFrequency(100, 75).setSoundFrequency(70, 1).setSoundVolume(0.5F).setVertVelocity(0.005f);
-	public static Perk bubbles = new Perk(2, "bubbles", "bubble", "liquid.bubble").setParticleFrequency(100, 75).setSoundFrequency(200, 1).setSoundVolume(0.2F);
+	public static Perk flame = new Perk(1, "flames", "flame", "fire.fire").setParticleFrequency(100, 75).setSoundFrequency(200, 1).setSoundVolume(0.05F).setVertVelocity(0.005f).setSoundSpeed(1.2f).setHasSound(true);
+	public static Perk bubbles = new Perk(2, "bubbles", "bubble", "liquid.bubble").setParticleFrequency(100, 75).setSoundFrequency(200, 1).setSoundVolume(0.05F).setSoundSpeed(1.5f).setHasSound(true);
+	public static Perk blossom = new Perk(3, "blossom", "blossom").setParticleFrequency(175, 75);
+	public static Perk hearts = new Perk(4, "hearts", "smallheart").setParticleFrequency(75, 75);
 
 }

@@ -2024,9 +2024,17 @@ public class RenderGlobal implements IWorldAccess
                 {
                     if (par1Str.equals("bubble"))
                     {
-                    	System.out.println("renderglobal bubble part");
+                    	//System.out.println("renderglobal bubble part");
                         var21 = new EntityBubbleFX(this.theWorld, par2, par4, par6, par8, par10, par12);
                         CustomColorizer.updateWaterFX((EntityFX)var21, this.theWorld);
+                    }
+                    else if(par1Str.equals("smallheart"))
+                    {
+                    	 var21 = new EntitySmallHeartFX(this.theWorld, par2, par4, par6, par8, par10, par12);
+                    }
+                    else if(par1Str.equals("cherry"))
+                    {
+                    	 var21 = new EntityBlossomFX(this.theWorld, par2, par4, par6, par8, par10, par12);
                     }
                     else if(par1Str.equals("steam"))
                     {
