@@ -1,5 +1,5 @@
-#Thu Dec 05 09:33:16 AEDT 2019
+#Sat Dec 07 14:28:58 AEDT 2019
 dtweak=false
 handDepthMul=0.125
 cloudShadow=false
-shaderPack=(none)
+shaderPack=v3-med - Torch Fix
