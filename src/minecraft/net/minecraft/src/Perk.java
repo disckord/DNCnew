@@ -83,7 +83,7 @@ public class Perk {
 	public static Perk none = new Perk(0, "none", "", "");
 	public static Perk flame = new Perk(1, "flames", "flame", "fire.fire").setParticleFrequency(100, 75).setSoundFrequency(200, 1).setSoundVolume(0.05F).setVertVelocity(0.005f).setSoundSpeed(1.2f).setHasSound(true);
 	public static Perk bubbles = new Perk(2, "bubbles", "bubble", "liquid.bubble").setParticleFrequency(100, 75).setSoundFrequency(200, 1).setSoundVolume(0.05F).setSoundSpeed(1.5f).setHasSound(true);
-	public static Perk blossom = new Perk(3, "blossom", "cherry").setParticleFrequency(175, 75).setSoundFrequency(1, 1).setSoundVolume(1.05F).setSoundSpeed(0.5f).setHasSound(true);
+	public static Perk blossom = new Perk(3, "blossom", "cherry").setParticleFrequency(175, 75).setSoundFrequency(275, 1).setSoundVolume(0.6F).setSoundSpeed(1.1f).setHasSound(true);
 	public static Perk hearts = new Perk(4, "hearts", "smallheart").setParticleFrequency(75, 75);
 
 }

@@ -17,7 +17,7 @@ public class EntityBlossomFX extends EntityFX
        // this.motionY *= 0.009999999776482582D;
       //  this.motionZ *= 0.009999999776482582D;
         this.motionY = -0.05D - (rand.nextFloat() * 0.04f);
-        this.particleScale *= 0.75F;
+        this.particleScale *= 0.25F;
         this.particleScale *= par14;
         this.particleScaleOverTime = this.particleScale;
         this.particleMaxAge = 80;
@@ -42,7 +42,7 @@ public class EntityBlossomFX extends EntityFX
     	}
     	if(!stop)
     	{
-    	i = 15 - (this.particleAge + 20) * 8 / (this.particleMaxAge);
+    	i = 15 - (this.particleAge) * 8 / (this.particleMaxAge / 2);
     	if(i<=8)
     	{
     		i=8;
@@ -73,8 +73,8 @@ public class EntityBlossomFX extends EntityFX
         if (this.onGround)
         {
         	
-            this.motionX *= 0.099999988079071D;
-            this.motionZ *= 0.099999988079071D;
+            this.motionX *= 0.015D;
+            this.motionZ *= 0.015D;
         }
     }
 }

@@ -112,18 +112,11 @@ public class EntityPlayerSP extends EntityPlayer
             {
                 this.playSound(currentPerk.soundEffect, currentPerk.soundVolume + rand.nextFloat() * 0.2F,  currentPerk.soundSpeed + rand.nextFloat() * 0.15F);
             }
-    		if(currentPerk == Perk.blossom)
+    		if(currentPerk == Perk.blossom && currentPerk.getSoundChance(rand))
     		{
-    			if(rand.nextBoolean())
-    			{
-    				  this.playSound("random.wind1", currentPerk.soundVolume + rand.nextFloat() * 0.2F,  currentPerk.soundSpeed + rand.nextFloat() * 0.15F);
-    		           
-    			}
-    			else
-    			{
-    				  this.playSound("random.wind2", currentPerk.soundVolume + rand.nextFloat() * 0.2F,  currentPerk.soundSpeed + rand.nextFloat() * 0.15F);
-    		           
-    			}
+    			
+    			this.playSound("random.wind", currentPerk.soundVolume + rand.nextFloat() * 0.2F,  currentPerk.soundSpeed + rand.nextFloat() * 0.15F);
+    			
     		}
     	}
 		//END PERKS
