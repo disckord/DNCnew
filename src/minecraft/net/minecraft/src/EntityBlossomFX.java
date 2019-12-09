@@ -7,20 +7,20 @@ public class EntityBlossomFX extends EntityFX
     boolean stop = false;
     public EntityBlossomFX(World par1World, double par2, double par4, double par6, double par8, double par10, double par12)
     {
-        this(par1World, par2, par4, par6, par8, par10, par12, 2.0F);
+        this(par1World, par2, par4, par6, par8, par10, par12, 1.8F);
     }
 
     public EntityBlossomFX(World par1World, double par2, double par4, double par6, double par8, double par10, double par12, float par14)
     {
-        super(par1World, par2, par4+1.5D, par6, 0.0D, 0.0D, 0.0D);
-        //this.motionX *= 0.009999999776482582D;
-       // this.motionY *= 0.009999999776482582D;
-      //  this.motionZ *= 0.009999999776482582D;
-        this.motionY = -0.05D - (rand.nextFloat() * 0.04f);
+        super(par1World, par2, par4, par6, 0.0D, 0.0D, 0.0D);
+        this.motionX *= 0.599999999776482582D;
+        this.motionY *= 0.799999999776482582D;
+        this.motionZ *= 0.599999999776482582D;
+        this.motionY = -0.04D - (rand.nextFloat() * 0.04f);
         this.particleScale *= 0.25F;
         this.particleScale *= par14;
         this.particleScaleOverTime = this.particleScale;
-        this.particleMaxAge = 80;
+        this.particleMaxAge = 102;
         this.noClip = false;
         this.setParticleTextureIndex(15);
     }
@@ -67,7 +67,7 @@ public class EntityBlossomFX extends EntityFX
         }*/
 
         this.motionX *= 0.9600000143051147D;
-       // this.motionY *= 0.8600000143051147D;
+        this.motionY *= 0.999999999776482582D;
         this.motionZ *= 0.9600000143051147D;
 
         if (this.onGround)

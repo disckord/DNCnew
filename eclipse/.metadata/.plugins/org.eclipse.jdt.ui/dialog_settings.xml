@@ -73,10 +73,11 @@
 	<section name="FatJarPackageWizard">
 		<item value="C:\Users\Disckord\Desktop\DNCnew\eclipse" key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION"/>
 		<item value="Client - Client" key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME"/>
-		<item value="C:\Users\Disckord\Desktop\DNCoutput\DNCminecraft.jar" key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION"/>
+		<item value="C:\Users\disckord\Desktop\DNC unobf output\DNCminecraft.jar" key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION"/>
 		<item value="false" key="FatJarPackageWizardPage.ANTSCRIPT_SAVE"/>
 		<item value="1" key="FatJarPackageWizardPage.LIBRARY_HANDLING"/>
 		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="C:\Users\disckord\Desktop\DNC unobf output\DNCminecraft.jar"/>
 			<item value="C:\Users\Disckord\Desktop\DNCoutput\DNCminecraft.jar"/>
 			<item value="C:\Users\Disckord\Desktop\DNCoutput\minecraft.jar"/>
 		</list>

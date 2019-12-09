@@ -21,6 +21,7 @@ public class RenderPlayer extends RenderLiving
     {
     	if(par1EntityPlayer.getEntityName() == "Enbi")
     	{
+    		//System.out.println("binding skin for enbi");
     		this.loadTexture("/Enbi.png");
     	}
     	else

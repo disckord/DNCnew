@@ -1,4 +1,4 @@
-music:1.0
+music:0.0
 sound:1.0
 invertYMouse:false
 mouseSensitivity:0.3028169
@@ -40,7 +40,7 @@ chatHeightUnfocused:0.44366196
 chatScale:1.0
 chatWidth:1.0
 alphaTextures:true
-alphaFoliage:true
+alphaFoliage:false
 oldChests:true
 clearGlass:true
 key_key.attack:-100

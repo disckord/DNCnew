@@ -103,21 +103,17 @@ public class EntityPlayerSP extends EntityPlayer
     	//PERKS
 		if(currentPerk != null && currentPerk != Perk.none && Minecraft.getMinecraft().gameSettings.thirdPersonView > 0)
     	{
+			//System.out.println("ticking onlivingupdate perk on entityplayersp");
     		if(currentPerk.getParticleChance(rand))
     		{
-    			this.worldObj.spawnParticle(currentPerk.particleEffect, this.posX + (rand.nextDouble() - 0.5D) * 1.2D, (this.posY - 0.4D) + (rand.nextDouble() * 0.6D) , this.posZ + (rand.nextDouble() - 0.5D) * 1.2D, 0,currentPerk.vertVel, 0);
+    			this.worldObj.spawnParticle(currentPerk.particleEffect, this.posX + (rand.nextDouble() - 0.5D) * 1.2D, (this.posY - 0.4D) + currentPerk.spawnHeight +  (rand.nextDouble() * currentPerk.heightVariationMultiplier) , this.posZ + (rand.nextDouble() - 0.5D) * 1.2D, 0,currentPerk.vertVel, 0);
     			
     		}
-    		if (currentPerk != Perk.blossom && currentPerk.hasSound && currentPerk.getSoundChance(rand))
+    		if (currentPerk.hasSound && currentPerk.getSoundChance(rand))
             {
                 this.playSound(currentPerk.soundEffect, currentPerk.soundVolume + rand.nextFloat() * 0.2F,  currentPerk.soundSpeed + rand.nextFloat() * 0.15F);
             }
-    		if(currentPerk == Perk.blossom && currentPerk.getSoundChance(rand))
-    		{
-    			
-    			this.playSound("random.wind", currentPerk.soundVolume + rand.nextFloat() * 0.2F,  currentPerk.soundSpeed + rand.nextFloat() * 0.15F);
-    			
-    		}
+    		
     	}
 		//END PERKS
 		//#########################################################

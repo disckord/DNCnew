@@ -8,14 +8,16 @@ public class Perk {
 	public String name = "none";
 	public String particleEffect;
 	public String soundEffect;
-	public int particleMaxRange;
-	public int particleRange;
+	public int particleMaxRange = 1;
+	public int particleRange = 1;
 	public int soundMaxRange;
 	public int soundRange;
 	public float soundVolume;
 	public float vertVel;
 	public float soundSpeed;
 	public boolean hasSound = false;
+	public double heightVariationMultiplier = 0.6D;
+	public double spawnHeight;
 	public Perk(int id, String name, String particleEffect, String soundEffect)
 	{
 		if(perks[id] != null)
@@ -80,10 +82,20 @@ public class Perk {
 		this.hasSound = flag;
 		return this;
 	}
+	private Perk setHeightVarMult(double d)
+	{
+		this.heightVariationMultiplier = d;
+		return this;
+	}
+	private Perk setSpawnHeight(double d)
+	{
+		this.spawnHeight = d;
+		return this;
+	}
 	public static Perk none = new Perk(0, "none", "", "");
-	public static Perk flame = new Perk(1, "flames", "flame", "fire.fire").setParticleFrequency(100, 75).setSoundFrequency(200, 1).setSoundVolume(0.05F).setVertVelocity(0.005f).setSoundSpeed(1.2f).setHasSound(true);
-	public static Perk bubbles = new Perk(2, "bubbles", "bubble", "liquid.bubble").setParticleFrequency(100, 75).setSoundFrequency(200, 1).setSoundVolume(0.05F).setSoundSpeed(1.5f).setHasSound(true);
-	public static Perk blossom = new Perk(3, "blossom", "cherry").setParticleFrequency(175, 75).setSoundFrequency(275, 1).setSoundVolume(0.6F).setSoundSpeed(1.1f).setHasSound(true);
-	public static Perk hearts = new Perk(4, "hearts", "smallheart").setParticleFrequency(75, 75);
+	public static Perk flame = new Perk(1, "flames", "flame", "fire.fire").setParticleFrequency(100, 75).setSoundFrequency(200, 0).setSoundVolume(0.05F).setVertVelocity(0.005f).setSoundSpeed(1.2f).setHasSound(true);
+	public static Perk bubbles = new Perk(2, "bubbles", "bubble", "liquid.bubble").setParticleFrequency(100, 75).setSoundFrequency(200, 0).setSoundVolume(0.05F).setSoundSpeed(1.5f).setHasSound(true);
+	public static Perk blossom = new Perk(3, "blossom", "cherry", "random.wind").setParticleFrequency(2, 0).setSoundFrequency(275, 0).setSoundVolume(0.6F).setSoundSpeed(1.1f).setHasSound(true).setHeightVarMult(0.0D).setSpawnHeight(1.5D);
+	public static Perk hearts = new Perk(4, "hearts", "smallheart").setParticleFrequency(2, 0);
 
 }
