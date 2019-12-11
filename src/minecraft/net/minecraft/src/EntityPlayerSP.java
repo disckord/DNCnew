@@ -27,8 +27,7 @@ public class EntityPlayerSP extends EntityPlayer
     public String playerCloakUrl;
     public float renderArmPitch;
     public float prevRenderArmYaw;
-    public float prevRenderArmPitch;
-    private ThreadLoadSkin loadSkinThread;
+    public float prevRenderArmPitch;  
     private MouseFilter field_71162_ch = new MouseFilter();
     private MouseFilter field_71160_ci = new MouseFilter();
     private MouseFilter field_71161_cj = new MouseFilter();
@@ -50,8 +49,10 @@ public class EntityPlayerSP extends EntityPlayer
         if (par3Session != null && par3Session.username != null && par3Session.username.length() > 0)
         {
         	
-        	System.out.println(username);
-        	String s = SkinGetter.getUuid(username);
+        	
+        	//System.out.println(username);
+        	
+        	String s = SkinGetter.getUUID(username);
         	currentPerk = PerkGetter.getPerkByName(username);
             skinUrl = (new StringBuilder()).append("http://crafatar.com/skins/").append(s + ".png").toString();
         }
@@ -117,6 +118,7 @@ public class EntityPlayerSP extends EntityPlayer
     	}
 		//END PERKS
 		//#########################################################
+		
 		
 		
         if (this.sprintingTicksLeft > 0)

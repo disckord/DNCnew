@@ -103,7 +103,7 @@ public class ThreadDownloadResources extends Thread
 
     private void downloadAndInstallResource(URL url, String s, long l, int i)
     {
-    	System.out.println(s);
+    	//System.out.println(s);
     	if(!s.contains("jar") && !s.contains("newest") && !s.contains("other"))
         try
         {

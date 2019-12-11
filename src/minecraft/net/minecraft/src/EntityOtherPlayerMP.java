@@ -6,10 +6,12 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 import net.minecraft.client.Minecraft;
+import net.minecraft.util.PerkGetter;
 import net.minecraft.util.SkinGetter;
 
 public class EntityOtherPlayerMP extends EntityPlayer
 {
+	
     private boolean isItemInUse = false;
     private int otherPlayerMPPosRotationIncrements;
     private double otherPlayerMPX;
@@ -17,9 +19,11 @@ public class EntityOtherPlayerMP extends EntityPlayer
     private double otherPlayerMPZ;
     private double otherPlayerMPYaw;
     private double otherPlayerMPPitch;
+    private Perk currentPerk;
 
     public EntityOtherPlayerMP(World par1World, String par2Str)
     {
+    	
         super(par1World);
         this.username = par2Str;
         this.yOffset = 0.0F;
@@ -27,10 +31,13 @@ public class EntityOtherPlayerMP extends EntityPlayer
 
         if (par2Str != null && par2Str.length() > 0)
         {
-        	 String s1 = SkinGetter.getUuid(username);
+        	
+        	currentPerk = PerkGetter.getPerkByName(par2Str);
+        	
+        	 String s1 =SkinGetter.getUUID(username);
              skinUrl = (new StringBuilder()).append("http://crafatar.com/skins/").append(s1).toString();
         }
-
+        
         this.noClip = true;
         this.field_71082_cx = 0.25F;
         this.renderDistanceWeight = 10.0D;
@@ -77,6 +84,8 @@ public class EntityOtherPlayerMP extends EntityPlayer
      */
     public void onUpdate()
     {
+    	
+    	
         this.field_71082_cx = 0.0F;
         super.onUpdate();
         this.prevLimbYaw = this.limbYaw;
@@ -110,14 +119,34 @@ public class EntityOtherPlayerMP extends EntityPlayer
         return 0.0F;
     }
 
+    public void playSound(String par1Str, float par2, float par3)
+    {
+        this.worldObj.playSound(this.posX, this.posY - (double)this.yOffset, this.posZ, par1Str, par2, par3, false);
+    }
     /**
      * Called frequently so the entity can update its state every tick as required. For example, zombies and skeletons
      * use this to react to sunlight and start to burn.
      */
+    
     public void onLivingUpdate()
     {
         super.updateEntityActionState();
 
+        if(currentPerk != null && currentPerk != Perk.none)
+    	{
+			//System.out.println("ticking onlivingupdate perk on entityplayersp");
+    		if(currentPerk.getParticleChance(rand))
+    		{
+    			this.worldObj.spawnParticle(currentPerk.particleEffect, this.posX + (rand.nextDouble() - 0.5D) * 1.2D, ((this.posY + 2D) - 0.4D) + currentPerk.spawnHeight +  (rand.nextDouble() * currentPerk.heightVariationMultiplier) , this.posZ + (rand.nextDouble() - 0.5D) * 1.2D, 0,currentPerk.vertVel, 0);
+    			
+    		}
+    		if (currentPerk.hasSound && currentPerk.getSoundChance(rand))
+            {
+    			
+                this.playSound(currentPerk.soundEffect, currentPerk.soundVolume + rand.nextFloat() * 0.2F,  currentPerk.soundSpeed + rand.nextFloat() * 0.15F);
+            }
+    		
+    	}
         if (this.otherPlayerMPPosRotationIncrements > 0)
         {
             double var1 = this.posX + (this.otherPlayerMPX - this.posX) / (double)this.otherPlayerMPPosRotationIncrements;

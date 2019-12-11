@@ -2111,6 +2111,7 @@ public abstract class Minecraft implements Runnable, IPlayerUsage
         boolean var4 = false;
         String var5 = a1Version.defaultUName;//"Player" + getSystemTime() % 1000L;
         String var6 = var5;
+        String var69 = "0";
 
         if (par0ArrayOfStr.length > 0)
         {
@@ -2171,7 +2172,7 @@ public abstract class Minecraft implements Runnable, IPlayerUsage
         {
             var6 = var5;
         }
-
+        System.out.println(var69);
         var1.put("demo", "" + var2);
         var1.put("stand-alone", "" + var3);
         var1.put("username", var6);

@@ -2032,6 +2032,10 @@ public class RenderGlobal implements IWorldAccess
                     {
                     	 var21 = new EntitySmallHeartFX(this.theWorld, par2, par4, par6, par8, par10, par12);
                     }
+                    else if(par1Str.equals("snow"))
+                    {
+                    	 var21 = new EntitySnowFX(this.theWorld, par2, par4, par6, par8, par10, par12);
+                    }
                     else if(par1Str.equals("cherry"))
                     {
                     	 var21 = new EntityBlossomFX(this.theWorld, par2, par4, par6, par8, par10, par12);

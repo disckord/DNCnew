@@ -461,15 +461,9 @@ public class ItemRenderer
             var10 = MathHelper.sin(MathHelper.sqrt_float(var19) * (float)Math.PI);
             GL11.glRotatef(var10 * 70.0F, 0.0F, 1.0F, 0.0F);
             GL11.glRotatef(-var21 * 20.0F, 0.0F, 0.0F, 1.0F);
-            if(this.mc.thePlayer.getEntityName() == "Enbi")
-            {
-            	  GL11.glBindTexture(GL11.GL_TEXTURE_2D, this.mc.renderEngine.getTexture("/Enbi.png"));
-                  
-            }
-            else
-            {
+           
             GL11.glBindTexture(GL11.GL_TEXTURE_2D, this.mc.renderEngine.getTextureForDownloadableImage(this.mc.thePlayer.skinUrl, this.mc.thePlayer.getTexture()));
-            }
+            
             this.mc.renderEngine.resetBoundTexture();
             GL11.glTranslatef(-1.0F, 3.6F, 3.5F);
             GL11.glRotatef(120.0F, 0.0F, 0.0F, 1.0F);

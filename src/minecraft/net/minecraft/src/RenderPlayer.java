@@ -19,12 +19,7 @@ public class RenderPlayer extends RenderLiving
 
     protected void bindDownloadedSkinTexture(EntityPlayer par1EntityPlayer)
     {
-    	if(par1EntityPlayer.getEntityName() == "Enbi")
-    	{
-    		//System.out.println("binding skin for enbi");
-    		this.loadTexture("/Enbi.png");
-    	}
-    	else
+    	
         this.loadDownloadableImageTexture(par1EntityPlayer.skinUrl, par1EntityPlayer.getTexture());
     	
     }

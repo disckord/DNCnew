@@ -2,7 +2,7 @@ package net.minecraft.src;
 
 public class EntityBlossomFX extends EntityFX
 {
-    float particleScaleOverTime;
+   
     int i;
     boolean stop = false;
     public EntityBlossomFX(World par1World, double par2, double par4, double par6, double par8, double par10, double par12)
@@ -19,7 +19,6 @@ public class EntityBlossomFX extends EntityFX
         this.motionY = -0.04D - (rand.nextFloat() * 0.04f);
         this.particleScale *= 0.25F;
         this.particleScale *= par14;
-        this.particleScaleOverTime = this.particleScale;
         this.particleMaxAge = 102;
         this.noClip = false;
         this.setParticleTextureIndex(15);

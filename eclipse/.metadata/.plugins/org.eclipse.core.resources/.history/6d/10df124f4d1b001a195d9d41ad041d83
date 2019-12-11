@@ -1,0 +1,34 @@
+package net.minecraft.util;
+
+import net.minecraft.src.Perk;
+
+public class PerkGetter {
+	
+	public static Perk getPerkByName(String name)
+	{
+		System.out.println("getting perk for " + name);
+		if(name == null)
+		{
+			return Perk.none;
+		}
+		if(name.equals("Disharmony"))
+		{
+			return Perk.flame;
+		}
+		if(name.equals("disckord"))
+		{
+			//System.out.println("perkgetter name is equal to disckord!");
+			return Perk.snow;
+		}
+		if(name.equals("Enbi"))
+		{
+			//System.out.println("perkgetter name is equal to Enbi!");
+			return Perk.blossom;
+		}
+		else
+		{
+		//	System.out.println("perkgetter is returning None for " + name);
+			return Perk.none;
+		}
+	}
+}
