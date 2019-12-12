@@ -43,7 +43,7 @@ public class ReflectorField
                 }
                 catch (NoSuchFieldException var4)
                 {
-                    Config.log("(Reflector) Field not present: " + var1.getName() + "." + this.targetFieldName);
+                  //  Config.log("(Reflector) Field not present: " + var1.getName() + "." + this.targetFieldName);
                 }
 
                 return this.targetField;

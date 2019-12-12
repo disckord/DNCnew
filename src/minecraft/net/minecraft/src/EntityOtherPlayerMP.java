@@ -137,7 +137,7 @@ public class EntityOtherPlayerMP extends EntityPlayer
 			//System.out.println("ticking onlivingupdate perk on entityplayersp");
     		if(currentPerk.getParticleChance(rand))
     		{
-    			this.worldObj.spawnParticle(currentPerk.particleEffect, this.posX + (rand.nextDouble() - 0.5D) * 1.2D, ((this.posY + 2D) - 0.4D) + currentPerk.spawnHeight +  (rand.nextDouble() * currentPerk.heightVariationMultiplier) , this.posZ + (rand.nextDouble() - 0.5D) * 1.2D, 0,currentPerk.vertVel, 0);
+    			this.worldObj.spawnParticle(currentPerk.particleEffect, this.posX + (rand.nextDouble() - 0.5D) * 1.2D, ((this.posY + 1.7D) - 0.4D) + currentPerk.spawnHeight +  (rand.nextDouble() * currentPerk.heightVariationMultiplier) , this.posZ + (rand.nextDouble() - 0.5D) * 1.2D, 0,currentPerk.vertVel, 0);
     			
     		}
     		if (currentPerk.hasSound && currentPerk.getSoundChance(rand))

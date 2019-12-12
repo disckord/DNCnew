@@ -2687,10 +2687,10 @@ public class RenderBlocks
     {
         Tessellator var5 = Tessellator.instance;
         int var6 = this.blockAccess.getBlockMetadata(x, y, z);
-        Icon var7 = BlockRedstoneWire.func_94409_b("redstoneDust_cross");
-        Icon redstoneLine = BlockRedstoneWire.func_94409_b("redstoneDust_line");
-        Icon var9 = BlockRedstoneWire.func_94409_b("redstoneDust_cross_overlay");
-        Icon var10 = BlockRedstoneWire.func_94409_b("redstoneDust_line_overlay");
+        Icon var7 = BlockRedstoneWire.getRedstoneWireIcon("redstoneDust_cross");
+        Icon redstoneLine = BlockRedstoneWire.getRedstoneWireIcon("redstoneDust_line");
+        Icon var9 = BlockRedstoneWire.getRedstoneWireIcon("redstoneDust_cross_overlay");
+        Icon var10 = BlockRedstoneWire.getRedstoneWireIcon("redstoneDust_line_overlay");
         var5.setBrightness(par1Block.getMixedBrightnessForBlock(this.blockAccess, x, y, z));
         float var11 = 1.0F;
         float var12 = (float)var6 / 15.0F;

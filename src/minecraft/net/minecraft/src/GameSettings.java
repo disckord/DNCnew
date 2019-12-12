@@ -34,24 +34,24 @@ public class GameSettings
     public boolean anaglyph = false;
 
     /** Advanced OpenGL */
-    public boolean advancedOpengl = false;
+    public boolean advancedOpengl = true;
     public int limitFramerate = 1;
-    public boolean fancyGraphics = true;
+    public boolean fancyGraphics = false;
 
     /** Smooth Lighting */
-    public int ambientOcclusion = 2;
+    public int ambientOcclusion = 0;
 
     /*added booleans*/
-    public boolean alphaTextures = false;
+    public boolean alphaTextures = true;
     public boolean alphaFoliage = false;
-    public boolean oldChests = false;
+    public boolean oldChests = true;
     public boolean clearGlass = false;
     /** Clouds flag */
     public boolean clouds = true;
     public int ofRenderDistanceFine = 128;
     public int ofLimitFramerateFine = 0;
-    public int ofFogType = 1;
-    public float ofFogStart = 0.8F;
+    public int ofFogType = 2;
+    public float ofFogStart = 0.2F;
     public int ofMipmapLevel = 0;
     public int ofMipmapType = 0;
     public boolean ofLoadFar = false;
@@ -60,16 +60,16 @@ public class GameSettings
     public boolean ofSmoothFps = false;
     public boolean ofSmoothWorld = Config.isSingleProcessor();
     public boolean ofLazyChunkLoading = Config.isSingleProcessor();
-    public float ofAoLevel = 1.0F;
+    public float ofAoLevel = 0.0F;
     public int ofAaLevel = 0;
     public int ofAfLevel = 1;
     public int ofClouds = 0;
     public float ofCloudsHeight = 0.0F;
-    public int ofTrees = 0;
-    public int ofGrass = 0;
+    public int ofTrees = 2;
+    public int ofGrass = 2;
     public int ofRain = 0;
     public int ofWater = 0;
-    public int ofDroppedItems = 0;
+    public int ofDroppedItems = 1;
     public int ofBetterGrass = 3;
     public int ofAutoSaveTicks = 4000;
     public boolean ofLagometer = false;
@@ -87,10 +87,10 @@ public class GameSettings
     public boolean ofBetterSnow = false;
     public String ofFullscreenMode = "Default";
     public boolean ofSwampColors = true;
-    public boolean ofRandomMobs = true;
+    public boolean ofRandomMobs = false;
     public boolean ofSmoothBiomes = true;
     public boolean ofCustomFonts = true;
-    public boolean ofCustomColors = true;
+    public boolean ofCustomColors = false;
     public boolean ofCustomSky = true;
     public boolean ofShowCapes = true;
     public int ofConnectedTextures = 2;
@@ -208,6 +208,8 @@ public class GameSettings
     /** Game settings language */
     public String language;
     private File optionsFileOF;
+	public boolean fpperks;
+	public boolean perkSound;
 
     public GameSettings(Minecraft par1Minecraft, File par2File)
     {
@@ -217,6 +219,8 @@ public class GameSettings
         this.keyBindings = new KeyBinding[] {this.keyBindAttack, this.keyBindUseItem, this.keyBindForward, this.keyBindLeft, this.keyBindBack, this.keyBindRight, this.keyBindJump, this.keyBindSneak, this.keyBindDrop, this.keyBindInventory, this.keyBindChat, this.keyBindPlayerList, this.keyBindPickBlock, this.ofKeyBindZoom, this.keyBindCommand};
         this.difficulty = 2;
         this.hideGUI = false;
+        this.fpperks = false;
+        this.perkSound = true;
         this.thirdPersonView = 0;
         this.showDebugInfo = false;
         this.showDebugProfilerChart = false;
@@ -246,6 +250,8 @@ public class GameSettings
         this.keyBindings = new KeyBinding[] {this.keyBindAttack, this.keyBindUseItem, this.keyBindForward, this.keyBindLeft, this.keyBindBack, this.keyBindRight, this.keyBindJump, this.keyBindSneak, this.keyBindDrop, this.keyBindInventory, this.keyBindChat, this.keyBindPlayerList, this.keyBindPickBlock, this.ofKeyBindZoom, this.keyBindCommand};
         this.difficulty = 2;
         this.hideGUI = false;
+        this.perkSound = true;
+        this.fpperks = false;
         this.thirdPersonView = 0;
         this.showDebugInfo = false;
         this.showDebugProfilerChart = false;
@@ -635,6 +641,14 @@ public class GameSettings
         {
             this.oldChests = !this.oldChests;
             this.mc.renderGlobal.loadRenderers();
+        }
+        if (par1EnumOptions == EnumOptions.FPPERKS)
+        {
+            this.fpperks = !this.fpperks;
+        }
+        if (par1EnumOptions == EnumOptions.PERKSOUND)
+        {
+            this.perkSound = !this.perkSound;
         }
         if (par1EnumOptions == EnumOptions.CLEARGLASS)
         {
@@ -1266,6 +1280,10 @@ public class GameSettings
             	return this.oldChests;
             case 19:
             	return this.clearGlass;
+            case 20:
+            	return this.fpperks;
+            case 21:
+            	return this.perkSound;
 
             default:
                 return false;
@@ -1642,6 +1660,14 @@ public class GameSettings
             {
                 return this.oldChests ? var4 + "ON" : var4 + "OFF";
             }
+            else if (par1EnumOptions == EnumOptions.FPPERKS)
+            {
+                return this.fpperks ? var4 + "ON" : var4 + "OFF";
+            }
+            else if (par1EnumOptions == EnumOptions.PERKSOUND)
+            {
+                return this.perkSound ? var4 + "ON" : var4 + "OFF";
+            }
             else if (par1EnumOptions == EnumOptions.CLEARGLASS)
             {
                 return this.clearGlass ? var4 + "ON" : var4 + "OFF";
@@ -2007,6 +2033,14 @@ public class GameSettings
                     if (var3[0].equals("oldChests"))
                     {
                         this.oldChests = var3[1].equals("true");
+                    }
+                    if (var3[0].equals("firstPersonPerks"))
+                    {
+                        this.fpperks = var3[1].equals("true");
+                    }
+                    if (var3[0].equals("perkSounds"))
+                    {
+                        this.perkSound = var3[1].equals("true");
                     }
                     if (var3[0].equals("clearGlass"))
                     {
@@ -2530,6 +2564,8 @@ public class GameSettings
             var5.println("chatScale:" + this.chatScale);
             var5.println("chatWidth:" + this.chatWidth);
             
+            var5.println("perkSounds:" + this.perkSound);
+            var5.println("firstPersonPerks:" + this.fpperks);
             var5.println("alphaTextures:" + this.alphaTextures);
             var5.println("alphaFoliage:" + this.alphaFoliage);
             var5.println("oldChests:" + this.oldChests);

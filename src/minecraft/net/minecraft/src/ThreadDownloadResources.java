@@ -104,7 +104,7 @@ public class ThreadDownloadResources extends Thread
     private void downloadAndInstallResource(URL url, String s, long l, int i)
     {
     	//System.out.println(s);
-    	if(!s.contains("jar") && !s.contains("newest") && !s.contains("other"))
+    	if(!s.contains("jar") && !s.contains("newest") && !s.contains("other") && !s.contains(".json"))
         try
         {
             int j = s.indexOf("/");

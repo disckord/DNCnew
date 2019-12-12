@@ -384,14 +384,14 @@ public class ItemRenderer
             {
                 EnumAction var23 = var17.getItemUseAction();
 
-                if (var23 == EnumAction.block)
+               /* if (var23 == EnumAction.block)
                 {
                     GL11.glTranslatef(-0.5F, 0.2F, 0.0F);
                     GL11.glRotatef(30.0F, 0.0F, 1.0F, 0.0F);
                     GL11.glRotatef(-80.0F, 1.0F, 0.0F, 0.0F);
                     GL11.glRotatef(60.0F, 0.0F, 1.0F, 0.0F);
                 }
-                else if (var23 == EnumAction.bow)
+                else*/ if (var23 == EnumAction.bow)
                 {
                     GL11.glRotatef(-18.0F, 0.0F, 0.0F, 1.0F);
                     GL11.glRotatef(-12.0F, 0.0F, 1.0F, 0.0F);

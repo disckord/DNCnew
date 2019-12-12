@@ -101,6 +101,8 @@ public enum EnumOptions
 	ALPHATEXTURES("Alpha textures", false, true),
 	ALPHAFOLIAGE("Alpha Foliage", false, true),
 	OLDCHESTS("Old Chests", false, true),
+	FPPERKS("First Person Perks", false, true),
+	PERKSOUND("Personal Perk Noise", false, true),
 	CLEARGLASS("Clear Glass", false, true);
     private final boolean enumFloat;
     private final boolean enumBoolean;

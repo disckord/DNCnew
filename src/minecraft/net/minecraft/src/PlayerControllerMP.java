@@ -277,7 +277,7 @@ public class PlayerControllerMP
      */
     public float getBlockReachDistance()
     {
-        return this.currentGameType.isCreative() ? 10.0F : 4F;
+        return 4F;
     }
 
     public void updateController()

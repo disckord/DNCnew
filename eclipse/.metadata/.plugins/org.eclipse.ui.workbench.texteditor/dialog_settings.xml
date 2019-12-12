@@ -2,30 +2,30 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="renderHand" key="selection"/>
+		<item value=") ? " key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
-			<item value="enbi"/>
-			<item value="renderhand"/>
-			<item value="func_98190_a"/>
-			<item value="system.out"/>
-			<item value="main("/>
-			<item value="render"/>
-			<item value="renderliving"/>
-			<item value="skinurl"/>
+			<item value=" ? "/>
+			<item value=" == "/>
+			<item value="redstonewire"/>
+			<item value="fog"/>
+			<item value="items"/>
+			<item value="trees"/>
+			<item value="lighting"/>
+			<item value="ao"/>
 		</list>
 		<list key="replacehistory">
+			<item value=") ? "/>
+			<item value=".equals("/>
 			<item value="var6"/>
 			<item value="super.getBlockIdBasedOnHeight(1,1,1)"/>
 			<item value="super."/>
 			<item value=" 1"/>
 			<item value="1"/>
 			<item value="prevSortZ"/>
-			<item value="prevSortY"/>
-			<item value="prevSortX"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">

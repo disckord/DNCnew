@@ -127,7 +127,7 @@ public class RenderPlayer extends RenderLiving
 
             if (var12 == EnumAction.block)
             {
-                this.modelArmorChestplate.heldItemRight = this.modelArmor.heldItemRight = this.modelBipedMain.heldItemRight = 3;
+               // this.modelArmorChestplate.heldItemRight = this.modelArmor.heldItemRight = this.modelBipedMain.heldItemRight = 3;
             }
             else if (var12 == EnumAction.bow)
             {
@@ -314,13 +314,13 @@ public class RenderPlayer extends RenderLiving
                     GL11.glTranslatef(0.0F, -0.125F, 0.0F);
                 }
 
-                if (par1EntityPlayer.getItemInUseCount() > 0 && var25 == EnumAction.block)
+             /*   if (par1EntityPlayer.getItemInUseCount() > 0 && var25 == EnumAction.block)
                 {
                     GL11.glTranslatef(0.05F, 0.0F, -0.1F);
                     GL11.glRotatef(-50.0F, 0.0F, 1.0F, 0.0F);
                     GL11.glRotatef(-10.0F, 1.0F, 0.0F, 0.0F);
                     GL11.glRotatef(-60.0F, 0.0F, 0.0F, 1.0F);
-                }
+                }*/
 
                 GL11.glTranslatef(0.0F, 0.1875F, 0.0F);
                 GL11.glScalef(var7, -var7, var7);

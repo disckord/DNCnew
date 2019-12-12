@@ -184,7 +184,7 @@ public abstract class EntityPlayer extends EntityLiving implements ICommandSende
 
     public boolean isBlocking()
     {
-        return this.isUsingItem() && Item.itemsList[this.itemInUse.itemID].getItemUseAction(this.itemInUse) == EnumAction.block;
+        return false;//this.isUsingItem() && Item.itemsList[this.itemInUse.itemID].getItemUseAction(this.itemInUse) == EnumAction.block;
     }
 
     /**

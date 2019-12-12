@@ -52770,3 +52770,620 @@
 2019-12-11 11:22:46 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
 2019-12-11 11:22:46 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
 2019-12-11 11:23:12 [CLIENT] [INFO] Stopping!
+2019-12-11 13:09:57 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 13:09:57 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 13:10:00 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 13:10:00 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 13:10:00 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 13:10:00 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 13:10:00 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 13:10:00 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 13:10:00 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 13:10:01 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 13:10:01 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 13:10:10 [CLIENT] [INFO] [CHAT] Saved screenshot as 2019-12-11_13.10.10.png
+2019-12-11 13:10:30 [CLIENT] [INFO] [CHAT] Local game hosted on 0.0.0.0:51202
+2019-12-11 13:10:30 [CLIENT] [WARNING] LanServerPinger: Network is unreachable: Datagram send failed
+2019-12-11 13:10:45 [CLIENT] [INFO] [CHAT] §edisckord§e joined the game.
+2019-12-11 13:13:27 [CLIENT] [INFO] [CHAT] §edisckord left the game.
+2019-12-11 13:13:30 [CLIENT] [INFO] Stopping!
+2019-12-11 13:13:38 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 13:13:38 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 13:13:41 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 13:13:41 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 13:13:41 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 13:13:41 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 13:13:41 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 13:13:41 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 13:13:41 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 13:13:42 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 13:13:42 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 13:13:54 [CLIENT] [INFO] [CHAT] Changing to clear weather
+2019-12-11 13:13:57 [CLIENT] [INFO] [CHAT] Set the time to 0
+2019-12-11 13:14:05 [CLIENT] [INFO] [CHAT] Local game hosted on 0.0.0.0:51204
+2019-12-11 13:14:05 [CLIENT] [WARNING] LanServerPinger: Network is unreachable: Datagram send failed
+2019-12-11 13:14:24 [CLIENT] [INFO] [CHAT] §edisckord§e joined the game.
+2019-12-11 13:22:00 [CLIENT] [INFO] Stopping!
+2019-12-11 13:22:40 [CLIENT] [INFO] Setting user: disharmony
+2019-12-11 13:22:40 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 13:22:43 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 13:22:43 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 13:22:43 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 13:22:43 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 13:22:43 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 13:22:43 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 13:22:43 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 13:22:44 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 13:22:44 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 13:23:00 [CLIENT] [INFO] Setting user: disharmony
+2019-12-11 13:23:00 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 13:23:15 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 13:23:15 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 13:23:18 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 13:23:18 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 13:23:18 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 13:23:18 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 13:23:18 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 13:23:18 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 13:23:18 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 13:23:19 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 13:23:19 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 13:23:27 [CLIENT] [INFO] Stopping!
+2019-12-11 13:23:49 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 13:23:49 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 13:23:51 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 13:23:51 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 13:23:51 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 13:23:51 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 13:23:51 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 13:23:51 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 13:23:51 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 13:23:52 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 13:23:52 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 13:24:01 [CLIENT] [INFO] Stopping!
+2019-12-11 13:24:06 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 13:24:06 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 13:24:09 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 13:24:09 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 13:24:09 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 13:24:09 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 13:24:09 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 13:24:09 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 13:24:09 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 13:24:09 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 13:24:09 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 13:24:19 [CLIENT] [INFO] Stopping!
+2019-12-11 16:36:30 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 16:36:31 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 16:36:33 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 16:36:33 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 16:36:33 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 16:36:33 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 16:36:33 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 16:36:33 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 16:36:33 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 16:36:34 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 16:36:34 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 16:36:58 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 1757 to go!
+2019-12-11 16:37:08 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 16:37:08 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 16:37:11 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 16:37:11 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 16:37:11 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 16:37:11 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 16:37:11 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 16:37:11 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 16:37:11 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 16:37:11 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 16:37:11 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 16:37:34 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 1759 to go!
+2019-12-11 16:40:56 [CLIENT] [INFO] Stopping!
+2019-12-11 16:42:17 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 16:42:17 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 16:42:19 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 16:42:19 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 16:42:19 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 16:42:19 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 16:42:19 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 16:42:19 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 16:42:19 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 16:42:20 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 16:42:20 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 16:42:43 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 1525 to go!
+2019-12-11 16:42:54 [CLIENT] [INFO] Stopping!
+2019-12-11 16:49:04 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 16:49:04 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 16:49:07 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 16:49:07 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 16:49:07 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 16:49:07 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 16:49:07 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 16:49:07 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 16:49:07 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 16:49:07 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 16:49:07 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 16:49:33 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 780 to go!
+2019-12-11 16:49:39 [CLIENT] [INFO] Stopping!
+2019-12-11 17:47:07 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 17:47:07 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 17:47:11 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 17:47:11 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 17:47:11 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 17:47:11 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 17:47:11 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 17:47:11 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 17:47:11 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 17:47:12 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 17:47:12 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 17:47:51 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 17:47:51 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 17:47:53 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 17:47:53 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 17:47:53 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 17:47:53 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 17:47:53 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 17:47:53 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 17:47:53 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 17:47:54 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 17:47:54 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 17:49:28 [CLIENT] [INFO] Stopping!
+2019-12-11 22:33:11 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 22:33:11 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 22:33:15 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 22:33:15 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 22:33:15 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 22:33:15 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 22:33:15 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 22:33:15 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 22:33:15 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 22:33:15 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 22:33:15 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 22:35:03 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 22:35:03 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 22:35:06 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 22:35:06 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 22:35:06 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 22:35:06 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 22:35:06 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 22:35:06 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 22:35:06 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 22:35:06 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 22:35:06 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 22:35:10 [CLIENT] [INFO] Stopping!
+2019-12-11 22:38:38 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 22:38:38 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 22:38:41 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 22:38:41 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 22:38:41 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 22:38:41 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 22:38:41 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 22:38:41 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 22:38:41 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 22:38:42 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 22:38:42 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 22:43:18 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 22:43:18 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 22:43:20 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 22:43:20 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 22:43:20 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 22:43:20 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 22:43:20 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 22:43:20 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 22:43:20 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 22:43:21 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 22:43:21 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 22:43:29 [CLIENT] [INFO] Stopping!
+2019-12-11 22:43:36 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 22:43:36 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 22:43:39 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 22:43:39 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 22:43:39 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 22:43:39 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 22:43:39 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 22:43:39 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 22:43:39 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 22:43:40 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 22:43:40 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 22:43:48 [CLIENT] [INFO] Stopping!
+2019-12-11 22:43:52 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 22:43:53 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 22:43:55 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 22:43:55 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 22:43:55 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 22:43:55 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 22:43:55 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 22:43:55 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 22:43:55 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 22:43:56 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 22:43:56 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 22:43:59 [CLIENT] [INFO] Stopping!
+2019-12-11 22:44:04 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 22:44:04 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 22:44:07 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 22:44:07 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 22:44:07 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 22:44:07 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 22:44:07 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 22:44:07 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 22:44:07 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 22:44:08 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 22:44:08 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 22:44:14 [CLIENT] [INFO] Stopping!
+2019-12-11 22:44:20 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 22:44:20 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 22:44:23 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 22:44:23 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 22:44:23 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 22:44:23 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 22:44:23 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 22:44:23 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 22:44:23 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 22:44:24 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 22:44:24 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 22:44:27 [CLIENT] [INFO] Stopping!
+2019-12-11 22:44:40 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 22:44:40 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 22:44:43 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 22:44:43 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 22:44:43 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 22:44:43 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 22:44:43 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 22:44:43 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 22:44:43 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 22:44:43 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 22:44:43 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 22:45:05 [CLIENT] [INFO] Stopping!
+2019-12-11 22:45:10 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 22:45:10 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 22:45:13 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 22:45:13 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 22:45:13 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 22:45:13 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 22:45:13 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 22:45:13 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 22:45:13 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 22:45:14 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 22:45:14 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 22:45:16 [CLIENT] [INFO] Stopping!
+2019-12-11 22:45:24 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 22:45:24 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 22:45:27 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 22:45:27 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 22:45:27 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 22:45:27 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 22:45:27 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 22:45:27 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 22:45:27 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 22:45:28 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 22:45:28 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 22:45:48 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 22:45:48 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 22:45:50 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 22:45:50 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 22:45:50 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 22:45:50 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 22:45:50 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 22:45:50 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 22:45:50 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 22:45:51 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 22:45:51 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 22:46:08 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 22:46:08 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 22:46:10 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 22:46:10 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 22:46:10 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 22:46:10 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 22:46:10 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 22:46:10 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 22:46:10 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 22:46:11 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 22:46:11 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 22:46:46 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 22:46:46 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 22:46:48 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 22:46:48 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 22:46:48 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 22:46:48 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 22:46:48 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 22:46:48 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 22:46:48 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 22:46:49 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 22:46:49 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 22:47:05 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 22:47:05 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 22:47:07 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 22:47:07 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 22:47:07 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 22:47:07 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 22:47:07 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 22:47:07 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 22:47:07 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 22:47:08 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 22:47:08 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 22:47:14 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 22:47:14 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 22:47:17 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 22:47:17 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 22:47:17 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 22:47:17 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 22:47:17 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 22:47:17 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 22:47:17 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 22:47:18 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 22:47:18 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 22:47:25 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 22:47:25 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 22:47:28 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 22:47:28 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 22:47:28 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 22:47:28 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 22:47:28 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 22:47:28 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 22:47:28 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 22:47:29 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 22:47:29 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 22:47:57 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 22:47:57 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 22:48:00 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 22:48:00 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 22:48:00 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 22:48:00 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 22:48:00 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 22:48:00 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 22:48:00 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 22:48:01 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 22:48:01 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 22:48:17 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 22:48:17 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 22:48:19 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 22:48:19 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 22:48:19 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 22:48:19 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 22:48:19 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 22:48:19 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 22:48:19 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 22:48:20 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 22:48:20 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 22:48:27 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 22:48:27 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 22:48:30 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 22:48:30 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 22:48:30 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 22:48:30 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 22:48:30 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 22:48:30 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 22:48:30 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 22:48:30 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 22:48:30 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 22:48:51 [CLIENT] [INFO] Stopping!
+2019-12-11 22:49:51 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 22:49:51 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 22:49:54 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 22:49:54 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 22:49:54 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 22:49:54 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 22:49:54 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 22:49:54 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 22:49:54 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 22:49:54 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 22:49:54 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 22:49:58 [CLIENT] [INFO] Stopping!
+2019-12-11 22:59:25 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 22:59:25 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 22:59:27 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 22:59:27 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 22:59:27 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 22:59:27 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 22:59:27 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 22:59:27 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 22:59:27 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 22:59:28 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 22:59:28 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 22:59:31 [CLIENT] [INFO] Stopping!
+2019-12-11 23:00:00 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 23:00:00 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 23:00:03 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 23:00:03 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 23:00:03 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 23:00:03 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 23:00:03 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 23:00:03 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 23:00:03 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 23:00:04 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 23:00:04 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 23:00:32 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 23:00:32 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 23:00:40 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 23:00:40 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 23:00:42 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 23:00:42 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 23:00:42 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 23:00:42 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 23:00:42 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 23:00:42 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 23:00:42 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 23:00:43 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 23:00:43 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 23:00:49 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 23:00:49 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 23:00:52 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 23:00:52 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 23:00:52 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 23:00:52 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 23:00:52 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 23:00:52 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 23:00:52 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 23:00:52 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 23:00:52 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 23:00:56 [CLIENT] [INFO] Stopping!
+2019-12-11 23:06:56 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 23:06:56 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 23:06:58 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 23:06:58 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 23:06:58 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 23:06:58 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 23:06:58 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 23:06:58 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 23:06:58 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 23:06:59 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 23:06:59 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 23:12:56 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 23:12:56 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 23:12:59 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 23:12:59 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 23:12:59 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 23:12:59 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 23:12:59 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 23:12:59 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 23:12:59 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 23:13:00 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 23:13:00 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 23:13:08 [CLIENT] [INFO] Stopping!
+2019-12-11 23:14:52 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 23:14:52 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 23:14:55 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 23:14:55 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 23:14:55 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 23:14:55 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 23:14:55 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 23:14:55 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 23:14:55 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 23:14:55 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 23:14:55 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 23:15:00 [CLIENT] [INFO] Stopping!
+2019-12-11 23:15:37 [CLIENT] [INFO] Setting user: Disharmony
+2019-12-11 23:15:37 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 23:15:39 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 23:15:39 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 23:15:39 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 23:15:39 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 23:15:39 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 23:15:39 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 23:15:39 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 23:15:40 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 23:15:40 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 23:16:18 [CLIENT] [INFO] Stopping!
+2019-12-11 23:16:23 [CLIENT] [INFO] Setting user: disckord
+2019-12-11 23:16:23 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 23:16:26 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 23:16:26 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 23:16:26 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 23:16:26 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 23:16:26 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 23:16:26 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 23:16:26 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 23:16:26 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 23:16:26 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 23:17:27 [CLIENT] [INFO] Stopping!
+2019-12-11 23:17:33 [CLIENT] [INFO] Setting user: Enbi
+2019-12-11 23:17:33 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 23:17:36 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 23:17:36 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 23:17:36 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 23:17:36 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 23:17:36 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 23:17:36 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 23:17:36 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 23:17:37 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 23:17:37 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 23:17:43 [CLIENT] [INFO] [CHAT] Set the time to 0
+2019-12-11 23:18:20 [CLIENT] [INFO] Stopping!
+2019-12-11 23:22:19 [CLIENT] [INFO] Setting user: Enbi
+2019-12-11 23:22:19 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-11 23:22:21 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-11 23:22:21 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-11 23:22:21 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-11 23:22:21 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-11 23:22:21 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-11 23:22:21 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-11 23:22:21 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-11 23:22:22 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-11 23:22:22 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-11 23:22:50 [CLIENT] [INFO] [CHAT] Changing to clear weather
+2019-12-11 23:23:15 [CLIENT] [INFO] Stopping!
+2019-12-12 17:24:29 [CLIENT] [INFO] Setting user: Enbi
+2019-12-12 17:24:29 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-12 17:24:33 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-12 17:24:33 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-12 17:24:33 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-12 17:24:33 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-12 17:24:33 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-12 17:24:33 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-12 17:24:33 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-12 17:24:33 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-12 17:24:33 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-12 17:25:25 [CLIENT] [INFO] Stopping!
+2019-12-12 17:25:46 [CLIENT] [INFO] Setting user: Enbi
+2019-12-12 17:25:46 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-12 17:25:48 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-12 17:25:48 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-12 17:25:48 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-12 17:25:48 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-12 17:25:48 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-12 17:25:48 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-12 17:25:48 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-12 17:25:49 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-12 17:25:49 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-12 17:26:06 [CLIENT] [INFO] Stopping!
+2019-12-12 17:26:21 [CLIENT] [INFO] Setting user: Enbi
+2019-12-12 17:26:21 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-12 17:26:24 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-12 17:26:24 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-12 17:26:24 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-12 17:26:24 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-12 17:26:24 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-12 17:26:24 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-12 17:26:24 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-12 17:26:25 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-12 17:26:25 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-12 17:26:59 [CLIENT] [INFO] Stopping!
+2019-12-12 17:27:19 [CLIENT] [INFO] Setting user: Enbi
+2019-12-12 17:27:19 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-12 17:27:22 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-12 17:27:22 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-12 17:27:22 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-12 17:27:22 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-12 17:27:22 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-12 17:27:22 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-12 17:27:22 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-12 17:27:23 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-12 17:27:23 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-12 17:27:41 [CLIENT] [INFO] Stopping!
+2019-12-12 17:27:49 [CLIENT] [INFO] Setting user: Enbi
+2019-12-12 17:27:49 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-12 17:27:52 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-12 17:27:52 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-12 17:27:52 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-12 17:27:52 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-12 17:27:52 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-12 17:27:52 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-12 17:27:52 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-12 17:27:53 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-12 17:27:53 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-12 17:28:01 [CLIENT] [INFO] Stopping!
+2019-12-12 17:28:16 [CLIENT] [INFO] Setting user: Enbi
+2019-12-12 17:28:16 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-12 17:28:19 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-12 17:28:19 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-12 17:28:19 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-12 17:28:19 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-12 17:28:19 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-12 17:28:19 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-12 17:28:19 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-12 17:28:20 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-12 17:28:20 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-12 17:28:52 [CLIENT] [INFO] Stopping!
+2019-12-12 17:29:21 [CLIENT] [INFO] Setting user: Enbi
+2019-12-12 17:29:21 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-12 17:29:26 [CLIENT] [INFO] Setting user: Enbi
+2019-12-12 17:29:26 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2019-12-12 17:29:29 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2019-12-12 17:29:29 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2019-12-12 17:29:29 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2019-12-12 17:29:29 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2019-12-12 17:29:29 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2019-12-12 17:29:29 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2019-12-12 17:29:29 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2019-12-12 17:29:30 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2019-12-12 17:29:30 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2019-12-12 17:32:48 [CLIENT] [INFO] Stopping!

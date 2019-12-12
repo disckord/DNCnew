@@ -53,7 +53,7 @@ public class ReflectorMethod
                 {
                     if (var3 >= var2.length)
                     {
-                        Config.log("(Reflector) Method not pesent: " + var1.getName() + "." + this.targetMethodName);
+                       // Config.log("(Reflector) Method not pesent: " + var1.getName() + "." + this.targetMethodName);
                         return null;
                     }
 

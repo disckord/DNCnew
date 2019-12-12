@@ -549,8 +549,8 @@ public class BlockRedstoneWire extends Block
         this.blockIcon = this.field_94413_c;
     }
 
-    public static Icon func_94409_b(String par0Str)
+    public static Icon getRedstoneWireIcon(String par0Str)
     {
-        return par0Str == "redstoneDust_cross" ? Block.redstoneWire.field_94413_c : (par0Str == "redstoneDust_line" ? Block.redstoneWire.field_94410_cO : (par0Str == "redstoneDust_cross_overlay" ? Block.redstoneWire.field_94411_cP : (par0Str == "redstoneDust_line_overlay" ? Block.redstoneWire.field_94412_cQ : null)));
+        return par0Str.equals("redstoneDust_cross") ? Block.redstoneWire.field_94413_c : (par0Str.equals("redstoneDust_line") ? Block.redstoneWire.field_94410_cO : (par0Str.equals("redstoneDust_cross_overlay") ? Block.redstoneWire.field_94411_cP : (par0Str.equals("redstoneDust_line_overlay") ? Block.redstoneWire.field_94412_cQ : null)));
     }
 }

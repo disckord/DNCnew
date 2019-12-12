@@ -172,5 +172,21 @@ class EnumOptionsHelper
         {
             ;
         }
+        try
+        {
+            enumOptionsMappingHelperArray[EnumOptions.FPPERKS.ordinal()] = 20;
+        }
+        catch (NoSuchFieldError var1)
+        {
+            ;
+        }
+        try
+        {
+            enumOptionsMappingHelperArray[EnumOptions.PERKSOUND.ordinal()] = 21;
+        }
+        catch (NoSuchFieldError var1)
+        {
+            ;
+        }
     }
 }
