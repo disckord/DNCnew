@@ -16,16 +16,12 @@ public class PerkGetter {
 	
 	public static Perk getPerkByName(String name)
 	{
-		
 		try( FileReader perkFileReader = new FileReader(Minecraft.getAppDir("DNCminecraft") + "/perks.json"))
 		{
 			 JSONObject	JsonObject = (JSONObject) JSONValue.parseWithException(perkFileReader);
 			 String perkID =  JsonObject.get(name).toString();
 			 int i = Integer.parseInt(perkID);
-			 if(i <= 0 || i > Perk.perks.length)
-			 {
-				return null; 
-			 }
+			 
 			 return Perk.perks[i];
 		}
 		catch( IOException | ParseException e)
@@ -35,7 +31,7 @@ public class PerkGetter {
 		System.out.println("getting hard-coded perk for " + name);
 		if(name == null)
 		{
-			return null;
+			return Perk.none;
 		}
 		if(name.equals("Disharmony"))
 		{
@@ -54,7 +50,7 @@ public class PerkGetter {
 		else
 		{
 		//	System.out.println("perkgetter is returning None for " + name);
-			return null;
+			return Perk.none;
 		}
 		
 	}

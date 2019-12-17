@@ -383,6 +383,6 @@ public class ItemPotion extends Item
 
     public static Icon func_94589_d(String par0Str)
     {
-        return par0Str == "potion" ? Item.potion.field_94590_d : (par0Str == "potion_splash" ? Item.potion.field_94591_c : (par0Str == "potion_contents" ? Item.potion.field_94592_ct : null));
+        return par0Str.equals("potion") ? Item.potion.field_94590_d : (par0Str.equals("potion_splash") ? Item.potion.field_94591_c : (par0Str .equals("potion_contents") ? Item.potion.field_94592_ct : null));
     }
 }

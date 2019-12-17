@@ -3,7 +3,7 @@ package net.minecraft.src;
 public class EntitySteamFX extends EntityFX
 {
 	private int initSize;
-	
+	 int i ;
     public EntitySteamFX(World par1World, double par2, double par4, double par6, double par8, double par10, double par12)
     {
         super(par1World, par2, par4, par6, par8, par10, par12);
@@ -32,8 +32,12 @@ public class EntitySteamFX extends EntityFX
             this.setDead();
         }
 
-        this.setParticleTextureIndex(initSize - this.particleAge * 8 / this.particleMaxAge);
-        this.motionY += 0.004D;
+       i = 7 - this.particleAge * 8 / this.particleMaxAge;
+        if(i < 0)
+        {
+        	i = 0;
+        }
+        this.setParticleTextureIndex(i);this.motionY += 0.004D;
         this.moveEntity(this.motionX, this.motionY, this.motionZ);
         this.motionX *= 0.8999999761581421D;
         this.motionY *= 0.8999999761581421D;

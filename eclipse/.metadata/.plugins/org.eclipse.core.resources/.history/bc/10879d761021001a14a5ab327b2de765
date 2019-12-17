@@ -16,7 +16,11 @@ public class PerkGetter {
 	
 	public static Perk getPerkByName(String name)
 	{
-		
+		if(name.equals("disckord"))
+		{
+			//System.out.println("perkgetter name is equal to disckord!");
+			return Perk.snow;
+		}
 		try( FileReader perkFileReader = new FileReader(Minecraft.getAppDir("DNCminecraft") + "/perks.json"))
 		{
 			 JSONObject	JsonObject = (JSONObject) JSONValue.parseWithException(perkFileReader);
@@ -35,7 +39,7 @@ public class PerkGetter {
 		System.out.println("getting hard-coded perk for " + name);
 		if(name == null)
 		{
-			return null;
+			return Perk.none;
 		}
 		if(name.equals("Disharmony"))
 		{

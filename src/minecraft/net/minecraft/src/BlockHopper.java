@@ -272,7 +272,7 @@ public class BlockHopper extends BlockContainer
 
     public static Icon getHopperIcon(String par0Str)
     {
-        return par0Str == "hopper" ? Block.hopperBlock.hopperIcon : (par0Str == "hopper_inside" ? Block.hopperBlock.hopperInsideIcon : null);
+        return par0Str.equals("hopper") ? Block.hopperBlock.hopperIcon : (par0Str.equals("hopper_inside") ? Block.hopperBlock.hopperInsideIcon : null);
     }
 
     /**

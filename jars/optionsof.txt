@@ -56,7 +56,7 @@ ofSwampColors:true
 ofRandomMobs:false
 ofSmoothBiomes:true
 ofCustomFonts:true
-ofCustomColors:false
+ofCustomColors:true
 ofCustomSky:true
 ofShowCapes:true
 ofNaturalTextures:false

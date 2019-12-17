@@ -91,7 +91,7 @@ public class BlockCauldron extends Block
 
     public static Icon func_94375_b(String par0Str)
     {
-        return par0Str == "cauldron_inner" ? Block.cauldron.field_94378_a : (par0Str == "cauldron_bottom" ? Block.cauldron.cauldronBottomIcon : null);
+        return par0Str.equals("cauldron_inner") ? Block.cauldron.field_94378_a : (par0Str.equals("cauldron_bottom") ? Block.cauldron.cauldronBottomIcon : null);
     }
 
     /**

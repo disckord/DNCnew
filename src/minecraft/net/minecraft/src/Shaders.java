@@ -450,7 +450,7 @@ public class Shaders
 
             for (var3 = 0; var3 < 20; ++var3)
             {
-                if (programNames[var3] == "")
+                if (programNames[var3].equals(""))
                 {
                     programs[var3] = programsRef[var3] = 0;
                     programsDrawBufSettings[var3] = null;

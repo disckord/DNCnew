@@ -51,7 +51,7 @@ public class BlockPistonBase extends Block
 
     public static Icon func_94496_b(String par0Str)
     {
-        return par0Str == "piston_side" ? Block.pistonBase.blockIcon : (par0Str == "piston_top" ? Block.pistonBase.topIcon : (par0Str == "piston_top_sticky" ? Block.pistonStickyBase.topIcon : (par0Str == "piston_inner_top" ? Block.pistonBase.innerTopIcon : null)));
+        return par0Str.equals("piston_side") ? Block.pistonBase.blockIcon : (par0Str.equals("piston_top") ? Block.pistonBase.topIcon : (par0Str .equals("piston_top_sticky") ? Block.pistonStickyBase.topIcon : (par0Str.equals("piston_inner_top") ? Block.pistonBase.innerTopIcon : null)));
     }
 
     /**

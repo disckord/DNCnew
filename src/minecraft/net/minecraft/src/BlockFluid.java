@@ -670,6 +670,6 @@ public abstract class BlockFluid extends Block
 
     public static Icon func_94424_b(String par0Str)
     {
-        return par0Str == "water" ? Block.waterMoving.theIcon[0] : (par0Str == "water_flow" ? Block.waterMoving.theIcon[1] : (par0Str == "lava" ? Block.lavaMoving.theIcon[0] : (par0Str == "lava_flow" ? Block.lavaMoving.theIcon[1] : null)));
+        return par0Str.equals("water") ? Block.waterMoving.theIcon[0] : (par0Str.equals("water_flow") ? Block.waterMoving.theIcon[1] : (par0Str.equals("lava") ? Block.lavaMoving.theIcon[0] : (par0Str.equals( "lava_flow") ? Block.lavaMoving.theIcon[1] : null)));
     }
 }
