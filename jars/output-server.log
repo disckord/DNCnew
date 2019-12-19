@@ -25890,3 +25890,18 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: 4096
 2019-12-18 08:03:41 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
 2019-12-18 08:03:41 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
 2019-12-18 08:03:41 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-19 23:01:33 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-19 23:01:33 [SERVER] [INFO] Generating keypair
+2019-12-19 23:01:33 [SERVER] [INFO] Preparing start region for level 0
+2019-12-19 23:01:34 [SERVER] [INFO] disckordtest[/127.0.0.1:0] logged in with entity id 41 at (522.7590150152776, 80.0, 96.96813460178461)
+2019-12-19 23:01:34 [SERVER] [INFO] Stopping server
+2019-12-19 23:01:34 [SERVER] [INFO] Saving players
+2019-12-19 23:01:35 [SERVER] [INFO] Saving worlds
+2019-12-19 23:01:35 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2019-12-19 23:01:35 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2019-12-19 23:01:35 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2019-12-19 23:02:10 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2019-12-19 23:02:10 [SERVER] [INFO] Generating keypair
+2019-12-19 23:02:10 [SERVER] [INFO] Preparing start region for level 0
+2019-12-19 23:02:11 [SERVER] [INFO] disckordtest[/127.0.0.1:0] logged in with entity id 41 at (522.7590150152776, 80.0, 96.96813460178461)
+2019-12-19 23:03:00 [SERVER] [INFO] Stopping server

@@ -28,7 +28,7 @@ public class PerkGetter {
 			 }
 			 return Perk.perks[i];
 		}
-		catch( IOException | ParseException e)
+		catch(NullPointerException | IOException | ParseException e)
 		{
 			e.printStackTrace();
 		}
