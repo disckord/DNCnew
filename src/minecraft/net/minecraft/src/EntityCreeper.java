@@ -178,7 +178,7 @@ public class EntityCreeper extends EntityMob
 
         if (par1DamageSource.getEntity() instanceof EntitySkeleton)
         {
-            int var2 = Item.record13.itemID + this.rand.nextInt(Item.recordWait.itemID - Item.record13.itemID + 1);
+            int var2 = Item.record13.itemID + this.rand.nextInt(Item.new8.itemID - Item.record13.itemID + 1);
             this.dropItem(var2, 1);
         }
     }

@@ -1,4 +1,4 @@
-ofRenderDistanceFine:128
+ofRenderDistanceFine:256
 ofLimitFramerateFine:0
 ofFogType:2
 ofFogStart:0.2
@@ -15,8 +15,8 @@ ofCloudsHeight:0.0
 ofTrees:2
 ofGrass:2
 ofDroppedItems:1
-ofRain:0
-ofWater:0
+ofRain:2
+ofWater:2
 ofAnimatedWater:0
 ofAnimatedLava:0
 ofAnimatedFire:true

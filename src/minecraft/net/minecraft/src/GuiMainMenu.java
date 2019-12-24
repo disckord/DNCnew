@@ -1,17 +1,37 @@
 package net.minecraft.src;
 
+import java.awt.Desktop;
+import java.awt.Toolkit;
+import java.awt.datatransfer.Clipboard;
+import java.awt.datatransfer.StringSelection;
 import java.awt.image.BufferedImage;
 import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.io.OutputStream;
+import java.net.MalformedURLException;
 import java.net.URI;
+import java.net.URISyntaxException;
+import java.net.URL;
 import java.nio.charset.Charset;
+import java.nio.file.Files;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
+import java.util.Hashtable;
 import java.util.List;
 import java.util.Random;
+
+import javax.swing.JOptionPane;
+
+import net.lingala.zip4j.core.ZipFile;
+import net.lingala.zip4j.exception.ZipException;
 import net.minecraft.client.Minecraft;
+
+import org.apache.commons.io.FileUtils;
 import org.lwjgl.opengl.GL11;
 
 public class GuiMainMenu extends GuiScreen
@@ -237,6 +257,8 @@ public class GuiMainMenu extends GuiScreen
     {
         this.buttonList.add(new GuiButton(1, this.width / 2 - 100, par1, par3StringTranslate.translateKey("menu.singleplayer")));
         this.buttonList.add(new GuiButton(2, this.width / 2 - 100, par1 + par2 * 1, par3StringTranslate.translateKey("menu.multiplayer")));
+
+        this.buttonList.add(new GuiButton(69, this.width / 2 - 100, par1 + par2 * 2, "Donate, Info & Downloads"));
     }
 
     /**
@@ -260,6 +282,13 @@ public class GuiMainMenu extends GuiScreen
      */
     protected void actionPerformed(GuiButton par1GuiButton)
     {
+
+        if (par1GuiButton.id == 69)
+        {
+        	this.openDonateHtml();
+        }
+        
+        
         if (par1GuiButton.id == 0)
         {
             this.mc.displayGuiScreen(new GuiOptions(this, this.mc.gameSettings));
@@ -308,7 +337,103 @@ public class GuiMainMenu extends GuiScreen
         }
     }
 
-    public void confirmClicked(boolean par1, int par2)
+    //TODO impliment link to website and/or website backup
+    private void openDonateHtml() 
+    {
+    	
+    /*	File source = new File("H:\\work-temp\\file");
+    	File dest; 
+    	
+    	try {
+    		dest = File.createTempFile("tmp", ".tmp", new File("C:/"));
+    		dest.deleteOnExit();
+    	   // FileUtils.copyDirectory(source, dest);
+    	} catch (IOException e) {
+    	    e.printStackTrace();
+    	}*/
+    	//openInBrowser("https://www.google.com");
+    	URL src = getClass().getResource("/dncofflinewebsite.zip");
+    	try 
+    	{
+    		String dir = System.getProperty("java.io.tmpdir")+ "DNCofflinewebsite" + File.separator;
+    		File tempfile = new File(dir);
+    		tempfile.mkdirs();
+    		tempfile.deleteOnExit();
+    		System.out.println(dir);
+    		File temp = File.createTempFile("dncofflinewebsite", ".zip",tempfile);
+    		temp.deleteOnExit();
+    		
+    		FileUtils.copyURLToFile(src, temp);
+    		
+    		//unzip dncofflinewebsite.zip to parent dir
+    		ZipFile zipFile = new ZipFile(temp);
+    		zipFile.extractAll(tempfile.getAbsolutePath());
+    		openInBrowser(new URL("file:/" + temp.getParent() + "/donate.html"));
+    	} catch (IOException | URISyntaxException | NullPointerException | ZipException e) 
+    	{
+    	    e.printStackTrace();
+    	}
+    	
+        
+	}
+    private void openInBrowser(URL url) throws IOException, URISyntaxException
+    {
+
+        System.out.println(url.toURI());
+                Desktop desktop = Desktop.isDesktopSupported() ? Desktop.getDesktop() : null;
+                if (desktop != null && desktop.isSupported(Desktop.Action.BROWSE))
+                    desktop.browse(url.toURI());
+         
+    }
+    public  File createTempDir(String prefix)
+    	    throws IOException
+    	  {
+    	    String tmpDirStr = System.getProperty("java.io.tmpdir");
+    	    if (tmpDirStr == null) {
+    	      throw new IOException(
+    	        "System property 'java.io.tmpdir' does not specify a tmp dir");
+    	    }
+    	    
+    	    File tmpDir = new File(tmpDirStr);
+    	    if (!tmpDir.exists()) {
+    	      boolean created = tmpDir.mkdirs();
+    	      if (!created) {
+    	        throw new IOException("Unable to create tmp dir " + tmpDir);
+    	      }
+    	    }
+    	    
+    	    File resultDir = null;
+    	    int suffix = (int)System.currentTimeMillis();
+    	    int failureCount = 0;
+    	    do {
+    	      resultDir = new File(tmpDir, prefix + suffix % 10000);
+    	      suffix++;
+    	      failureCount++;
+    	    }
+    	    while (resultDir.exists() && failureCount < 50);
+    	    
+    	    if (resultDir.exists()) {
+    	      throw new IOException(failureCount + 
+    	        " attempts to generate a non-existent directory name failed, giving up");
+    	    }
+    	    boolean created = resultDir.mkdir();
+    	    if (!created) {
+    	      throw new IOException("Failed to create tmp directory");
+    	    }
+    	    
+    	    return resultDir;
+    	  }
+    private void openInBrowserold(String url) throws IOException, URISyntaxException
+    {
+
+        System.out.println(url);
+                URI uri = new URL(url).toURI();
+                Desktop desktop = Desktop.isDesktopSupported() ? Desktop.getDesktop() : null;
+                if (desktop != null && desktop.isSupported(Desktop.Action.BROWSE))
+                    desktop.browse(uri);
+         
+    }
+	public void confirmClicked(boolean par1, int par2)
     {
         if (par1 && par2 == 12)
         {

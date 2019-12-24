@@ -1,0 +1,143 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>DNC Minecraft</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="icon" href="images/favicon.ico"/>
+	</head>
+	<body class="subpage">
+
+		<!-- Header -->
+			<header id="header">
+				<div class="logo"><a href="https://www.planetminecraft.com/member/disckord/about"  target="_blank"> <span>DISCKORD</span></a></div>
+				<a href="#menu">Menu</a>
+			</header>
+
+		<!-- Nav -->
+			<nav id="menu">
+				<ul class="links">
+					<li><a href="index.html">Download</a></li>
+					<li><a href="donate.html">Donate</a></li>
+					<li><a href="about.html">Info</a></li>
+				</ul>
+			</nav>
+
+		<!-- One -->
+			<section id="One" class="wrapper style3">
+				<div class="inner">
+					<header class="align-center">
+						<p>donate and get special in-game character effects</p>
+						<h2>Donate to support DNC</h2>
+					</header>
+				</div>
+			</section>
+
+		<!-- Two -->
+			<section id="two" class="wrapper style2">
+				<div class="inner">
+					<div class="box">
+						<div class="content">
+							<header class="align-center">
+								<h2 style="color:white"><u>DONATION SYSTEM UNDER DEVELOPMENT</u></h2>
+							</header>
+							<p style="color:white">We are developing our website.</p>
+							<p style="color:white">After completion you will be able to donate on our web-page and your in-game cosmetic rewards will come into effect automatically.</p>
+							<p style="color:white">For now, please email us at <a>disckord35@gmail.com</a> with the subject "supportDNC" and provide your in-game name spelled accurately. We will give you a paypal link and after you provide proof of donation your name will recieve cosmetic effects in-game. </p> 	<p>(for now players will have to restart their client to see most recent players effects)</p>
+							<p style="color:white">Thank you.</p>
+						</div>
+					</div>
+				</div>
+		</section>
+		<!-- Two -->
+			<section id="four" class="wrapper style3">
+				<div class="inner">
+					<header class="align-center">
+						<p></p>
+						<p>Screenshots of particle effects below</p>
+					</header>
+				</div>
+			</section>
+		<!-- Three -->
+			<section id="three" class="wrapper style2">
+				<div class="inner">
+<div class="gallery">
+		<div>
+							<div class="image fit">
+								<p style="color:white;text-align:center ">(Low Tier) Smoke particle effect</p>
+								<img src="images/smoke.png" alt="" />
+							</div>
+						</div>
+						<div>
+							<div class="image fit">
+								<p style="color:white;text-align:center ">(Medium Tier, has sound effects) Bubbles particle effect</p>
+								
+								<img src="images/bubbles.png" alt="" />
+							</div>
+						</div>
+						<div>
+							<div class="image fit">
+								<p style="color:white;text-align:center ">(Medium Tier) Hearts particle effect</p>
+								
+								<img src="images/hearts.png" alt="" />
+							</div>
+						</div>
+						<div>
+							<div class="image fit">
+								<p style="color:white;text-align:center ">(Medium Tier) Snow particle effect</p>
+								
+								<img src="images/snow.png" alt="" />
+							</div>
+						</div>
+						<div>
+							<div class="image fit">
+								<p style="color:white;text-align:center ">(High Tier, has sound effects) Cherry Blossom particle effect</p>
+								
+								<img src="images/blossom.png" alt="" />
+							</div>
+						</div>
+						<div>
+							<div class="image fit">
+								<p style="color:white;text-align:center ">(High Tier, has sound effects) Flames particle effect</p>
+								
+								<img src="images/flame.png" alt="" />
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+<!-- Two -->
+			<section id="five" class="wrapper style3">
+				<div class="inner">
+					<header class="align-center">
+						<p></p>
+						<p>More effects will be added over time.</p>
+					</header>
+				</div>
+			</section>
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="container">
+					<ul class="icons">
+						<!--<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>-->
+					</ul>
+				</div>
+				<div class="copyright">
+					&copy; Disckords. All rights reserved.
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

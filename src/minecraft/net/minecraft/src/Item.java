@@ -267,18 +267,18 @@ public class Item
     
     
 //end added items
-    public static Item record13 = (new ItemRecord(2000, "13")).setUnlocalizedName("record");
-    public static Item recordCat = (new ItemRecord(2001, "cat")).setUnlocalizedName("record");
-    public static Item recordBlocks = (new ItemRecord(2002, "blocks")).setUnlocalizedName("record");
-    public static Item recordChirp = (new ItemRecord(2003, "chirp")).setUnlocalizedName("record");
-    public static Item recordFar = (new ItemRecord(2004, "far")).setUnlocalizedName("record");
-    public static Item recordMall = (new ItemRecord(2005, "mall")).setUnlocalizedName("record");
-    public static Item recordMellohi = (new ItemRecord(2006, "mellohi")).setUnlocalizedName("record");
-    public static Item recordStal = (new ItemRecord(2007, "stal")).setUnlocalizedName("record");
-    public static Item recordStrad = (new ItemRecord(2008, "strad")).setUnlocalizedName("record");
-    public static Item recordWard = (new ItemRecord(2009, "ward")).setUnlocalizedName("record");
-    public static Item record11 = (new ItemRecord(2010, "11")).setUnlocalizedName("record");
-    public static Item recordWait = (new ItemRecord(2011, "wait")).setUnlocalizedName("record");
+    public static Item record13 = (new ItemRecord(2000, "13").setIsC418(true)).setUnlocalizedName("record");
+    public static Item recordCat = (new ItemRecord(2001, "cat").setIsC418(true)).setUnlocalizedName("record");
+    public static Item new1 = (new ItemRecord(2002, "Grunty-Industries-inside-the-factory")).setUnlocalizedName("record");
+    public static Item new2 = (new ItemRecord(2003, "Plants-vs-Zombies-Main-Menu")).setUnlocalizedName("record");
+    public static Item new3 = (new ItemRecord(2004, "Plants-vs-Zombies-Zen")).setUnlocalizedName("record");
+    public static Item new4 = (new ItemRecord(2005, "Tomb-Raider-1-track-14")).setUnlocalizedName("record");
+    public static Item new5 = (new ItemRecord(2006, "Sweden")).setUnlocalizedName("record");
+    public static Item new6 = (new ItemRecord(2007, "League-of-Legends-Unknown-Damage")).setUnlocalizedName("record");
+    public static Item recordStrad = (new ItemRecord(2008, "strad").setIsC418(true)).setUnlocalizedName("record");
+    public static Item new7 = (new ItemRecord(2009, "Club-Penguin-Christmas-2011")).setUnlocalizedName("record");
+    public static Item record11 = (new ItemRecord(2010, "11").setIsC418(true)).setUnlocalizedName("record");
+    public static Item new8 = (new ItemRecord(2011, "Promise-of-the-wind")).setUnlocalizedName("record");
 
     /** The ID of this item. */
     public final int itemID;

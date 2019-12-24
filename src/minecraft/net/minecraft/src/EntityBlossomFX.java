@@ -14,7 +14,7 @@ public class EntityBlossomFX extends EntityFX
     {
         super(par1World, par2, par4, par6, 0.0D, 0.0D, 0.0D);
         this.motionX *= 0.599999999776482582D;
-        this.motionY *= 0.799999999776482582D;
+        this.motionY *= 0.699999999776482582D;
         this.motionZ *= 0.599999999776482582D;
         this.motionY = -0.04D - (rand.nextFloat() * 0.04f);
         this.particleScale *= 0.25F;

@@ -11,6 +11,7 @@ public class ItemRecord extends Item
 
     /** The name of the record. */
     public final String recordName;
+    private boolean isc418;
 
     protected ItemRecord(int par1, String par2Str)
     {
@@ -21,6 +22,11 @@ public class ItemRecord extends Item
         records.put(par2Str, this);
     }
 
+    public ItemRecord setIsC418(boolean flag)
+    {
+    	this.isc418 = flag;
+    	return this;
+    }
     /**
      * Gets an icon index based on an item's damage value
      */
@@ -63,12 +69,22 @@ public class ItemRecord extends Item
         par3List.add(this.getRecordTitle());
     }
 
+    private String replaceDashWithSpace(String input)
+    {
+    	return input.replace("-", " ");
+    }
     /**
      * Return the title for this record.
      */
     public String getRecordTitle()
     {
-        return "C418 - " + this.recordName;
+    	String result = this.replaceDashWithSpace(this.recordName);
+    	
+    	if(this.isc418)
+    	{
+    		return "C418 - " + result;
+    	}
+        return  result;
     }
 
     /**
@@ -89,6 +105,6 @@ public class ItemRecord extends Item
 
     public void registerIcons(IconRegister par1IconRegister)
     {
-        this.itemIcon = par1IconRegister.registerIcon("record_" + this.recordName);
+        this.itemIcon = par1IconRegister.registerIcon("record_" + this.replaceDashWithSpace(this.recordName));
     }
 }

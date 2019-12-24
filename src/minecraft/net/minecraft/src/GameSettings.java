@@ -67,8 +67,8 @@ public class GameSettings
     public float ofCloudsHeight = 0.0F;
     public int ofTrees = 2;
     public int ofGrass = 2;
-    public int ofRain = 0;
-    public int ofWater = 0;
+    public int ofRain = 2;
+    public int ofWater = 2;
     public int ofDroppedItems = 1;
     public int ofBetterGrass = 3;
     public int ofAutoSaveTicks = 4000;

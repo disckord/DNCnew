@@ -20,5 +20,6 @@
 	<classpathentry kind="lib" path="jars/bin/minecraft.jar"/>
 	<classpathentry kind="lib" path="jars/bin/commons-io.jar"/>
 	<classpathentry kind="lib" path="jars/bin/json-simple.jar"/>
+	<classpathentry kind="lib" path="jars/bin/zip4j.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
