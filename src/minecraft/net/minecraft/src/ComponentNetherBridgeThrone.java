@@ -64,7 +64,7 @@ public class ComponentNetherBridgeThrone extends ComponentNetherBridgePiece
 
                 if (var7 != null)
                 {
-                    var7.func_98049_a().setMobID("Blaze");
+                    var7.func_98049_a().setMobID("NetherCreeper");
                 }
             }
         }

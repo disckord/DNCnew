@@ -4,13 +4,15 @@ import java.util.Random;
 
 public class BlockVine extends Block
 {
+	
     public BlockVine(int par1)
     {
         super(par1, Material.vine);
         this.setTickRandomly(true);
         this.setCreativeTab(CreativeTabs.tabDecorations);
     }
-
+    /**
+  
     /**
      * Sets the block's bounds for rendering it as an item
      */

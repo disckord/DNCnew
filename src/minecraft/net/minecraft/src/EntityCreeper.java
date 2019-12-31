@@ -25,7 +25,7 @@ public class EntityCreeper extends EntityMob
         this.tasks.addTask(2, new EntityAICreeperSwell(this));
         this.tasks.addTask(3, new EntityAIAvoidEntity(this, EntityOcelot.class, 6.0F, 0.25F, 0.3F));
         this.tasks.addTask(4, new EntityAIAttackOnCollide(this, 0.25F, false));
-        this.tasks.addTask(5, new EntityAIWander(this, 0.2F));
+        this.tasks.addTask(5, new EntityAIWander(this, 0.25F));
         this.tasks.addTask(6, new EntityAIWatchClosest(this, EntityPlayer.class, 8.0F));
         this.tasks.addTask(6, new EntityAILookIdle(this));
         this.targetTasks.addTask(1, new EntityAINearestAttackableTarget(this, EntityPlayer.class, 16.0F, 0, true));

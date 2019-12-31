@@ -220,7 +220,7 @@ public class BWG4decoSurvival extends WorldGenerator
                     if (var1.isAirBlock(var7, var8, var9) && var1.getBlockId(var7, var8 - 1, var9) == Block.netherrack.blockID)
                     {
                         var1.setBlock(var7, var8 - 1, var9, Block.slowSand.blockID);
-                        var1.setBlock(var7, var8, var9, Block.netherStalk.blockID, 1, 0);
+                        var1.setBlock(var7, var8, var9, Block.blockNetherQuartz.blockID, 1, 0);
                     }
                 }
 

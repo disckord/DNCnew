@@ -13,11 +13,11 @@ public class EntitySkeleton extends EntityMob implements IRangedAttackMob
         this.texture = "/mob/skeleton.png";
         this.moveSpeed = 0.25F;
         this.tasks.addTask(1, new EntityAISwimming(this));
-        this.tasks.addTask(2, new EntityAIRestrictSun(this));
-        this.tasks.addTask(3, new EntityAIFleeSun(this, this.moveSpeed));
+        //this.tasks.addTask(2, new EntityAIRestrictSun(this));
+        //this.tasks.addTask(3, new EntityAIFleeSun(this, this.moveSpeed));
         this.tasks.addTask(5, new EntityAIWander(this, this.moveSpeed));
         this.tasks.addTask(6, new EntityAIWatchClosest(this, EntityPlayer.class, 8.0F));
-        this.tasks.addTask(6, new EntityAILookIdle(this));
+       this.tasks.addTask(6, new EntityAILookIdle(this));
         this.targetTasks.addTask(1, new EntityAIHurtByTarget(this, false));
         this.targetTasks.addTask(2, new EntityAINearestAttackableTarget(this, EntityPlayer.class, 16.0F, 0, true));
 
@@ -70,23 +70,15 @@ public class EntitySkeleton extends EntityMob implements IRangedAttackMob
         return "mob.skeleton.death";
     }
 
-    /**
-     * Plays step sound at given x, y, z for the entity
-     */
-  /*  protected void playStepSound(int par1, int par2, int par3, int par4)
-    {
-        this.playSound("mob.skeleton.step", 0.15F, 1.0F);
-    }*/
-
     public boolean attackEntityAsMob(Entity par1Entity)
     {
         if (super.attackEntityAsMob(par1Entity))
         {
-            /*if (this.getSkeletonType() == 1 && par1Entity instanceof EntityLiving)
+           /* if (this.getSkeletonType() == 1 && par1Entity instanceof EntityLiving)
             {
                 ((EntityLiving)par1Entity).addPotionEffect(new PotionEffect(Potion.wither.id, 200));
-            }*/
-
+            }
+*/
             return true;
         }
         else
@@ -125,6 +117,9 @@ public class EntitySkeleton extends EntityMob implements IRangedAttackMob
     {
         return EnumCreatureAttribute.UNDEAD;
     }
+    
+    
+  
 
     /**
      * Called frequently so the entity can update its state every tick as required. For example, zombies and skeletons
@@ -132,6 +127,8 @@ public class EntitySkeleton extends EntityMob implements IRangedAttackMob
      */
     public void onLivingUpdate()
     {
+    	
+    	
         if (this.worldObj.isDaytime() && !this.worldObj.isRemote)
         {
             float var1 = this.getBrightness(1.0F);
@@ -168,9 +165,12 @@ public class EntitySkeleton extends EntityMob implements IRangedAttackMob
         {
             this.setSize(0.72F, 2.34F);
         }
+       
+        
 
         super.onLivingUpdate();
     }
+    
 
     /**
      * Called when the mob's health reaches 0.
@@ -317,7 +317,19 @@ public class EntitySkeleton extends EntityMob implements IRangedAttackMob
      */
     public void attackEntityWithRangedAttack(EntityLiving par1EntityLiving, float par2)
     {
-        EntityArrow var3 = new EntityArrow(this.worldObj, this, par1EntityLiving, 1.6F, (float)(14 - this.worldObj.difficultySetting * 4));
+    	if (par1EntityLiving == null)
+    {
+     this.entityBeingRangedAttacked = null;
+    }
+    else
+    {
+    this.entityBeingRangedAttacked = par1EntityLiving;
+    }
+    	
+    	/*
+    	double d = par1EntityLiving.posX - par1EntityLiving.posX;
+        double d1 = par1EntityLiving.posZ - par1EntityLiving.posZ;*/
+        EntityArrow var3 = new EntityArrow(this.worldObj, this, par1EntityLiving, 0.9F, (float)(14 - this.worldObj.difficultySetting * 4));
         int var4 = EnchantmentHelper.getEnchantmentLevel(Enchantment.power.effectId, this.getHeldItem());
         int var5 = EnchantmentHelper.getEnchantmentLevel(Enchantment.punch.effectId, this.getHeldItem());
         var3.setDamage((double)(par2 * 2.0F) + this.rand.nextGaussian() * 0.25D + (double)((float)this.worldObj.difficultySetting * 0.11F));
@@ -339,6 +351,9 @@ public class EntitySkeleton extends EntityMob implements IRangedAttackMob
 
         this.playSound("random.bow", 1.0F, 1.0F / (this.getRNG().nextFloat() * 0.4F + 0.8F));
         this.worldObj.spawnEntityInWorld(var3);
+        
+        //rotationYaw = (float)((Math.atan2(d1, d) * 180D) / 3.1415927410125732D) - 90F;*/
+    	
     }
 
     /**
@@ -346,7 +361,7 @@ public class EntitySkeleton extends EntityMob implements IRangedAttackMob
      */
     public int getSkeletonType()
     {
-        return this.dataWatcher.getWatchableObjectByte(13);
+        return 0;//this.dataWatcher.getWatchableObjectByte(13);
     }
 
     /**

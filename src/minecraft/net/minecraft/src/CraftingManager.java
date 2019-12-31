@@ -37,6 +37,7 @@ public class CraftingManager
         this.addRecipe(new ItemStack(Item.paper, 3), new Object[] {"###", '#', Item.reed});
         this.addShapelessRecipe(new ItemStack(Item.book, 1), new Object[] {Item.paper, Item.paper, Item.paper});
         //added recipes
+        this.addRecipe(new ItemStack(Item.netherQuartz, 4), new Object[] {"#", '#', Block.blockNetherQuartz});
         
         this.addRecipe(new ItemStack(Block.coalBlock, 1), new Object[] {"###", "###", "###", '#', Item.coal});
         this.addRecipe(new ItemStack(Block.coalBlock, 1), new Object[] {"###", "###", "###", '#', new ItemStack(Item.coal, 1, 1)});

@@ -288,7 +288,7 @@ public class Block
     private String unlocalizedName;
     protected Icon blockIcon;
     protected Icon alphaCobbleIcon;
-
+protected Icon alphaVineIcon;
     protected Icon alphaBrickIcon;
 
     protected Block(int par1, Material par2Material)
@@ -518,6 +518,13 @@ public class Block
     		
     		if(this == Block.brick)
     		return this.alphaBrickIcon;
+    		
+    		
+    	}
+    	if(Config.getGameSettings().alphaFoliage)
+    	{
+    		if(this == Block.vine)
+        	return this.alphaVineIcon;
     	}
     	
     		
@@ -1332,6 +1339,10 @@ public class Block
     	}
     	if(this == Block.brick){
     		this.alphaBrickIcon = par1IconRegister.registerIcon("alpha_" + this.unlocalizedName);
+    	}
+    	if(this == Block.vine)
+    	{
+    		this.alphaVineIcon = par1IconRegister.registerIcon("alpha" + this.unlocalizedName);
     	}
         this.blockIcon = par1IconRegister.registerIcon(this.unlocalizedName);
     }

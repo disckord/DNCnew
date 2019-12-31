@@ -9,6 +9,8 @@ import java.util.List;
 import java.util.Random;
 import java.util.Set;
 
+import net.minecraft.client.Minecraft;
+
 public abstract class World implements IBlockAccess
 {
     /**
@@ -1369,6 +1371,13 @@ public abstract class World implements IBlockAccess
      */
     public void playSoundEffect(double par1, double par3, double par5, String par7Str, float par8, float par9)
     {
+    //	System.out.println(par7Str);
+    	if(par7Str.contains("chest") && Minecraft.getMinecraft().gameSettings.oldChests)
+    	{
+    		System.out.println("ommitting chest noise because old chests is on ( World )");
+        	
+    		return;
+    	}
         if (par7Str != null)
         {
             for (int var10 = 0; var10 < this.worldAccesses.size(); ++var10)

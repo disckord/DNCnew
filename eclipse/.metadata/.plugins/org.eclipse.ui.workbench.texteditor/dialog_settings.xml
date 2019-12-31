@@ -2,20 +2,20 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="-" key="selection"/>
+		<item value="Stem" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
-			<item value=" "/>
-			<item value="registericon"/>
-			<item value="water"/>
-			<item value="rain"/>
-			<item value="iron"/>
-			<item value="func_82740"/>
-			<item value="func_"/>
-			<item value=" ? "/>
+			<item value="wart"/>
+			<item value="netherstem"/>
+			<item value="stem"/>
+			<item value="explo"/>
+			<item value="explode"/>
+			<item value="left"/>
+			<item value="llllllll"/>
+			<item value="nether"/>
 		</list>
 		<list key="replacehistory">
 			<item value="-"/>
@@ -32,7 +32,7 @@
 		<item value="273" key="DIALOG_WIDTH"/>
 		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
 		<item value="335" key="DIALOG_HEIGHT"/>
-		<item value="981" key="DIALOG_X_ORIGIN"/>
-		<item value="173" key="DIALOG_Y_ORIGIN"/>
+		<item value="32" key="DIALOG_X_ORIGIN"/>
+		<item value="438" key="DIALOG_Y_ORIGIN"/>
 	</section>
 </section>

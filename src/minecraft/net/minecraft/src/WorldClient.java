@@ -413,6 +413,12 @@ public class WorldClient extends World
      */
     public void playSound(double par1, double par3, double par5, String par7Str, float par8, float par9, boolean par10)
     {
+    	if(par7Str.contains("chest") && Minecraft.getMinecraft().gameSettings.oldChests)
+    	{
+    		System.out.println("ommitting chest noise because old chests is on ( WorldClient )");
+        	
+    		return;
+    	}
         float var11 = 16.0F;
 
         if (par8 > 1.0F)

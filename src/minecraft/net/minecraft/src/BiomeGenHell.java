@@ -11,6 +11,8 @@ public class BiomeGenHell extends BiomeGenBase
         this.spawnableCaveCreatureList.clear();
         this.spawnableMonsterList.add(new SpawnListEntry(EntityGhast.class, 50, 4, 4));
         this.spawnableMonsterList.add(new SpawnListEntry(EntityPigZombie.class, 100, 4, 4));
+
+        this.spawnableMonsterList.add(new SpawnListEntry(EntityNetherCreeper.class, 1, 1, 1));
        // this.spawnableMonsterList.add(new SpawnListEntry(EntityMagmaCube.class, 1, 4, 4));
     }
 }

@@ -1,6 +1,8 @@
 package net.minecraft.src;
 
 import java.util.Iterator;
+
+import net.minecraft.client.Minecraft;
 import net.minecraft.server.MinecraftServer;
 
 public class WorldManager implements IWorldAccess
@@ -48,6 +50,11 @@ public class WorldManager implements IWorldAccess
      */
     public void playSound(String par1Str, double par2, double par4, double par6, float par8, float par9)
     {
+    //	System.out.println(par1Str);
+    	if(par1Str.contains("chest") && Minecraft.getMinecraft().gameSettings.oldChests)
+    	{System.out.println("ommitting chest noise because old chests is on ( worldmanager )");
+    		return;
+    	}
         this.mcServer.getConfigurationManager().sendToAllNear(par2, par4, par6, par8 > 1.0F ? (double)(16.0F * par8) : 16.0D, this.theWorldServer.provider.dimensionId, new Packet62LevelSound(par1Str, par2, par4, par6, par8, par9));
     }
 

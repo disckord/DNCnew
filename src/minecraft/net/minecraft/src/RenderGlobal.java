@@ -123,7 +123,7 @@ public class RenderGlobal implements IWorldAccess
 
     /** World renderers check index */
     private int worldRenderersCheckIndex;
-    private IntBuffer glListBuffer = BufferUtils.createIntBuffer(65536);
+    public IntBuffer glListBuffer = BufferUtils.createIntBuffer(65536);
 
     /**
      * Previous x position when the renderers were sorted. (Once the distance moves more than 4 units they will be
@@ -956,7 +956,7 @@ public class RenderGlobal implements IWorldAccess
                 }
             }
         }
-
+        ++var6;
         if (var6 == 0)
         {
             return 0;

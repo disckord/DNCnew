@@ -22,6 +22,12 @@ public class EntityAICreeperSwell extends EntityAIBase
     public boolean shouldExecute()
     {
         EntityLiving var1 = this.swellingCreeper.getAttackTarget();
+        if(this.swellingCreeper.getCreeperState() > 0 || var1 != null && this.swellingCreeper.getDistanceSqToEntity(var1) < 20.0D)
+        {
+        	this.swellingCreeper.rotateAttackRight();
+        }
+        
+        
         return this.swellingCreeper.getCreeperState() > 0 || var1 != null && this.swellingCreeper.getDistanceSqToEntity(var1) < 9.0D;
     }
 
@@ -30,7 +36,7 @@ public class EntityAICreeperSwell extends EntityAIBase
      */
     public void startExecuting()
     {
-        this.swellingCreeper.getNavigator().clearPathEntity();
+        //this.swellingCreeper.getNavigator().clearPathEntity();
         this.creeperAttackTarget = this.swellingCreeper.getAttackTarget();
     }
 
@@ -51,7 +57,7 @@ public class EntityAICreeperSwell extends EntityAIBase
         {
             this.swellingCreeper.setCreeperState(-1);
         }
-        else if (this.swellingCreeper.getDistanceSqToEntity(this.creeperAttackTarget) > 49.0D)
+        else if (this.swellingCreeper.getDistanceSqToEntity(this.creeperAttackTarget) > 20.0D)
         {
             this.swellingCreeper.setCreeperState(-1);
         }
@@ -61,7 +67,7 @@ public class EntityAICreeperSwell extends EntityAIBase
         }
         else
         {
-            this.swellingCreeper.setCreeperState(1);
+            this.swellingCreeper.setCreeperState(1);// CHANGE THIS TO 1
         }
     }
 }

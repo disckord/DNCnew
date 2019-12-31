@@ -23,6 +23,9 @@ public abstract class EntityLiving extends Entity
 
     /** Probability to pick up loot */
     public static final float[] pickUpLootProability = new float[] {0.0F, 0.1F, 0.15F, 0.45F};
+
+    public boolean stopMovingFoward = false;
+    EntityLiving entityBeingRangedAttacked = null;
     public int maxHurtResistantTime = 20;
     public float field_70769_ao;
     public float field_70770_ap;
@@ -265,7 +268,76 @@ public abstract class EntityLiving extends Entity
     {
         return this.jumpHelper;
     }
-
+    public EntityLiving getEntityBeingRangedAttacked() 
+    {
+    	return this.entityBeingRangedAttacked;
+    }
+    
+    public void rotateAttackLeft()
+    {
+    	 if (this.getAttackTarget() != null && this.getEntityBeingRangedAttacked() != null && this.stopMovingFoward && !this.isDead)
+         {
+         	double d1 = this.getAttackTarget().posX - posX;
+             double d2 = this.getAttackTarget().posZ - posZ;
+             
+             float f2 = (float)((Math.atan2(d2, d1) * 180D) / 3.1415927410125732D) - 90F;
+             float f3 = f2 - rotationYaw;
+           this.moveEntityWithHeading(0F, moveSpeed * 0.8f);
+             for(; f3 < -180F; f3 += 360F) { }
+             for(; f3 >= 180F; f3 -= 360F) { }
+             if(f3 > 30F)
+             {
+                 f3 = 30F;
+             }
+             if(f3 < -30F)
+             {
+                 f3 = -30F;
+             }
+            // rotationYaw += f3;
+             
+         	 double d4 = this.getAttackTarget().posX - posX;
+             double d5 = this.getAttackTarget().posZ - posZ;
+             float f5 = rotationYaw;
+             //rotationYaw = (float)((Math.atan2(d5, d4) * 180D) / 3.1415927410125732D) - 90F;
+             float f4 = (((f5 - rotationYaw) + 90F) * 3.141593F) / 180F;
+             this.moveEntityWithHeading(-MathHelper.sin(f4) * moveSpeed , MathHelper.cos(f4)  * moveSpeed * 1.0F);
+             
+         }
+    	
+    }
+    public void rotateAttackRight()
+    {
+    	 if (this.getAttackTarget() != null && !this.isDead)
+         {
+         	double d1 = this.getAttackTarget().posX - posX;
+             double d2 = this.getAttackTarget().posZ - posZ;
+             
+             float f2 = (float)((Math.atan2(d2, d1) * 180D) / 3.1415927410125732D) - 90F;
+             float f3 = f2 - rotationYaw;
+            this.moveEntityWithHeading(0F, moveSpeed * 0.2f);
+             getLookHelper().setLookPositionWithEntity(this.getAttackTarget(), 30.0F, 30.0F);
+             for(; f3 < -180F; f3 += 360F) { }
+             for(; f3 >= 180F; f3 -= 360F) { }
+             if(f3 > 30F)
+             {
+                 f3 = 30F;
+             }
+             if(f3 < -30F)
+             {
+                 f3 = -30F;
+             }
+            // rotationYaw += f3;
+             
+         	 double d4 = this.getAttackTarget().posX - posX;
+             double d5 = this.getAttackTarget().posZ - posZ;
+             float f5 = rotationYaw;
+             rotationYaw = (float)((Math.atan2(d5, d4) * 180D) / 3.1415927410125732D) - 90F;
+             float f4 = (((f5 - rotationYaw) + 90F) * 3.141593F) / 180F;
+             this.moveEntityWithHeading(MathHelper.sin(f4) * 0.2F , 0);
+             
+         }
+    	
+    }
     public PathNavigate getNavigator()
     {
         return this.navigator;

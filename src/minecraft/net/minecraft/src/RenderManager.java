@@ -50,6 +50,7 @@ public class RenderManager
         this.entityRenderMap.put(EntityOcelot.class, new RenderOcelot(new ModelOcelot(), 0.4F));
         this.entityRenderMap.put(EntitySilverfish.class, new RenderSilverfish());
         this.entityRenderMap.put(EntityCreeper.class, new RenderCreeper());
+        this.entityRenderMap.put(EntityNetherCreeper.class, new RenderNetherCreeper());
         this.entityRenderMap.put(EntityEnderman.class, new RenderEnderman());
         this.entityRenderMap.put(EntitySnowman.class, new RenderSnowMan());
         this.entityRenderMap.put(EntitySkeleton.class, new RenderSkeleton());

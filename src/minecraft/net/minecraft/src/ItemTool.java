@@ -30,6 +30,11 @@ public class ItemTool extends Item
      */
     public float getStrVsBlock(ItemStack par1ItemStack, Block par2Block)
     {
+    	if(this instanceof ItemAxe && (this.toolMaterial == EnumToolMaterial.HARDGOLD || this.toolMaterial == EnumToolMaterial.QEHARDGOLD ) && (par2Block.blockMaterial == Material.leaves || par2Block.blockMaterial == Material.vine))
+    	{
+    		 return this.efficiencyOnProperMaterial;
+    	}
+    	
         for (int var3 = 0; var3 < this.blocksEffectiveAgainst.length; ++var3)
         {
             if (this.blocksEffectiveAgainst[var3] == par2Block)
