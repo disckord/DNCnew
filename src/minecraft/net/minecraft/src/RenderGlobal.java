@@ -1229,7 +1229,7 @@ public class RenderGlobal implements IWorldAccess
             GL11.glPopMatrix();
             Shaders.sglDisableT2D(3553);
             GL11.glColor3f(0.0F, 0.0F, 0.0F);
-            double var28 = this.mc.thePlayer.getPosition(par1).yCoord - this.theWorld.getHorizon();
+           /* double var28 = this.mc.thePlayer.getPosition(par1).yCoord - this.theWorld.getHorizon();
 
             if (var28 < 0.0D)
             {
@@ -1263,7 +1263,7 @@ public class RenderGlobal implements IWorldAccess
                 var25.addVertex((double)var10, (double)var12, (double)var10);
                 var25.addVertex((double)var10, (double)var12, (double)(-var10));
                 var25.draw();
-            }
+            }*/
 
             if (this.theWorld.provider.isSkyColored())
             {
@@ -1280,7 +1280,7 @@ public class RenderGlobal implements IWorldAccess
             }
 
             GL11.glPushMatrix();
-            GL11.glTranslatef(0.0F, -((float)(var28 - 16.0D)), 0.0F);
+           // GL11.glTranslatef(0.0F, -((float)(var28 - 16.0D)), 0.0F);
 
             if (Config.isSkyEnabled())
             {

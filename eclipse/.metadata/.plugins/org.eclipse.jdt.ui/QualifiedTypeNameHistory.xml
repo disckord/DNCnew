@@ -24,7 +24,6 @@
 <fullyQualifiedTypeName name="net.minecraft.src.TileEntityChestRenderer"/>
 <fullyQualifiedTypeName name="net.minecraft.src.TileEntityChest"/>
 <fullyQualifiedTypeName name="net.minecraft.src.Block"/>
-<fullyQualifiedTypeName name="org.lwjgl.opengl.GL11"/>
 <fullyQualifiedTypeName name="org.omg.CORBA.SystemException"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="net.minecraft.src.BiomeGenBase"/>
@@ -54,4 +53,5 @@
 <fullyQualifiedTypeName name="java.lang.Deprecated"/>
 <fullyQualifiedTypeName name="net.minecraft.client.Minecraft"/>
 <fullyQualifiedTypeName name="net.minecraft.src.EnumToolMaterial"/>
+<fullyQualifiedTypeName name="org.lwjgl.opengl.GL11"/>
 </qualifiedTypeNameHistroy>

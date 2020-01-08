@@ -258,7 +258,7 @@ public class GuiMainMenu extends GuiScreen
         this.buttonList.add(new GuiButton(1, this.width / 2 - 100, par1, par3StringTranslate.translateKey("menu.singleplayer")));
         this.buttonList.add(new GuiButton(2, this.width / 2 - 100, par1 + par2 * 1, par3StringTranslate.translateKey("menu.multiplayer")));
 
-        this.buttonList.add(new GuiButton(69, this.width / 2 - 100, par1 + par2 * 2, "Donate, Info & Downloads"));
+        this.buttonList.add(new GuiButton(69, this.width / 2 - 100, par1 + par2 * 2, "DNC offline website"));
     }
 
     /**

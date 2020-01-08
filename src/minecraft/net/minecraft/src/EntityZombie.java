@@ -56,7 +56,7 @@ public class EntityZombie extends EntityMob
      */
     public String getTexture()
     {
-        return this.isVillager() ? "/mob/zombie_villager.png" : "/mob/zombie.png";
+        return /*this.isVillager() ? "/mob/zombie_villager.png" :*/ "/mob/zombie.png";
     }
 
     public int getMaxHealth()
@@ -92,7 +92,7 @@ public class EntityZombie extends EntityMob
      */
     public boolean isChild()
     {
-        return this.getDataWatcher().getWatchableObjectByte(12) == 1;
+        return false;// this.getDataWatcher().getWatchableObjectByte(12) == 1;
     }
 
     /**
@@ -108,7 +108,7 @@ public class EntityZombie extends EntityMob
      */
     public boolean isVillager()
     {
-        return this.getDataWatcher().getWatchableObjectByte(13) == 1;
+        return false;// this.getDataWatcher().getWatchableObjectByte(13) == 1;
     }
 
     /**
@@ -302,7 +302,7 @@ public class EntityZombie extends EntityMob
     {
         super.writeEntityToNBT(par1NBTTagCompound);
 
-        if (this.isChild())
+      /*  if (this.isChild())
         {
             par1NBTTagCompound.setBoolean("IsBaby", true);
         }
@@ -310,7 +310,7 @@ public class EntityZombie extends EntityMob
         if (this.isVillager())
         {
             par1NBTTagCompound.setBoolean("IsVillager", true);
-        }
+        }*/
 
         par1NBTTagCompound.setInteger("ConversionTime", this.isConverting() ? this.conversionTime : -1);
     }
@@ -402,7 +402,7 @@ public class EntityZombie extends EntityMob
     {
         ItemStack var2 = par1EntityPlayer.getCurrentEquippedItem();
 
-        if (var2 != null && var2.getItem() == Item.appleGold && var2.getItemDamage() == 0 && this.isVillager() && this.isPotionActive(Potion.weakness))
+        if (var2 != null && var2.getItem() == Item.appleGold && var2.getItemDamage() == 0  && this.isPotionActive(Potion.weakness))
         {
             if (!par1EntityPlayer.capabilities.isCreativeMode)
             {

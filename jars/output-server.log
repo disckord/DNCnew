@@ -26966,3 +26966,1362 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: 4096
 2019-12-31 19:47:29 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
 2019-12-31 19:47:29 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
 2019-12-31 19:47:29 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-04 12:22:33 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-04 12:22:33 [SERVER] [INFO] Generating keypair
+2020-01-04 12:22:34 [SERVER] [INFO] Preparing start region for level 0
+2020-01-04 12:22:35 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 15 at (-25.354612382203264, 66.7803387100694, 139.3573490916424)
+2020-01-04 12:22:39 [SERVER] [INFO] Saving and pausing game...
+2020-01-04 12:22:39 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-04 12:22:39 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-04 12:22:39 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-04 12:22:40 [SERVER] [INFO] Stopping server
+2020-01-04 12:22:40 [SERVER] [INFO] Saving players
+2020-01-04 12:22:40 [SERVER] [INFO] Saving worlds
+2020-01-04 12:22:40 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-04 12:22:40 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-04 12:22:40 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-04 13:21:40 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-04 13:21:40 [SERVER] [INFO] Generating keypair
+2020-01-04 13:21:40 [SERVER] [INFO] Preparing start region for level 0
+2020-01-04 13:21:41 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 697 at (-25.12366054029604, 3.337485576395295, 21.04383952387974)
+2020-01-04 13:21:44 [SERVER] [INFO] [disckord: Set the time to 12500]
+2020-01-04 13:21:50 [SERVER] [INFO] [disckord: Added 1000 to the time]
+2020-01-04 13:21:53 [SERVER] [INFO] Saving and pausing game...
+2020-01-04 13:21:53 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-04 13:21:53 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-04 13:21:53 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-04 13:21:54 [SERVER] [INFO] Stopping server
+2020-01-04 13:21:54 [SERVER] [INFO] Saving players
+2020-01-04 13:21:54 [SERVER] [INFO] Saving worlds
+2020-01-04 13:21:54 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-04 13:21:54 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-04 13:21:54 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-04 19:22:57 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-04 19:22:57 [SERVER] [INFO] Generating keypair
+2020-01-04 19:22:57 [SERVER] [INFO] Preparing start region for level 0
+2020-01-04 19:22:57 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 245 at (-32.69843102136037, 32.553739464632706, 23.961272381688314)
+2020-01-04 19:23:18 [SERVER] [INFO] Saving and pausing game...
+2020-01-04 19:23:18 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-04 19:23:18 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-04 19:23:18 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-04 19:23:19 [SERVER] [INFO] Stopping server
+2020-01-04 19:23:19 [SERVER] [INFO] Saving players
+2020-01-04 19:23:19 [SERVER] [INFO] Saving worlds
+2020-01-04 19:23:19 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-04 19:23:19 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-04 19:23:19 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-04 19:27:31 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-04 19:27:31 [SERVER] [INFO] Generating keypair
+2020-01-04 19:27:31 [SERVER] [INFO] Preparing start region for level 0
+2020-01-04 19:27:31 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 248 at (-75.97575748792931, 39.0, -7.6312708809678345)
+2020-01-04 19:27:41 [SERVER] [INFO] [disckord: Set the time to 0]
+2020-01-04 19:27:57 [SERVER] [INFO] Saving and pausing game...
+2020-01-04 19:27:57 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-04 19:27:57 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-04 19:27:57 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-04 19:27:57 [SERVER] [INFO] disckord lost connection: disconnect.quitting
+2020-01-04 19:27:57 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2020-01-04 19:27:57 [SERVER] [INFO] Stopping server
+2020-01-04 19:27:57 [SERVER] [INFO] Saving players
+2020-01-04 19:27:57 [SERVER] [INFO] Saving worlds
+2020-01-04 19:27:57 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-04 19:27:57 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-04 19:27:57 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-04 19:34:06 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-04 19:34:06 [SERVER] [INFO] Generating keypair
+2020-01-04 19:34:06 [SERVER] [INFO] Preparing start region for level 0
+2020-01-04 19:34:06 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 262 at (-83.10775770175161, 38.0, -8.571685867777767)
+2020-01-04 19:34:11 [SERVER] [INFO] disckord fell out of the world
+2020-01-04 19:34:23 [SERVER] [INFO] disckord fell out of the world
+2020-01-04 19:34:40 [SERVER] [INFO] Saving and pausing game...
+2020-01-04 19:34:40 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-04 19:34:40 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-04 19:34:40 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-04 19:34:41 [SERVER] [INFO] Stopping server
+2020-01-04 19:34:41 [SERVER] [INFO] Saving players
+2020-01-04 19:34:41 [SERVER] [INFO] Saving worlds
+2020-01-04 19:34:41 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-04 19:34:41 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-04 19:34:41 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-05 16:10:28 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-05 16:10:28 [SERVER] [INFO] Generating keypair
+2020-01-05 16:10:29 [SERVER] [INFO] Preparing start region for level 0
+2020-01-05 16:10:30 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 267 at (12.75876188213616, 77.9949086470135, -14.395083110830964)
+2020-01-05 16:11:25 [SERVER] [INFO] Saving and pausing game...
+2020-01-05 16:11:25 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-05 16:11:25 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-05 16:11:25 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-05 16:11:25 [SERVER] [INFO] Stopping server
+2020-01-05 16:11:25 [SERVER] [INFO] Saving players
+2020-01-05 16:11:25 [SERVER] [INFO] Saving worlds
+2020-01-05 16:11:25 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-05 16:11:26 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-05 16:11:26 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-05 16:11:48 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-05 16:11:48 [SERVER] [INFO] Generating keypair
+2020-01-05 16:11:48 [SERVER] [INFO] Preparing start region for level 0
+2020-01-05 16:11:49 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 262 at (13.001249320162088, 77.0, -15.80854159690161)
+2020-01-05 16:11:56 [SERVER] [INFO] Saving and pausing game...
+2020-01-05 16:11:56 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-05 16:11:56 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-05 16:11:56 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-05 16:11:56 [SERVER] [INFO] Stopping server
+2020-01-05 16:11:56 [SERVER] [INFO] Saving players
+2020-01-05 16:11:56 [SERVER] [INFO] Saving worlds
+2020-01-05 16:11:56 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-05 16:11:56 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-05 16:11:56 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-05 16:12:14 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-05 16:12:14 [SERVER] [INFO] Generating keypair
+2020-01-05 16:12:14 [SERVER] [INFO] Preparing start region for level 0
+2020-01-05 16:12:14 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 263 at (12.990154185468935, 76.0, -15.300000011920929)
+2020-01-05 16:12:29 [SERVER] [INFO] Saving and pausing game...
+2020-01-05 16:12:29 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-05 16:12:29 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-05 16:12:29 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-05 16:12:30 [SERVER] [INFO] Stopping server
+2020-01-05 16:12:30 [SERVER] [INFO] Saving players
+2020-01-05 16:12:30 [SERVER] [INFO] Saving worlds
+2020-01-05 16:12:30 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-05 16:12:30 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-05 16:12:30 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-05 19:21:20 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-05 19:21:20 [SERVER] [INFO] Generating keypair
+2020-01-05 19:21:20 [SERVER] [INFO] Preparing start region for level 0
+2020-01-05 19:21:21 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 256 at (-4.699999988079071, 72.0, -12.300000011920933)
+2020-01-05 19:21:36 [SERVER] [INFO] Saving and pausing game...
+2020-01-05 19:21:36 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-05 19:21:36 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-05 19:21:36 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-05 19:21:37 [SERVER] [INFO] Stopping server
+2020-01-05 19:21:37 [SERVER] [INFO] Saving players
+2020-01-05 19:21:37 [SERVER] [INFO] Saving worlds
+2020-01-05 19:21:37 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-05 19:21:37 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-05 19:21:37 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 13:00:40 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-07 13:00:40 [SERVER] [INFO] Generating keypair
+2020-01-07 13:00:41 [SERVER] [INFO] Preparing start region for level 0
+2020-01-07 13:00:42 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 256 at (-8.231858048085373, 74.0, -17.554181012163593)
+2020-01-07 13:01:04 [SERVER] [INFO] Stopping server
+2020-01-07 13:01:04 [SERVER] [INFO] Saving players
+2020-01-07 13:14:04 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-07 13:14:04 [SERVER] [INFO] Generating keypair
+2020-01-07 13:14:04 [SERVER] [INFO] Preparing start region for level 0
+2020-01-07 13:14:04 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 260 at (-7.8303683346129125, 74.0, -16.342632239096687)
+2020-01-07 13:14:40 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 13:14:40 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 13:14:40 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 13:14:40 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 13:14:40 [SERVER] [INFO] Stopping server
+2020-01-07 13:14:40 [SERVER] [INFO] Saving players
+2020-01-07 13:14:40 [SERVER] [INFO] Saving worlds
+2020-01-07 13:14:40 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 13:14:40 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 13:14:40 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 13:14:52 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-07 13:14:52 [SERVER] [INFO] Generating keypair
+2020-01-07 13:14:52 [SERVER] [INFO] Preparing start region for level 0
+2020-01-07 13:14:53 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 15 at (-25.354612382203264, 66.7803387100694, 139.3573490916424)
+2020-01-07 13:14:56 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 13:14:56 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 13:14:56 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 13:14:56 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 13:14:56 [SERVER] [INFO] Stopping server
+2020-01-07 13:14:56 [SERVER] [INFO] Saving players
+2020-01-07 13:14:56 [SERVER] [INFO] Saving worlds
+2020-01-07 13:14:56 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 13:14:56 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 13:14:56 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 13:15:26 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-07 13:15:26 [SERVER] [INFO] Generating keypair
+2020-01-07 13:15:26 [SERVER] [INFO] Preparing start region for level 0
+2020-01-07 13:15:27 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 246 at (-20.30000001192093, 43.0, 40.97142049262216)
+2020-01-07 13:16:32 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 13:16:32 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 13:16:32 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 13:16:32 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 13:22:09 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 13:22:09 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 13:22:09 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 13:22:09 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 13:22:10 [SERVER] [INFO] Stopping server
+2020-01-07 13:22:10 [SERVER] [INFO] Saving players
+2020-01-07 13:22:10 [SERVER] [INFO] Saving worlds
+2020-01-07 13:22:10 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 13:22:10 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 13:22:10 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 13:22:18 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-07 13:22:18 [SERVER] [INFO] Generating keypair
+2020-01-07 13:22:19 [SERVER] [INFO] Preparing start region for level 0
+2020-01-07 13:22:19 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 195 at (-20.30000001192093, 43.0, 40.97142049262216)
+2020-01-07 13:22:24 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 13:22:24 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 13:22:24 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 13:22:24 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 13:22:40 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 13:22:40 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 13:22:40 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 13:22:40 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 13:22:45 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 13:22:46 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 13:22:46 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 13:22:46 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 13:26:39 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 13:26:39 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 13:26:39 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 13:26:39 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 13:26:40 [SERVER] [INFO] Stopping server
+2020-01-07 13:26:40 [SERVER] [INFO] Saving players
+2020-01-07 13:26:40 [SERVER] [INFO] Saving worlds
+2020-01-07 13:26:40 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 13:26:40 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 13:26:40 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 13:29:17 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-07 13:29:17 [SERVER] [INFO] Generating keypair
+2020-01-07 13:29:17 [SERVER] [INFO] Preparing start region for level 0
+2020-01-07 13:29:18 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 182 at (-20.83417667701156, 43.0, 44.07542023997742)
+2020-01-07 13:29:21 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 13:29:21 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 13:29:21 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 13:29:21 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 13:29:21 [SERVER] [INFO] Stopping server
+2020-01-07 13:29:21 [SERVER] [INFO] Saving players
+2020-01-07 13:29:21 [SERVER] [INFO] Saving worlds
+2020-01-07 13:29:21 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 13:29:21 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 13:29:21 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 16:49:41 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-07 16:49:41 [SERVER] [INFO] Generating keypair
+2020-01-07 16:49:41 [SERVER] [INFO] Preparing start region for level 0
+2020-01-07 16:49:42 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 172 at (-19.038541069002736, 44.0, 41.645107441985054)
+2020-01-07 16:49:44 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 16:49:44 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 16:49:44 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 16:49:44 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 16:49:45 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 16:49:45 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 16:49:45 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 16:49:45 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 16:49:51 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 16:49:51 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 16:49:51 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 16:49:51 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 16:50:08 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 16:50:08 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 16:50:08 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 16:50:08 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 16:51:29 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 16:51:29 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 16:51:29 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 16:51:29 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 16:51:54 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 16:51:54 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 16:51:54 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 16:51:54 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 16:52:58 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 16:52:58 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 16:52:58 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 16:52:58 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 16:53:23 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 16:53:23 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 16:53:23 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 16:53:23 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 16:53:34 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 16:53:34 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 16:53:34 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 16:53:34 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 16:53:45 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 16:53:45 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 16:53:45 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 16:53:45 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 16:54:31 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 16:54:31 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 16:54:31 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 16:54:31 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 16:55:15 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 16:55:15 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 16:55:15 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 16:55:15 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 16:55:16 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 16:55:16 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 16:55:16 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 16:55:16 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 16:56:02 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 16:56:02 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 16:56:02 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 16:56:02 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 16:56:16 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 16:56:16 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 16:56:16 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 16:56:16 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 16:57:19 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 16:57:19 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 16:57:19 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 16:57:19 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 16:57:39 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 16:57:39 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 16:57:39 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 16:57:39 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 16:58:17 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 16:58:17 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 16:58:17 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 16:58:17 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 16:58:25 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 16:58:25 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 16:58:25 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 16:58:25 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:01:43 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:01:43 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:01:43 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:01:43 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:02:44 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:02:44 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:02:44 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:02:44 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:04:16 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:04:16 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:04:16 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:04:16 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:04:29 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:04:29 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:04:29 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:04:29 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:04:45 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:04:45 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:04:45 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:04:45 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:04:51 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:04:51 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:04:51 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:04:51 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:06:21 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:06:21 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:06:21 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:06:21 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:08:32 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:08:32 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:08:32 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:08:32 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:09:11 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:09:11 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:09:11 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:09:11 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:09:41 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:09:41 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:09:41 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:09:41 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:09:45 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:09:45 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:09:45 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:09:45 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:11:42 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:11:42 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:11:42 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:11:42 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:11:58 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:11:58 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:11:58 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:11:58 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:12:06 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:12:06 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:12:06 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:12:06 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:12:13 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:12:13 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:12:13 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:12:13 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:12:22 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:12:22 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:12:22 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:12:22 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:12:35 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:12:35 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:12:35 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:12:35 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:12:49 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:12:49 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:12:49 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:12:49 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:13:07 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:13:07 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:13:07 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:13:07 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:13:34 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:13:34 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:13:34 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:13:34 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:14:22 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:14:22 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:14:22 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:14:22 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:14:35 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:14:35 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:14:35 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:14:35 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:14:35 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:14:35 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:14:35 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:14:35 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:14:44 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:14:44 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:14:44 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:14:44 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:14:52 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:14:52 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:14:52 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:14:52 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:15:59 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:15:59 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:15:59 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:15:59 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:16:20 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:16:20 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:16:20 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:16:20 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:16:34 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:16:34 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:16:34 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:16:34 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:17:02 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:17:02 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:17:02 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:17:02 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:18:06 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:18:06 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:18:06 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:18:06 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:18:20 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:18:20 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:18:20 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:18:20 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:18:22 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:18:22 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:18:22 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:18:22 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:18:44 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:18:44 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:18:44 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:18:44 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:19:16 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:19:16 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:19:16 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:19:16 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:21:59 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:21:59 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:21:59 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:21:59 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:22:28 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:22:28 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:22:28 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:22:28 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:22:37 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:22:37 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:22:37 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:22:37 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:22:50 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:22:50 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:22:50 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:22:50 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:23:01 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:23:01 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:23:01 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:23:01 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:23:08 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:23:08 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:23:08 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:23:08 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:23:19 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:23:19 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:23:19 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:23:19 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:23:29 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:23:29 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:23:29 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:23:29 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:23:29 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:23:29 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:23:29 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:23:29 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:23:40 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:23:40 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:23:40 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:23:40 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:23:53 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:23:53 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:23:53 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:23:53 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:24:01 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:24:01 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:24:01 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:24:01 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:24:09 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:24:09 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:24:09 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:24:09 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:24:40 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:24:40 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:24:40 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:24:40 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:24:42 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:24:42 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:24:42 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:24:42 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:25:18 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:25:18 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:25:18 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:25:18 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:25:22 [SERVER] [INFO] [disckord: Set own game mode to Survival Mode]
+2020-01-07 17:25:51 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:25:51 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:25:51 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:25:51 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:26:03 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:26:03 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:26:03 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:26:03 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:26:13 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:26:13 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:26:13 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:26:13 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:26:50 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:26:50 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:26:50 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:26:50 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:26:57 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:26:57 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:26:57 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:26:57 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:27:06 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:27:06 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:27:06 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:27:06 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:27:17 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:27:17 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:27:17 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:27:17 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:27:19 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:27:19 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:27:19 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:27:19 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:27:34 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:27:34 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:27:34 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:27:34 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:27:40 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:27:40 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:27:40 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:27:40 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:28:44 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:28:44 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:28:44 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:28:44 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:29:09 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:29:09 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:29:09 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:29:09 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:29:55 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:29:55 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:29:55 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:29:55 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:30:01 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:30:01 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:30:01 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:30:01 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:33:22 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:33:22 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:33:22 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:33:22 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:33:41 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:33:41 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:33:41 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:33:41 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:34:01 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:34:01 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:34:01 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:34:01 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:34:15 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:34:15 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:34:15 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:34:15 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:35:00 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:35:00 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:35:00 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:35:00 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:35:11 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:35:11 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:35:11 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:35:11 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:35:16 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:35:16 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:35:16 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:35:16 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:36:06 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:36:06 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:36:06 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:36:06 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:36:28 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:36:28 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:36:28 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:36:28 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:36:39 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:36:39 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:36:39 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:36:39 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:37:15 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:37:15 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:37:15 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:37:15 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:37:23 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:37:23 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:37:23 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:37:23 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:38:28 [SERVER] [INFO] [disckord: Changing to rainy weather]
+2020-01-07 17:38:52 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:38:52 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:38:52 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:38:52 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:39:20 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:39:20 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:39:20 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:39:20 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:39:33 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:39:33 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:39:33 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:39:33 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:39:47 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:39:47 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:39:47 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:39:47 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:39:56 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:39:56 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:39:56 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:39:56 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:40:14 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:40:14 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:40:14 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:40:14 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:40:31 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:40:31 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:40:31 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:40:31 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:41:07 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:41:07 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:41:07 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:41:07 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:41:25 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:41:25 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:41:25 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:41:25 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:41:32 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:41:32 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:41:32 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:41:32 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:41:52 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:41:52 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:41:52 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:41:52 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:42:07 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:42:07 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:42:07 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:42:07 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:42:28 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:42:28 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:42:28 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:42:28 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:43:14 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:43:14 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:43:14 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:43:14 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:43:25 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:43:25 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:43:25 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:43:25 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:43:39 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:43:39 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:43:39 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:43:39 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:44:09 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:44:09 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:44:09 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:44:09 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:46:50 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:46:50 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:46:50 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:46:50 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:46:58 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:46:58 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:46:58 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:46:58 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:47:34 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:47:34 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:47:34 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:47:34 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:47:34 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:47:34 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:47:34 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:47:34 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:47:55 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:47:55 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:47:55 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:47:55 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:48:09 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:48:09 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:48:09 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:48:09 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:48:09 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:48:09 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:48:09 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:48:09 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:48:29 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:48:29 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:48:29 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:48:29 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:48:30 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:48:30 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:48:30 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:48:30 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:49:06 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:49:06 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:49:06 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:49:06 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:49:54 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:49:54 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:49:54 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:49:54 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:50:00 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:50:00 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:50:00 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:50:00 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:50:01 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:50:01 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:50:01 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:50:01 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:50:16 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:50:16 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:50:16 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:50:16 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:50:17 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:50:17 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:50:17 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:50:17 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 17:50:46 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 17:50:46 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 17:50:46 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 17:50:46 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 18:35:08 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 18:35:08 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 18:35:08 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 18:35:08 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 18:35:36 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 18:35:36 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 18:35:36 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 18:35:36 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 18:36:00 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 18:36:00 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 18:36:00 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 18:36:00 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 18:36:14 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 18:36:14 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 18:36:14 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 18:36:14 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 18:36:21 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 18:36:21 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 18:36:21 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 18:36:21 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 18:36:52 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 18:36:52 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 18:36:52 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 18:36:52 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 18:36:52 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 18:36:52 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 18:36:52 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 18:36:52 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 18:37:12 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 18:37:12 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 18:37:12 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 18:37:12 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 18:37:28 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 18:37:28 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 18:37:28 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 18:37:28 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 18:37:33 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 18:37:33 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 18:37:33 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 18:37:33 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 18:38:13 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 18:38:13 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 18:38:13 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 18:38:13 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 18:38:13 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 18:38:13 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 18:38:13 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 18:38:13 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 18:38:23 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 18:38:23 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 18:38:23 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 18:38:23 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 18:38:24 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 18:38:24 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 18:38:24 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 18:38:24 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 18:38:29 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 18:38:29 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 18:38:29 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 18:38:29 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 18:38:30 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 18:38:30 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 18:38:30 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 18:38:30 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 18:39:22 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 18:39:22 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 18:39:22 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 18:39:22 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 18:39:24 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 18:39:24 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 18:39:24 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 18:39:24 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 18:39:36 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 18:39:36 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 18:39:36 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 18:39:36 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 18:39:55 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 18:39:55 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 18:39:55 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 18:39:55 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 18:40:05 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 18:40:05 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 18:40:05 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 18:40:05 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 18:40:40 [SERVER] [INFO] Saving and pausing game...
+2020-01-07 18:40:40 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 18:40:40 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 18:40:40 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-07 18:40:40 [SERVER] [INFO] Stopping server
+2020-01-07 18:40:40 [SERVER] [INFO] Saving players
+2020-01-07 18:40:40 [SERVER] [INFO] Saving worlds
+2020-01-07 18:40:40 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-07 18:40:40 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-07 18:40:40 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 15:56:25 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-08 15:56:25 [SERVER] [INFO] Generating keypair
+2020-01-08 15:56:26 [SERVER] [INFO] Preparing start region for level 0
+2020-01-08 15:56:27 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 96 at (-18.37466652376747, 43.0, 37.5842686036767)
+2020-01-08 15:56:31 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 15:56:31 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 15:56:31 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 15:56:31 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 15:56:51 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 15:56:51 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 15:56:51 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 15:56:51 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 15:56:53 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 15:56:53 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 15:56:53 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 15:56:53 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 15:57:07 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 15:57:07 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 15:57:07 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 15:57:07 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 15:57:31 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 15:57:31 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 15:57:31 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 15:57:31 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 15:57:38 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 15:57:38 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 15:57:38 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 15:57:38 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:00:43 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:00:43 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:00:43 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:00:43 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:04:04 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:04:04 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:04:04 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:04:04 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:04:04 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:04:04 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:04:04 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:04:04 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:06:15 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:06:15 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:06:15 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:06:15 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:06:29 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:06:29 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:06:29 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:06:29 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:06:30 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:06:30 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:06:30 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:06:30 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:06:33 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:06:33 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:06:33 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:06:33 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:07:00 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:07:00 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:07:00 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:07:00 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:07:01 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:07:01 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:07:01 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:07:01 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:07:03 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:07:03 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:07:03 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:07:03 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:07:22 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:07:22 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:07:22 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:07:22 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:07:32 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:07:32 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:07:32 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:07:32 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:08:14 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:08:14 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:08:14 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:08:14 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:08:14 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:08:14 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:08:14 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:08:14 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:11:02 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:11:02 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:11:02 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:11:02 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:11:03 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:11:03 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:11:03 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:11:03 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:12:34 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:12:34 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:12:34 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:12:34 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:12:35 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:12:35 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:12:35 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:12:35 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:12:35 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:12:35 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:12:35 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:12:35 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:13:31 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:13:31 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:13:31 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:13:31 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:14:36 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:14:36 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:14:36 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:14:36 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:14:47 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:14:47 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:14:47 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:14:47 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:17:08 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:17:08 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:17:08 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:17:08 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:17:20 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:17:20 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:17:20 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:17:20 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:17:47 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:17:47 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:17:47 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:17:47 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:17:47 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:17:47 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:17:47 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:17:47 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:18:02 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:18:02 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:18:02 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:18:02 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:18:26 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:18:26 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:18:26 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:18:26 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:18:26 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:18:26 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:18:26 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:18:26 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:18:42 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:18:42 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:18:42 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:18:42 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:18:56 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:18:56 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:18:56 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:18:56 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 16:20:23 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 16:20:23 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 16:20:23 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 16:20:23 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 17:29:58 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 17:29:58 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 17:29:58 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 17:29:58 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 17:30:10 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 17:30:10 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 17:30:10 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 17:30:10 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 17:30:23 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 17:30:23 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 17:30:23 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 17:30:23 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 17:34:10 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 17:34:10 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 17:34:10 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 17:34:10 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 17:34:21 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 17:34:21 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 17:34:21 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 17:34:21 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 17:34:26 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 17:34:26 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 17:34:26 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 17:34:26 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 17:34:37 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 17:34:37 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 17:34:37 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 17:34:37 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 17:34:37 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 17:34:37 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 17:34:37 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 17:34:37 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 17:36:01 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 17:36:01 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 17:36:01 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 17:36:01 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 17:39:25 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 17:39:25 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 17:39:25 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 17:39:25 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 17:39:45 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 17:39:45 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 17:39:45 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 17:39:45 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 17:39:45 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 17:39:45 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 17:39:45 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 17:39:45 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 17:39:59 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 17:39:59 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 17:39:59 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 17:39:59 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 17:40:05 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 17:40:05 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 17:40:05 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 17:40:05 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 17:40:05 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 17:40:05 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 17:40:05 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 17:40:05 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 17:40:14 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 17:40:14 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 17:40:14 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 17:40:14 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 17:40:15 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 17:40:15 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 17:40:15 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 17:40:15 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 17:40:27 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 17:40:27 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 17:40:27 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 17:40:27 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 17:40:37 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 17:40:37 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 17:40:37 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 17:40:37 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 17:40:38 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 17:40:38 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 17:40:38 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 17:40:38 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:11:11 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:11:11 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:11:11 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:11:11 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:11:12 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:11:12 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:11:12 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:11:12 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:11:27 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:11:27 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:11:27 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:11:27 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:11:27 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:11:27 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:11:27 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:11:27 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:11:44 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:11:44 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:11:44 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:11:44 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:11:44 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:11:44 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:11:44 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:11:44 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:11:55 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:11:55 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:11:55 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:11:55 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:11:55 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:11:55 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:11:55 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:11:55 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:13:11 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:13:11 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:13:11 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:13:11 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:13:12 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:13:12 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:13:12 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:13:12 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:13:27 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:13:27 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:13:27 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:13:27 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:13:28 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:13:28 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:13:28 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:13:28 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:13:41 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:13:41 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:13:41 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:13:41 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:13:56 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:13:56 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:13:56 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:13:56 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:13:57 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:13:57 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:13:57 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:13:57 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:14:43 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:14:43 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:14:43 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:14:43 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:14:43 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:14:43 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:14:43 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:14:43 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:22:32 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:22:32 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:22:32 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:22:32 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:29:39 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:29:39 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:29:39 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:29:39 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:30:43 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:30:43 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:30:43 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:30:43 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:30:48 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:30:48 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:30:48 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:30:48 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:37:40 [SERVER] [INFO] Stopping server
+2020-01-08 18:37:40 [SERVER] [INFO] Saving players
+2020-01-08 18:54:33 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-08 18:54:33 [SERVER] [INFO] Generating keypair
+2020-01-08 18:54:33 [SERVER] [INFO] Preparing start region for level 0
+2020-01-08 18:54:33 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 108 at (-18.89092454578608, 44.0, 41.656577318099615)
+2020-01-08 18:54:35 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:54:35 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:54:35 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:54:35 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:54:46 [SERVER] [INFO] [disckord: Set the time to 0]
+2020-01-08 18:54:48 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:54:48 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:54:48 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:54:48 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:55:01 [SERVER] [INFO] [disckord: Set the time to 0]
+2020-01-08 18:55:13 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:55:13 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:55:13 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:55:13 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:55:14 [SERVER] [INFO] Stopping server
+2020-01-08 18:55:14 [SERVER] [INFO] Saving players
+2020-01-08 18:55:14 [SERVER] [INFO] Saving worlds
+2020-01-08 18:55:14 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:55:14 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:55:14 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:56:33 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-08 18:56:33 [SERVER] [INFO] Generating keypair
+2020-01-08 18:56:33 [SERVER] [INFO] Preparing start region for level 0
+2020-01-08 18:56:33 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 110 at (-18.690522232282007, 45.0, 48.04058984589737)
+2020-01-08 18:56:37 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:56:37 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:56:37 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:56:37 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:56:46 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:56:46 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:56:46 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:56:46 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:56:47 [SERVER] [INFO] Stopping server
+2020-01-08 18:56:47 [SERVER] [INFO] Saving players
+2020-01-08 18:56:47 [SERVER] [INFO] Saving worlds
+2020-01-08 18:56:47 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:56:47 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:56:47 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:57:31 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-08 18:57:31 [SERVER] [INFO] Generating keypair
+2020-01-08 18:57:31 [SERVER] [INFO] Preparing start region for level 0
+2020-01-08 18:57:31 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 111 at (-19.20684181575499, 44.0, 40.181920042835806)
+2020-01-08 18:57:34 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:57:34 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:57:34 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:57:34 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:57:37 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:57:37 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:57:37 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:57:37 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:57:37 [SERVER] [INFO] Stopping server
+2020-01-08 18:57:37 [SERVER] [INFO] Saving players
+2020-01-08 18:57:37 [SERVER] [INFO] Saving worlds
+2020-01-08 18:57:37 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:57:37 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:57:37 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:59:05 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-08 18:59:05 [SERVER] [INFO] Generating keypair
+2020-01-08 18:59:05 [SERVER] [INFO] Preparing start region for level 0
+2020-01-08 18:59:06 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 111 at (-19.20684181575499, 44.0, 40.181920042835806)
+2020-01-08 18:59:08 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:59:08 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:59:08 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:59:08 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:59:11 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:59:11 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:59:11 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:59:11 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:59:12 [SERVER] [INFO] Stopping server
+2020-01-08 18:59:12 [SERVER] [INFO] Saving players
+2020-01-08 18:59:12 [SERVER] [INFO] Saving worlds
+2020-01-08 18:59:12 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:59:12 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:59:12 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:59:45 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-08 18:59:45 [SERVER] [INFO] Generating keypair
+2020-01-08 18:59:45 [SERVER] [INFO] Preparing start region for level 0
+2020-01-08 18:59:46 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 111 at (-19.120003590754926, 44.0, 39.560672859597524)
+2020-01-08 18:59:53 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 18:59:53 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:59:53 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:59:53 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 18:59:54 [SERVER] [INFO] disckord lost connection: disconnect.quitting
+2020-01-08 18:59:54 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2020-01-08 18:59:54 [SERVER] [INFO] Stopping server
+2020-01-08 18:59:54 [SERVER] [INFO] Saving players
+2020-01-08 18:59:54 [SERVER] [INFO] Saving worlds
+2020-01-08 18:59:54 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 18:59:54 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 18:59:54 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 19:00:40 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-08 19:00:40 [SERVER] [INFO] Generating keypair
+2020-01-08 19:00:41 [SERVER] [INFO] Preparing start region for level 0
+2020-01-08 19:00:41 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 111 at (-19.120003590754926, 44.0, 39.560672859597524)
+2020-01-08 19:00:51 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 19:00:51 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 19:00:51 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 19:00:51 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 19:00:52 [SERVER] [INFO] Stopping server
+2020-01-08 19:00:52 [SERVER] [INFO] Saving players
+2020-01-08 19:00:52 [SERVER] [INFO] Saving worlds
+2020-01-08 19:00:52 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 19:00:52 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 19:00:52 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 19:01:26 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-08 19:01:26 [SERVER] [INFO] Generating keypair
+2020-01-08 19:01:27 [SERVER] [INFO] Preparing start region for level 0
+2020-01-08 19:01:27 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 110 at (-19.120003590754926, 44.0, 39.560672859597524)
+2020-01-08 19:01:33 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 19:01:33 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 19:01:33 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 19:01:33 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 19:01:33 [SERVER] [INFO] Stopping server
+2020-01-08 19:01:33 [SERVER] [INFO] Saving players
+2020-01-08 19:01:33 [SERVER] [INFO] Saving worlds
+2020-01-08 19:01:33 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 19:01:33 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 19:01:33 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 19:02:07 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-08 19:02:07 [SERVER] [INFO] Generating keypair
+2020-01-08 19:02:07 [SERVER] [INFO] Preparing start region for level 0
+2020-01-08 19:02:08 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 110 at (-19.120003590754926, 44.0, 39.560672859597524)
+2020-01-08 19:02:19 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 19:02:19 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 19:02:19 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 19:02:19 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 19:02:19 [SERVER] [INFO] Stopping server
+2020-01-08 19:02:19 [SERVER] [INFO] Saving players
+2020-01-08 19:02:20 [SERVER] [INFO] Saving worlds
+2020-01-08 19:02:20 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 19:02:20 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 19:02:20 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 19:03:09 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-08 19:03:09 [SERVER] [INFO] Generating keypair
+2020-01-08 19:03:09 [SERVER] [INFO] Preparing start region for level 0
+2020-01-08 19:03:10 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 108 at (-18.384212871135837, 43.0, 40.650204326272856)
+2020-01-08 19:03:14 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 19:03:14 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 19:03:14 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 19:03:14 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 19:03:15 [SERVER] [INFO] Stopping server
+2020-01-08 19:03:15 [SERVER] [INFO] Saving players
+2020-01-08 19:03:15 [SERVER] [INFO] Saving worlds
+2020-01-08 19:03:15 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 19:03:15 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 19:03:15 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 19:03:53 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-08 19:03:53 [SERVER] [INFO] Generating keypair
+2020-01-08 19:03:53 [SERVER] [INFO] Preparing start region for level 0
+2020-01-08 19:03:53 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 107 at (-18.384212871135837, 43.0, 40.650204326272856)
+2020-01-08 19:03:56 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 19:03:56 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 19:03:56 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 19:03:56 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 19:03:59 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 19:03:59 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 19:03:59 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 19:03:59 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 19:04:02 [SERVER] [INFO] Stopping server
+2020-01-08 19:04:50 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-08 19:04:50 [SERVER] [INFO] Generating keypair
+2020-01-08 19:04:50 [SERVER] [INFO] Preparing start region for level 0
+2020-01-08 19:04:50 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 107 at (-18.384212871135837, 43.0, 40.650204326272856)
+2020-01-08 19:04:57 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 19:04:57 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 19:04:57 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 19:04:57 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 19:04:58 [SERVER] [INFO] Stopping server
+2020-01-08 19:04:58 [SERVER] [INFO] Saving players
+2020-01-08 19:04:58 [SERVER] [INFO] Saving worlds
+2020-01-08 19:04:58 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 19:04:58 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 19:04:58 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 19:05:40 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-08 19:05:40 [SERVER] [INFO] Generating keypair
+2020-01-08 19:05:41 [SERVER] [INFO] Preparing start region for level 0
+2020-01-08 19:05:41 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 104 at (-18.384212871135837, 43.0, 40.650204326272856)
+2020-01-08 19:05:44 [SERVER] [INFO] Stopping server
+2020-01-08 19:06:23 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-08 19:06:23 [SERVER] [INFO] Generating keypair
+2020-01-08 19:06:23 [SERVER] [INFO] Preparing start region for level 0
+2020-01-08 19:06:24 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 15 at (-25.354612382203264, 66.7803387100694, 139.3573490916424)
+2020-01-08 21:17:43 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2020-01-08 21:17:43 [SERVER] [INFO] Generating keypair
+2020-01-08 21:17:43 [SERVER] [INFO] Preparing start region for level 0
+2020-01-08 21:17:43 [SERVER] [INFO] disckord[/127.0.0.1:0] logged in with entity id 16 at (-25.354612382203264, 66.7803387100694, 139.3573490916424)
+2020-01-08 21:17:46 [SERVER] [INFO] Saving and pausing game...
+2020-01-08 21:17:46 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 21:17:46 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 21:17:46 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2020-01-08 21:17:47 [SERVER] [INFO] Stopping server
+2020-01-08 21:17:47 [SERVER] [INFO] Saving players
+2020-01-08 21:17:47 [SERVER] [INFO] Saving worlds
+2020-01-08 21:17:47 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2020-01-08 21:17:47 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2020-01-08 21:17:47 [SERVER] [INFO] Saving chunks for level 'New World'/The End

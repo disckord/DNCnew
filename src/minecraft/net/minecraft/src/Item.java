@@ -113,7 +113,7 @@ public class Item
     public static Item cake = (new ItemReed(98, Block.cake)).setMaxStackSize(1).setUnlocalizedName("cake").setCreativeTab(CreativeTabs.tabFood);
     public static Item bed = (new ItemBed(99)).setMaxStackSize(1).setUnlocalizedName("bed");
     public static Item redstoneRepeater = (new ItemReed(100, Block.redstoneRepeaterIdle)).setUnlocalizedName("diode").setCreativeTab(CreativeTabs.tabRedstone);
-    public static Item cookie = (new ItemFood(101, 2, 0.1F, false)).setUnlocalizedName("cookie");
+    public static Item cookie = (new ItemFood(101, 2, 0.1F, false)).setUnlocalizedName("cookie").setMaxStackSize(8);
     public static ItemMap map = (ItemMap)(new ItemMap(102)).setUnlocalizedName("map");
 
     /**

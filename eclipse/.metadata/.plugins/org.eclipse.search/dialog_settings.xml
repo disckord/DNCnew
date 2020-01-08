@@ -20,7 +20,7 @@
 			<item value="true" key="ignoreCase"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="isWholeWord"/>
-			<item value="renderfireinfirstperson" key="textPattern"/>
+			<item value="perspective" key="textPattern"/>
 			<item value="false" key="isRegExSearch"/>
 			<list key="fileNamePatterns">
 				<item value="*"/>
@@ -32,7 +32,7 @@
 			<item value="true" key="ignoreCase"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="isWholeWord"/>
-			<item value="wither" key="textPattern"/>
+			<item value="glhint" key="textPattern"/>
 			<item value="false" key="isRegExSearch"/>
 			<list key="fileNamePatterns">
 				<item value="*"/>
@@ -44,7 +44,7 @@
 			<item value="true" key="ignoreCase"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="isWholeWord"/>
-			<item value="random.chest" key="textPattern"/>
+			<item value="projection" key="textPattern"/>
 			<item value="false" key="isRegExSearch"/>
 			<list key="fileNamePatterns">
 				<item value="*"/>
@@ -56,7 +56,7 @@
 			<item value="true" key="ignoreCase"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="isWholeWord"/>
-			<item value="offancy" key="textPattern"/>
+			<item value="glEnable(GL_DEPTH_TEST)" key="textPattern"/>
 			<item value="false" key="isRegExSearch"/>
 			<list key="fileNamePatterns">
 				<item value="*"/>
@@ -68,7 +68,7 @@
 			<item value="true" key="ignoreCase"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="isWholeWord"/>
-			<item value="chest" key="textPattern"/>
+			<item value="project" key="textPattern"/>
 			<item value="false" key="isRegExSearch"/>
 			<list key="fileNamePatterns">
 				<item value="*"/>
@@ -83,7 +83,7 @@
 			<item value="true" key="ignoreCase"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="isWholeWord"/>
-			<item value="offancyrain" key="textPattern"/>
+			<item value="glEnable(GL_DEPTH_TEST);" key="textPattern"/>
 			<item value="false" key="isRegExSearch"/>
 			<list key="fileNamePatterns">
 				<item value="*"/>
@@ -95,7 +95,7 @@
 			<item value="true" key="ignoreCase"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="isWholeWord"/>
-			<item value="of" key="textPattern"/>
+			<item value="GL11.glEnable(GL11.GL_DEPTH_TEST)" key="textPattern"/>
 			<item value="false" key="isRegExSearch"/>
 			<list key="fileNamePatterns">
 				<item value="*"/>
@@ -107,7 +107,7 @@
 			<item value="true" key="ignoreCase"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="isWholeWord"/>
-			<item value="offancysnow" key="textPattern"/>
+			<item value="glEnable(GL11.GL_DEPTH_TEST)" key="textPattern"/>
 			<item value="false" key="isRegExSearch"/>
 			<list key="fileNamePatterns">
 				<item value="*"/>
@@ -119,7 +119,7 @@
 			<item value="true" key="ignoreCase"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="isWholeWord"/>
-			<item value="en_us" key="textPattern"/>
+			<item value="glortho" key="textPattern"/>
 			<item value="false" key="isRegExSearch"/>
 			<list key="fileNamePatterns">
 				<item value="*"/>
@@ -131,7 +131,7 @@
 			<item value="true" key="ignoreCase"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="isWholeWord"/>
-			<item value="random.chestopen" key="textPattern"/>
+			<item value="gl_ext" key="textPattern"/>
 			<item value="false" key="isRegExSearch"/>
 			<list key="fileNamePatterns">
 				<item value="*"/>
@@ -143,7 +143,7 @@
 			<item value="true" key="ignoreCase"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="isWholeWord"/>
-			<item value="entitynethercreeper" key="textPattern"/>
+			<item value="arrows" key="textPattern"/>
 			<item value="false" key="isRegExSearch"/>
 			<list key="fileNamePatterns">
 				<item value="*"/>
@@ -155,7 +155,7 @@
 			<item value="true" key="ignoreCase"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="isWholeWord"/>
-			<item value="nethercreeper" key="textPattern"/>
+			<item value="arrows.png" key="textPattern"/>
 			<item value="false" key="isRegExSearch"/>
 			<list key="fileNamePatterns">
 				<item value="*"/>
@@ -185,13 +185,13 @@
 	</section>
 	<section name="ReplaceDialog2">
 		<list key="replace_with">
+			<item value="//GL11.glEnable(GL11.GL_DEPTH_TEST)"/>
 			<item value="a1Version.gameVersion"/>
 			<item value="a1Verson.gameVersion"/>
 			<item value="aiVersion.gameVersion"/>
 			<item value="DNC v &quot; + Minecraft.gameversion"/>
 			<item value="DNC v 1.1.3"/>
 			<item value="DNC v 1.1.2"/>
-			<item value="1.0.7"/>
 		</list>
 	</section>
 	<section name="SearchDialog">

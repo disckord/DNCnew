@@ -47,7 +47,7 @@ public class RenderZombie extends RenderBiped
 
     private void func_82427_a(EntityZombie par1EntityZombie)
     {
-        if (par1EntityZombie.isVillager())
+        if (false)//par1EntityZombie.isVillager())
         {
             if (this.field_82431_q != this.field_82432_p.func_82897_a())
             {

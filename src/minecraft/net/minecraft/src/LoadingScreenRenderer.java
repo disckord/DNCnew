@@ -60,6 +60,7 @@ public class LoadingScreenRenderer implements IProgressUpdate
             GL11.glMatrixMode(GL11.GL_PROJECTION);
             GL11.glLoadIdentity();
             GL11.glOrtho(0.0D, var2.getScaledWidth_double(), var2.getScaledHeight_double(), 0.0D, 100.0D, 300.0D);
+           // GL11.glOrtho(0.0D, 6480.0, 240.0, 0.0D, 100.0D, 300.0D);
             GL11.glMatrixMode(GL11.GL_MODELVIEW);
             GL11.glLoadIdentity();
             GL11.glTranslatef(0.0F, 0.0F, -200.0F);

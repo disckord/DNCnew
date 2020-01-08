@@ -55404,3 +55404,466 @@
 2019-12-31 22:27:37 [CLIENT] [INFO] [CHAT] §e ~ §f§2Wilderness
 2019-12-31 22:27:40 [CLIENT] [INFO] [CHAT] §e ~ §adisck - disckords faction
 2019-12-31 22:28:08 [CLIENT] [INFO] Stopping!
+2020-01-04 12:12:48 [CLIENT] [INFO] Setting user: disckord
+2020-01-04 12:12:48 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-04 12:12:52 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-04 12:12:52 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-04 12:12:52 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-04 12:12:52 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-04 12:12:52 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-04 12:12:52 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-04 12:12:52 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-04 12:12:53 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-04 12:12:53 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-04 12:22:57 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 530 to go!
+2020-01-04 12:29:16 [CLIENT] [INFO] [CHAT] disckord fell out of the world
+2020-01-04 12:29:36 [CLIENT] [INFO] Stopping!
+2020-01-04 13:21:34 [CLIENT] [INFO] Setting user: disckord
+2020-01-04 13:21:34 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-04 13:21:37 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-04 13:21:37 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-04 13:21:37 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-04 13:21:37 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-04 13:21:37 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-04 13:21:37 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-04 13:21:37 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-04 13:21:38 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-04 13:21:38 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-04 13:21:44 [CLIENT] [INFO] [CHAT] Set the time to 12500
+2020-01-04 13:21:50 [CLIENT] [INFO] [CHAT] Added 1000 to the time
+2020-01-04 13:21:54 [CLIENT] [INFO] Stopping!
+2020-01-04 19:22:52 [CLIENT] [INFO] Setting user: disckord
+2020-01-04 19:22:52 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-04 19:22:55 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-04 19:22:55 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-04 19:22:55 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-04 19:22:55 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-04 19:22:55 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-04 19:22:55 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-04 19:22:55 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-04 19:22:55 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-04 19:22:55 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-04 19:23:19 [CLIENT] [INFO] Stopping!
+2020-01-04 19:27:26 [CLIENT] [INFO] Setting user: disckord
+2020-01-04 19:27:26 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-04 19:27:29 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-04 19:27:29 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-04 19:27:29 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-04 19:27:29 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-04 19:27:29 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-04 19:27:29 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-04 19:27:29 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-04 19:27:30 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-04 19:27:30 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-04 19:27:41 [CLIENT] [INFO] [CHAT] Set the time to 0
+2020-01-04 19:27:58 [CLIENT] [INFO] Stopping!
+2020-01-04 19:34:00 [CLIENT] [INFO] Setting user: disckord
+2020-01-04 19:34:01 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-04 19:34:03 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-04 19:34:03 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-04 19:34:03 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-04 19:34:03 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-04 19:34:03 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-04 19:34:03 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-04 19:34:03 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-04 19:34:04 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-04 19:34:04 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-04 19:34:11 [CLIENT] [INFO] [CHAT] disckord fell out of the world
+2020-01-04 19:34:11 [CLIENT] [INFO] [CHAT] Ouch. That looks like it hurt.
+2020-01-04 19:34:23 [CLIENT] [INFO] [CHAT] disckord fell out of the world
+2020-01-04 19:34:23 [CLIENT] [INFO] [CHAT] Ouch. That looks like it hurt.
+2020-01-04 19:34:41 [CLIENT] [INFO] Stopping!
+2020-01-04 19:41:09 [CLIENT] [INFO] Setting user: disckord
+2020-01-04 19:41:09 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-04 19:41:11 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-04 19:41:11 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-04 19:41:11 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-04 19:41:11 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-04 19:41:11 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-04 19:41:11 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-04 19:41:11 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-04 19:41:12 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-04 19:41:12 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-05 16:10:21 [CLIENT] [INFO] Setting user: disckord
+2020-01-05 16:10:21 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-05 16:10:25 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-05 16:10:25 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-05 16:10:25 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-05 16:10:25 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-05 16:10:25 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-05 16:10:25 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-05 16:10:25 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-05 16:10:26 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-05 16:10:26 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-05 16:11:31 [CLIENT] [INFO] Stopping!
+2020-01-05 16:11:35 [CLIENT] [INFO] Setting user: disckord
+2020-01-05 16:11:35 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-05 16:11:38 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-05 16:11:38 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-05 16:11:38 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-05 16:11:38 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-05 16:11:38 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-05 16:11:38 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-05 16:11:38 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-05 16:11:39 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-05 16:11:39 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-05 16:11:42 [CLIENT] [INFO] Setting user: disckord
+2020-01-05 16:11:42 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-05 16:11:45 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-05 16:11:45 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-05 16:11:45 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-05 16:11:45 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-05 16:11:45 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-05 16:11:45 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-05 16:11:45 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-05 16:11:46 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-05 16:11:46 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-05 16:11:56 [CLIENT] [INFO] Stopping!
+2020-01-05 16:12:06 [CLIENT] [INFO] Setting user: disckord
+2020-01-05 16:12:06 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-05 16:12:09 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-05 16:12:09 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-05 16:12:09 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-05 16:12:09 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-05 16:12:09 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-05 16:12:09 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-05 16:12:09 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-05 16:12:09 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-05 16:12:09 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-05 16:12:30 [CLIENT] [INFO] Stopping!
+2020-01-05 19:21:09 [CLIENT] [INFO] Setting user: disckord
+2020-01-05 19:21:09 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-05 19:21:12 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-05 19:21:12 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-05 19:21:12 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-05 19:21:12 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-05 19:21:12 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-05 19:21:12 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-05 19:21:12 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-05 19:21:12 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-05 19:21:12 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-05 19:21:24 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-05 19:21:37 [CLIENT] [INFO] Stopping!
+2020-01-07 13:00:29 [CLIENT] [INFO] Setting user: disckord
+2020-01-07 13:00:29 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-07 13:00:34 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-07 13:00:34 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-07 13:00:34 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-07 13:00:34 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-07 13:00:34 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-07 13:00:34 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-07 13:00:34 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-07 13:00:34 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-07 13:00:34 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-07 13:00:43 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 13:13:59 [CLIENT] [INFO] Setting user: disckord
+2020-01-07 13:13:59 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-07 13:14:01 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-07 13:14:01 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-07 13:14:01 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-07 13:14:01 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-07 13:14:01 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-07 13:14:01 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-07 13:14:01 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-07 13:14:02 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-07 13:14:02 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-07 13:14:05 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 13:14:40 [CLIENT] [INFO] Stopping!
+2020-01-07 13:14:48 [CLIENT] [INFO] Setting user: disckord
+2020-01-07 13:14:48 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-07 13:14:50 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-07 13:14:50 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-07 13:14:50 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-07 13:14:50 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-07 13:14:50 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-07 13:14:50 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-07 13:14:50 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-07 13:14:51 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-07 13:14:51 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-07 13:14:53 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 13:15:08 [CLIENT] [INFO] Setting user: disckord
+2020-01-07 13:15:08 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-07 13:15:11 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-07 13:15:11 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-07 13:15:11 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-07 13:15:11 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-07 13:15:11 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-07 13:15:11 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-07 13:15:11 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-07 13:15:11 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-07 13:15:11 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-07 13:15:27 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 13:22:11 [CLIENT] [INFO] Stopping!
+2020-01-07 13:22:14 [CLIENT] [INFO] Setting user: disckord
+2020-01-07 13:22:14 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-07 13:22:16 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-07 13:22:16 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-07 13:22:16 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-07 13:22:16 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-07 13:22:16 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-07 13:22:16 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-07 13:22:16 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-07 13:22:17 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-07 13:22:17 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-07 13:22:20 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 13:29:08 [CLIENT] [INFO] Stopping!
+2020-01-07 13:29:10 [CLIENT] [INFO] Setting user: disckord
+2020-01-07 13:29:10 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-07 13:29:13 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-07 13:29:13 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-07 13:29:13 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-07 13:29:13 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-07 13:29:13 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-07 13:29:13 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-07 13:29:13 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-07 13:29:14 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-07 13:29:14 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-07 13:29:18 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 13:50:41 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 6493 to go!
+2020-01-07 13:50:41 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 4013 to go!
+2020-01-07 13:50:41 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 1524 to go!
+2020-01-07 16:49:34 [CLIENT] [INFO] Setting user: disckord
+2020-01-07 16:49:34 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-07 16:49:37 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-07 16:49:37 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-07 16:49:37 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-07 16:49:37 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-07 16:49:37 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-07 16:49:37 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-07 16:49:37 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-07 16:49:37 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-07 16:49:37 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-07 16:49:55 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 16:51:32 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 16:51:55 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 16:52:59 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 16:53:46 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 16:55:17 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 16:56:17 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 16:58:26 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 17:02:45 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 17:04:35 [CLIENT] [INFO] [CHAT] Saved screenshot as 2020-01-07_17.04.35.png
+2020-01-07 17:08:34 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 17:13:35 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 17:14:53 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 17:23:02 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 17:25:22 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2020-01-07 17:26:15 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 17:34:16 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program gbuffers_terrain
+2020-01-07 17:37:17 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program gbuffers_terrain
+2020-01-07 17:38:28 [CLIENT] [INFO] [CHAT] Changing to rainy weather
+2020-01-07 17:38:54 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program gbuffers_terrain
+2020-01-07 17:39:22 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program gbuffers_terrain
+2020-01-07 17:39:35 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program gbuffers_terrain
+2020-01-07 17:39:50 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program gbuffers_terrain
+2020-01-07 17:42:30 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 17:42:33 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 17:42:33 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 17:43:16 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 17:43:26 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 17:44:10 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-07 18:37:30 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program gbuffers_terrain
+2020-01-07 18:40:41 [CLIENT] [INFO] Stopping!
+2020-01-08 15:56:05 [CLIENT] [INFO] Setting user: disckord
+2020-01-08 15:56:05 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-08 15:56:09 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-08 15:56:09 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-08 15:56:09 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-08 15:56:09 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-08 15:56:09 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-08 15:56:09 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-08 15:56:09 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-08 15:56:10 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-08 15:56:10 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-08 15:56:55 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program gbuffers_terrain
+2020-01-08 16:00:45 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program gbuffers_terrain
+2020-01-08 16:06:45 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-08 16:07:02 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-08 16:08:15 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-08 16:11:07 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-08 16:12:36 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-08 16:14:38 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-08 16:17:09 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-08 16:18:27 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-08 16:18:43 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-08 16:18:57 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-08 17:30:11 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-08 17:30:11 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-08 17:34:22 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-08 17:36:02 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-08 17:39:46 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-08 17:39:47 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-08 17:40:39 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-08 17:40:39 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-08 18:13:43 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-08 18:13:58 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-08 18:14:44 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-08 18:30:44 [CLIENT] [INFO] [CHAT] [Shaders] Error : Invalid program final
+2020-01-08 18:54:28 [CLIENT] [INFO] Setting user: disckord
+2020-01-08 18:54:28 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-08 18:54:31 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-08 18:54:31 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-08 18:54:31 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-08 18:54:31 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-08 18:54:31 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-08 18:54:31 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-08 18:54:31 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-08 18:54:32 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-08 18:54:32 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-08 18:54:46 [CLIENT] [INFO] [CHAT] Set the time to 0
+2020-01-08 18:55:01 [CLIENT] [INFO] [CHAT] Set the time to 0
+2020-01-08 18:55:15 [CLIENT] [INFO] Stopping!
+2020-01-08 18:56:28 [CLIENT] [INFO] Setting user: disckord
+2020-01-08 18:56:28 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-08 18:56:31 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-08 18:56:31 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-08 18:56:31 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-08 18:56:31 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-08 18:56:31 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-08 18:56:31 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-08 18:56:31 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-08 18:56:31 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-08 18:56:31 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-08 18:56:47 [CLIENT] [INFO] Stopping!
+2020-01-08 18:57:26 [CLIENT] [INFO] Setting user: disckord
+2020-01-08 18:57:26 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-08 18:57:28 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-08 18:57:28 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-08 18:57:28 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-08 18:57:28 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-08 18:57:28 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-08 18:57:28 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-08 18:57:28 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-08 18:57:29 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-08 18:57:29 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-08 18:57:38 [CLIENT] [INFO] Stopping!
+2020-01-08 18:59:00 [CLIENT] [INFO] Setting user: disckord
+2020-01-08 18:59:00 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-08 18:59:03 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-08 18:59:03 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-08 18:59:03 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-08 18:59:03 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-08 18:59:03 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-08 18:59:03 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-08 18:59:03 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-08 18:59:04 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-08 18:59:04 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-08 18:59:16 [CLIENT] [INFO] Stopping!
+2020-01-08 18:59:40 [CLIENT] [INFO] Setting user: disckord
+2020-01-08 18:59:41 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-08 18:59:43 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-08 18:59:43 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-08 18:59:43 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-08 18:59:43 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-08 18:59:43 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-08 18:59:43 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-08 18:59:43 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-08 18:59:44 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-08 18:59:44 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-08 18:59:54 [CLIENT] [INFO] Stopping!
+2020-01-08 19:00:34 [CLIENT] [INFO] Setting user: disckord
+2020-01-08 19:00:34 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-08 19:00:37 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-08 19:00:37 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-08 19:00:37 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-08 19:00:37 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-08 19:00:37 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-08 19:00:37 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-08 19:00:37 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-08 19:00:37 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-08 19:00:38 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-08 19:00:52 [CLIENT] [INFO] Stopping!
+2020-01-08 19:01:21 [CLIENT] [INFO] Setting user: disckord
+2020-01-08 19:01:21 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-08 19:01:24 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-08 19:01:24 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-08 19:01:24 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-08 19:01:24 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-08 19:01:24 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-08 19:01:24 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-08 19:01:24 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-08 19:01:25 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-08 19:01:25 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-08 19:01:33 [CLIENT] [INFO] Stopping!
+2020-01-08 19:02:03 [CLIENT] [INFO] Setting user: disckord
+2020-01-08 19:02:03 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-08 19:02:05 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-08 19:02:05 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-08 19:02:05 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-08 19:02:05 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-08 19:02:05 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-08 19:02:05 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-08 19:02:05 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-08 19:02:06 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-08 19:02:06 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-08 19:02:21 [CLIENT] [INFO] Stopping!
+2020-01-08 19:02:58 [CLIENT] [INFO] Setting user: disckord
+2020-01-08 19:02:58 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-08 19:03:01 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-08 19:03:01 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-08 19:03:01 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-08 19:03:01 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-08 19:03:01 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-08 19:03:01 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-08 19:03:01 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-08 19:03:02 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-08 19:03:02 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-08 19:03:22 [CLIENT] [INFO] Stopping!
+2020-01-08 19:03:42 [CLIENT] [INFO] Setting user: disckord
+2020-01-08 19:03:42 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-08 19:03:44 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-08 19:03:44 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-08 19:03:44 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-08 19:03:44 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-08 19:03:44 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-08 19:03:44 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-08 19:03:44 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-08 19:03:45 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-08 19:03:45 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-08 19:04:45 [CLIENT] [INFO] Setting user: disckord
+2020-01-08 19:04:45 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-08 19:04:48 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-08 19:04:48 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-08 19:04:48 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-08 19:04:48 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-08 19:04:48 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-08 19:04:48 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-08 19:04:48 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-08 19:04:49 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-08 19:04:49 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-08 19:04:58 [CLIENT] [INFO] Stopping!
+2020-01-08 19:05:35 [CLIENT] [INFO] Setting user: disckord
+2020-01-08 19:05:35 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-08 19:05:38 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-08 19:05:38 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-08 19:05:38 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-08 19:05:38 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-08 19:05:38 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-08 19:05:38 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-08 19:05:38 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-08 19:05:39 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-08 19:05:39 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-08 19:06:03 [CLIENT] [INFO] Setting user: disckord
+2020-01-08 19:06:03 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-08 19:06:06 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-08 19:06:06 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-08 19:06:06 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-08 19:06:06 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-08 19:06:06 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-08 19:06:06 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-08 19:06:06 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-08 19:06:07 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-08 19:06:07 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-08 21:17:38 [CLIENT] [INFO] Setting user: disckord
+2020-01-08 21:17:38 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2020-01-08 21:17:41 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2020-01-08 21:17:41 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2020-01-08 21:17:41 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2020-01-08 21:17:41 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2020-01-08 21:17:41 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2020-01-08 21:17:41 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2020-01-08 21:17:41 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2020-01-08 21:17:41 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2020-01-08 21:17:41 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2020-01-08 21:19:21 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2020-01-08 21:19:22 [CLIENT] [INFO] [CHAT] Saved screenshot as 2020-01-08_21.19.22.png
