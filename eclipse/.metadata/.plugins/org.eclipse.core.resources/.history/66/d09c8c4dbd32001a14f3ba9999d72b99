@@ -1,0 +1,12 @@
+package net.minecraft.src;
+
+public enum EnumBowType {
+	IRONBOW(1,1);
+	
+private EnumBowType(int i, int k)
+{
+	
+}
+}
+
+

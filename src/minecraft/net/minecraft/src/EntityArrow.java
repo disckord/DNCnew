@@ -4,6 +4,9 @@ import java.util.List;
 
 public class EntityArrow extends Entity implements IProjectile
 {
+	
+	public EnumBowType ebt = EnumBowType.DEFAULT;
+	public EnumArrowType eat;
     private int xTile = -1;
     private int yTile = -1;
     private int zTile = -1;
@@ -21,17 +24,21 @@ public class EntityArrow extends Entity implements IProjectile
     public Entity shootingEntity;
     private int ticksInGround;
     private int ticksInAir = 0;
-    private double damage = 2.0D;
+    private double damage = 4.0D;
 
     /** The amount of knockback an arrow applies when it hits a mob. */
     private int knockbackStrength;
-
+	private double flightDrop = 0.05D ;
+	
     public EntityArrow(World world, EntityLiving par2EntityLiving)
     {
     	super(world);
     	 this.renderDistanceWeight = 10.0D;
          this.shootingEntity = par2EntityLiving;
-
+         if(this.eat == null)
+         {
+        	 this.eat = EnumArrowType.DEFAULT;
+         }
          if (par2EntityLiving instanceof EntityPlayer)
          {
              this.canBePickedUp = 1;
@@ -49,10 +56,43 @@ public class EntityArrow extends Entity implements IProjectile
          this.motionY = (double)(-MathHelper.sin(this.rotationPitch / 180.0F * (float)Math.PI));
          this.setThrowableHeading(this.motionX, this.motionY, this.motionZ, 1.5F, 1.0F);
     }
+    public EntityArrow(World world, EntityLiving par2EntityLiving, EnumArrowType eat, EnumBowType ebt)
+    {
+    	super(world);
+    	this.eat = eat;
+    	this.ebt = ebt;
+    	this.damage = eat.damage + ebt.addedDmg;
+    	 
+    	 this.renderDistanceWeight = 10.0D;
+         this.shootingEntity = par2EntityLiving;
+
+         if (par2EntityLiving instanceof EntityPlayer)
+         {
+             this.canBePickedUp = 1;
+         }
+
+         this.setSize(0.5F, 0.5F);
+         this.setLocationAndAngles(par2EntityLiving.posX, par2EntityLiving.posY + (double)par2EntityLiving.getEyeHeight(), par2EntityLiving.posZ, par2EntityLiving.rotationYaw, par2EntityLiving.rotationPitch);
+         this.posX -= (double)(MathHelper.cos(this.rotationYaw / 180.0F * (float)Math.PI) * 0.16F);
+         this.posY -= 0.10000000149011612D;
+         this.posZ -= (double)(MathHelper.sin(this.rotationYaw / 180.0F * (float)Math.PI) * 0.16F);
+         this.setPosition(this.posX, this.posY, this.posZ);
+         this.yOffset = 0.0F;
+         
+         this.motionX = (double)(-MathHelper.sin(this.rotationYaw / 180.0F * (float)Math.PI) * MathHelper.cos(this.rotationPitch / 180.0F * (float)Math.PI));
+         this.motionZ = (double)(MathHelper.cos(this.rotationYaw / 180.0F * (float)Math.PI) * MathHelper.cos(this.rotationPitch / 180.0F * (float)Math.PI));
+         this.motionY = (double)(-MathHelper.sin(this.rotationPitch / 180.0F * (float)Math.PI));
+         
+         this.setThrowableHeading(this.motionX, this.motionY, this.motionZ, 1.5F, ebt.accuracy);
+    }
     
     public EntityArrow(World par1World)
     {
         super(par1World);
+        if(this.eat == null)
+        {
+       	 this.eat = EnumArrowType.DEFAULT;
+        }
         this.renderDistanceWeight = 10.0D;
         this.setSize(0.5F, 0.5F);
     }
@@ -60,6 +100,10 @@ public class EntityArrow extends Entity implements IProjectile
     public EntityArrow(World par1World, double par2, double par4, double par6)
     {
         super(par1World);
+        if(this.eat == null)
+        {
+       	 this.eat = EnumArrowType.DEFAULT;
+        }
         this.renderDistanceWeight = 10.0D;
         this.setSize(0.5F, 0.5F);
         this.setPosition(par2, par4, par6);
@@ -71,7 +115,10 @@ public class EntityArrow extends Entity implements IProjectile
         super(par1World);
         this.renderDistanceWeight = 10.0D;
         this.shootingEntity = par2EntityLiving;
-
+        if(this.eat == null)
+        {
+       	 this.eat = EnumArrowType.DEFAULT;
+        }
         if (par2EntityLiving instanceof EntityPlayer)
         {
             this.canBePickedUp = 1;
@@ -99,6 +146,10 @@ public class EntityArrow extends Entity implements IProjectile
     public EntityArrow(World par1World, EntityLiving par2EntityLiving, float par3)
     {
         super(par1World);
+        if(this.eat == null)
+        {
+       	 this.eat = EnumArrowType.DEFAULT;
+        }
         this.renderDistanceWeight = 10.0D;
         this.shootingEntity = par2EntityLiving;
 
@@ -119,18 +170,30 @@ public class EntityArrow extends Entity implements IProjectile
         this.motionY = (double)(-MathHelper.sin(this.rotationPitch / 180.0F * (float)Math.PI));
         this.setThrowableHeading(this.motionX, this.motionY, this.motionZ, par3 * 1.5F, 1.0F);
     }
-
+    
     protected void entityInit()
     {
-        this.dataWatcher.addObject(16, Byte.valueOf((byte)0));
+    
+    this.dataWatcher.addObject(16, Byte.valueOf((byte)0));
+    this.dataWatcher.addObject(13, Byte.valueOf((byte)0));
+    	
     }
-
+ public int getArrowType()
+ {
+	 return this.getDataWatcher().getWatchableObjectByte(13);
+ }
+ public void setArrowType(EnumArrowType eat)
+ {
+	 this.eat = eat;
+	 this.getDataWatcher().updateObject(13, Byte.valueOf((byte)(eat.ordinal())));
+ }
     /**
      * Similar to setArrowHeading, it's point the throwable entity to a x, y, z direction.
      */
     public void setThrowableHeading(double par1, double par3, double par5, float par7, float par8)
     {
         float var9 = MathHelper.sqrt_double(par1 * par1 + par3 * par3 + par5 * par5);
+        
         par1 /= (double)var9;
         par3 /= (double)var9;
         par5 /= (double)var9;
@@ -140,9 +203,15 @@ public class EntityArrow extends Entity implements IProjectile
         par1 *= (double)par7;
         par3 *= (double)par7;
         par5 *= (double)par7;
-        this.motionX = par1;
-        this.motionY = par3;
-        this.motionZ = par5;
+        float addedvel = (eat.addedVel + ebt.velocity);
+        /*if(eat == EnumArrowType.GOLDARROW && ebt == EnumBowType.GOLDBOW)
+        {
+        	addedvel *= 1.5F;
+        }*/
+        //flightDrop -= (eat.flightModifier * ebt.flightModifier);
+        this.motionX = par1 * (double)addedvel;
+        this.motionY = par3 * (double)addedvel;
+        this.motionZ = par5 * (double)addedvel;
         float var10 = MathHelper.sqrt_double(par1 * par1 + par5 * par5);
         this.prevRotationYaw = this.rotationYaw = (float)(Math.atan2(par1, par5) * 180.0D / Math.PI);
         this.prevRotationPitch = this.rotationPitch = (float)(Math.atan2(par3, (double)var10) * 180.0D / Math.PI);
@@ -185,6 +254,10 @@ public class EntityArrow extends Entity implements IProjectile
      */
     public void onUpdate()
     {
+  
+    double var11 = flightDrop;
+    this.motionY -= var11;
+       
         super.onUpdate();
 
         if (this.prevRotationPitch == 0.0F && this.prevRotationYaw == 0.0F)
@@ -254,7 +327,6 @@ public class EntityArrow extends Entity implements IProjectile
             List var6 = this.worldObj.getEntitiesWithinAABBExcludingEntity(this, this.boundingBox.addCoord(this.motionX, this.motionY, this.motionZ).expand(1.0D, 1.0D, 1.0D));
             double var7 = 0.0D;
             int var9;
-            float var11;
 
             for (var9 = 0; var9 < var6.size(); ++var9)
             {
@@ -302,7 +374,7 @@ public class EntityArrow extends Entity implements IProjectile
                 if (var4.entityHit != null)
                 {
                     var21 = MathHelper.sqrt_double(this.motionX * this.motionX + this.motionY * this.motionY + this.motionZ * this.motionZ);
-                    int var22 = MathHelper.ceiling_double_int((double)var21 * this.damage);
+                    int var22 = MathHelper.ceiling_double_int( this.damage);
 
                     if (this.getIsCritical())
                     {
@@ -456,7 +528,6 @@ public class EntityArrow extends Entity implements IProjectile
             this.motionX *= (double)var24;
             this.motionY *= (double)var24;
             this.motionZ *= (double)var24;
-            this.motionY -= (double)var11;
             this.setPosition(this.posX, this.posY, this.posZ);
             
             this.doBlockCollisions();
@@ -512,11 +583,22 @@ public class EntityArrow extends Entity implements IProjectile
      */
     public void onCollideWithPlayer(EntityPlayer par1EntityPlayer)
     {
+    	//TODO give itemarrow depending on arrows arrowtype
         if (!this.worldObj.isRemote && this.inGround && this.arrowShake <= 0)
         {
             boolean var2 = this.canBePickedUp == 1 || this.canBePickedUp == 2 && par1EntityPlayer.capabilities.isCreativeMode;
-
-            if (this.canBePickedUp == 1 && !par1EntityPlayer.inventory.addItemStackToInventory(new ItemStack(Item.arrow, 1)))
+            Item i= Item.arrow;
+            if(this.eat == EnumArrowType.GOLDARROW)
+            {
+            	i = Item.goldArrow;
+            }else if(this.eat == EnumArrowType.DIAMONDARROW)
+            {
+            	i = Item.diamondArrow;
+            }else if(this.eat == EnumArrowType.IRONARROW)
+            {
+            	i = Item.ironArrow;
+            }
+            if (this.canBePickedUp == 1 && !par1EntityPlayer.inventory.addItemStackToInventory(new ItemStack(i, 1)))
             {
                 var2 = false;
             }
@@ -596,4 +678,9 @@ public class EntityArrow extends Entity implements IProjectile
         return (var1 & 1) != 0;*/
     	return false;
     }
+	public EntityArrow setNoDropFlightDrop() 
+	{
+		this.flightDrop *= 0.8D;
+		return this;
+	}
 }

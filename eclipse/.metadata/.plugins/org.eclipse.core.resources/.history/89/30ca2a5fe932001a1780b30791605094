@@ -1,0 +1,20 @@
+package net.minecraft.src;
+
+public enum EnumBowType {
+	DEFAULT(384,2,0),
+	IRONBOW(608,4, 0),
+	DIAMONDBOW(816,5,0),
+	GOLDBOW(512,3,0);
+	
+private EnumBowType(int durability, int damage, float velocity)
+{
+	this.durability = durability;
+	this.addedDmg = damage;
+	this.velocity = velocity;
+}
+public int durability;
+public int addedDmg;
+public float velocity;
+}
+
+

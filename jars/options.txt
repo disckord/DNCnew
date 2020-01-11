@@ -1,5 +1,5 @@
-music:1.0
-sound:0.0
+music:0.0
+sound:1.0
 invertYMouse:false
 mouseSensitivity:0.35915494
 fov:0.0
@@ -42,9 +42,9 @@ chatWidth:1.0
 perkSounds:true
 firstPersonPerks:false
 alphaTextures:false
-alphaFoliage:false
+alphaFoliage:true
 oldChests:true
-clearGlass:false
+clearGlass:true
 key_key.attack:-100
 key_key.use:-99
 key_key.forward:17

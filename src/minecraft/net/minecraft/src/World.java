@@ -1422,12 +1422,14 @@ public abstract class World implements IBlockAccess
         this.weatherEffects.add(par1Entity);
         return true;
     }
-
+    
     /**
      * Called to place all entities as part of a world
      */
     public boolean spawnEntityInWorld(Entity par1Entity)
     {
+    	
+    	
         int var2 = MathHelper.floor_double(par1Entity.posX / 16.0D);
         int var3 = MathHelper.floor_double(par1Entity.posZ / 16.0D);
         boolean var4 = par1Entity.field_98038_p;
@@ -1681,7 +1683,13 @@ public abstract class World implements IBlockAccess
         var3 = 1.0F - var3;
         var3 = (float)((double)var3 * (1.0D - (double)(this.getRainStrength(par1) * 5.0F) / 16.0D));
         var3 = (float)((double)var3 * (1.0D - (double)(this.getWeightedThunderStrength(par1) * 5.0F) / 16.0D));
-        return var3 * 0.8F + 0.2F;
+        float result = Math.round(var3 * 10.0f) / 10f;
+        if(result <= 0.1f)
+        {
+        	result = 0.1f;
+        }
+       // System.out.println(result);
+        return result;
     }
 
     /**

@@ -45,7 +45,7 @@ ofSunMoon:true
 ofChunkUpdates:1
 ofChunkLoading:0
 ofChunkUpdatesDynamic:false
-ofTime:0
+ofTime:2
 ofClearWater:false
 ofDepthFog:true
 ofAaLevel:0

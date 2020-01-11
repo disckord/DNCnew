@@ -372,7 +372,7 @@ public abstract class BiomeGenBase
 
     protected BiomeGenBase setColor(int par1)
     {
-        this.color = par1;
+        this.color = 353825;
         return this;
     }
 

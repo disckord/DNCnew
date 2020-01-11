@@ -60,6 +60,10 @@ public final class ItemStack
 
     public ItemStack(int par1, int par2, int par3)
     {
+    	if(par1 == Item.goldBow.itemID)
+    	{
+    		this.addEnchantment(Enchantment.flame, 1);
+    	}
     	if(par1 == Item.hoeHARDGOLD.itemID)
     	{
     		this.addEnchantment(Enchantment.knockback, 4);

@@ -2,20 +2,20 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="getWidth" key="selection"/>
+		<item value="entityInit" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
-			<item value="getWidth"/>
-			<item value="displayWidth"/>
-			<item value="GL11.glHint(GL11.GL_PERSPECTIVE_CORRECTION_HINT, GL11.GL_FASTEST);"/>
-			<item value="renderwo"/>
-			<item value="gl11"/>
-			<item value="rainStrength"/>
-			<item value="projectionmatrix"/>
-			<item value="project"/>
+			<item value="entityinit"/>
+			<item value="watcher"/>
+			<item value="getdata"/>
+			<item value="isvil"/>
+			<item value="type"/>
+			<item value="getarr"/>
+			<item value="enum"/>
+			<item value="eat"/>
 		</list>
 		<list key="replacehistory">
 			<item value="-"/>

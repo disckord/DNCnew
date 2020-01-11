@@ -263,6 +263,7 @@ public abstract class Minecraft implements Runnable, IPlayerUsage
             }
 
             Display.setParent(this.mcCanvas);
+            
         }
         else if (this.fullscreen)
         {
@@ -287,6 +288,7 @@ public abstract class Minecraft implements Runnable, IPlayerUsage
 
         Display.setTitle("Minecraft Minecraft DNC v " + a1Version.gameVersion);
         this.getLogAgent().logInfo("LWJGL Version: " + Sys.getVersion());
+       
 
         try
         {

@@ -17,7 +17,7 @@ public class Item
     public static Item axeIron = (new ItemAxe(2, EnumToolMaterial.IRON)).setUnlocalizedName("hatchetIron");
     public static Item flintAndSteel = (new ItemFlintAndSteel(3)).setUnlocalizedName("flintAndSteel");
     public static Item appleRed = (new ItemFood(4, 2, 0.3F, false)).setUnlocalizedName("apple");
-    public static ItemBow bow = (ItemBow)(new ItemBow(5)).setUnlocalizedName("bow");
+    public static ItemBow bow = (ItemBow)(new ItemBow(5,EnumBowType.DEFAULT)).setUnlocalizedName("bow");
     public static Item arrow = (new Item(6)).setUnlocalizedName("arrow").setCreativeTab(CreativeTabs.tabCombat);
     public static Item coal = (new ItemCoal(7)).setUnlocalizedName("coal");
     public static Item diamond = (new Item(8)).setUnlocalizedName("diamond").setCreativeTab(CreativeTabs.tabMaterials);
@@ -250,6 +250,14 @@ public class Item
     public static Item swordQEHARDIRON = (new ItemSword(233,EnumToolMaterial.QEHARDIRON).setUnlocalizedName("swordQEHARDIRON"));
     public static Item swordQEHARDDIAMOND = (new ItemSword(234,EnumToolMaterial.QEHARDDIAMOND).setUnlocalizedName("swordQEHARDDIAMOND"));
     public static Item swordQEHARDGOLD = (new ItemSword(235,EnumToolMaterial.QEHARDGOLD).setUnlocalizedName("swordQEHARDGOLD"));
+    
+
+    public static Item ironArrow = (new Item(236)).setUnlocalizedName("ironarrow").setCreativeTab(CreativeTabs.tabCombat);
+    public static Item diamondArrow = (new Item(237)).setUnlocalizedName("diamondarrow").setCreativeTab(CreativeTabs.tabCombat);
+    public static Item goldArrow = (new Item(238)).setUnlocalizedName("goldarrow").setCreativeTab(CreativeTabs.tabCombat);
+    public static ItemBow ironBow = (ItemBow)(new ItemBow(239, EnumBowType.IRONBOW)).setUnlocalizedName("ironbow");
+    public static ItemBow diamondBow = (ItemBow)(new ItemBow(240, EnumBowType.DIAMONDBOW)).setUnlocalizedName("diamondbow");
+    public static ItemBow goldBow = (ItemBow)(new ItemBow(241, EnumBowType.GOLDBOW)).setUnlocalizedName("goldbow");
     
     /*public static Item bundledPorkRaw = (new ItemFood(230, 3, 0.3F, true)).setUnlocalizedName("bundledPorkRaw").setMaxStackSize(4);
     public static Item bundledPorkCooked = (new ItemFood(231, 8, 0.8F, true)).setUnlocalizedName("bundledPorkCooked").setMaxStackSize(4);

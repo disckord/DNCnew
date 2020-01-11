@@ -7,7 +7,25 @@ public class RenderArrow extends Render
 {
     public void renderArrow(EntityArrow par1EntityArrow, double par2, double par4, double par6, float par8, float par9)
     {
+    	//System.out.println(par1EntityArrow.getArrowType());
+    	int t = par1EntityArrow.getArrowType();
+    	if(t == EnumArrowType.GOLDARROW.ordinal())
+    	{
+    		this.loadTexture("/item/goldarrows.png");
+    	}
+    	else if(t == EnumArrowType.DIAMONDARROW.ordinal())
+    	{
+    		this.loadTexture("/item/diamondarrows.png");
+    	}
+    	else if(t == EnumArrowType.IRONARROW.ordinal())
+    	{
+    		this.loadTexture("/item/ironarrows.png");
+    	}
+    	else
+    	{
         this.loadTexture("/item/arrows.png");
+    	}
+    	
         GL11.glPushMatrix();
         GL11.glTranslatef((float)par2, (float)par4, (float)par6);
         GL11.glRotatef(par1EntityArrow.prevRotationYaw + (par1EntityArrow.rotationYaw - par1EntityArrow.prevRotationYaw) * par9 - 90.0F, 0.0F, 1.0F, 0.0F);

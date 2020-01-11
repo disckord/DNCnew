@@ -1,0 +1,13 @@
+package net.minecraft.src;
+
+public enum EnumArrowType 
+{
+DEFAULT(0,0);
+	
+private EnumArrowType(int addedDmg, int addedVel)
+{
+	
+}
+public int addedDmg;
+public int addedVel;
+}

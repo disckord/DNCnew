@@ -7,7 +7,8 @@
 		<item value="1000" key="org.eclipse.search.resultpage.limit"/>
 	</section>
 	<section name="">
-		<item value="1000" key="org.eclipse.search.resultpage.limit"/>
+		<item value="1000" key="org.eclipse.jdt.search.resultpage.limit"/>
+		<item value="TRUE" key="org.eclipse.jdt.search.resultpage.limit_enabled"/>
 	</section>
 	<section name="TextSearchPage">
 		<item value="12" key="HISTORY_SIZE"/>
@@ -20,7 +21,7 @@
 			<item value="true" key="ignoreCase"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="isWholeWord"/>
-			<item value="perspective" key="textPattern"/>
+			<item value="arrows" key="textPattern"/>
 			<item value="false" key="isRegExSearch"/>
 			<list key="fileNamePatterns">
 				<item value="*"/>
@@ -32,7 +33,7 @@
 			<item value="true" key="ignoreCase"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="isWholeWord"/>
-			<item value="glhint" key="textPattern"/>
+			<item value="glortho" key="textPattern"/>
 			<item value="false" key="isRegExSearch"/>
 			<list key="fileNamePatterns">
 				<item value="*"/>
@@ -44,7 +45,7 @@
 			<item value="true" key="ignoreCase"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="isWholeWord"/>
-			<item value="projection" key="textPattern"/>
+			<item value="score:" key="textPattern"/>
 			<item value="false" key="isRegExSearch"/>
 			<list key="fileNamePatterns">
 				<item value="*"/>
@@ -56,7 +57,7 @@
 			<item value="true" key="ignoreCase"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="isWholeWord"/>
-			<item value="glEnable(GL_DEPTH_TEST)" key="textPattern"/>
+			<item value="project" key="textPattern"/>
 			<item value="false" key="isRegExSearch"/>
 			<list key="fileNamePatterns">
 				<item value="*"/>
@@ -68,7 +69,7 @@
 			<item value="true" key="ignoreCase"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="isWholeWord"/>
-			<item value="project" key="textPattern"/>
+			<item value="display" key="textPattern"/>
 			<item value="false" key="isRegExSearch"/>
 			<list key="fileNamePatterns">
 				<item value="*"/>
@@ -83,7 +84,7 @@
 			<item value="true" key="ignoreCase"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="isWholeWord"/>
-			<item value="glEnable(GL_DEPTH_TEST);" key="textPattern"/>
+			<item value="perspective" key="textPattern"/>
 			<item value="false" key="isRegExSearch"/>
 			<list key="fileNamePatterns">
 				<item value="*"/>
@@ -95,7 +96,7 @@
 			<item value="true" key="ignoreCase"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="isWholeWord"/>
-			<item value="GL11.glEnable(GL11.GL_DEPTH_TEST)" key="textPattern"/>
+			<item value="gl_ext" key="textPattern"/>
 			<item value="false" key="isRegExSearch"/>
 			<list key="fileNamePatterns">
 				<item value="*"/>
@@ -107,7 +108,7 @@
 			<item value="true" key="ignoreCase"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="isWholeWord"/>
-			<item value="glEnable(GL11.GL_DEPTH_TEST)" key="textPattern"/>
+			<item value="projection" key="textPattern"/>
 			<item value="false" key="isRegExSearch"/>
 			<list key="fileNamePatterns">
 				<item value="*"/>
@@ -119,7 +120,7 @@
 			<item value="true" key="ignoreCase"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="isWholeWord"/>
-			<item value="glortho" key="textPattern"/>
+			<item value="switch" key="textPattern"/>
 			<item value="false" key="isRegExSearch"/>
 			<list key="fileNamePatterns">
 				<item value="*"/>
@@ -131,7 +132,7 @@
 			<item value="true" key="ignoreCase"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="isWholeWord"/>
-			<item value="gl_ext" key="textPattern"/>
+			<item value="score" key="textPattern"/>
 			<item value="false" key="isRegExSearch"/>
 			<list key="fileNamePatterns">
 				<item value="*"/>
@@ -143,7 +144,7 @@
 			<item value="true" key="ignoreCase"/>
 			<item value="0" key="scope"/>
 			<item value="true" key="isWholeWord"/>
-			<item value="arrows" key="textPattern"/>
+			<item value="arrowtype" key="textPattern"/>
 			<item value="false" key="isRegExSearch"/>
 			<list key="fileNamePatterns">
 				<item value="*"/>
@@ -195,7 +196,7 @@
 		</list>
 	</section>
 	<section name="SearchDialog">
-		<item value="org.eclipse.search.internal.ui.text.TextSearchPage" key="PREVIOUS_PAGE"/>
+		<item value="org.eclipse.jdt.ui.JavaSearchPage" key="PREVIOUS_PAGE"/>
 	</section>
 	<section name="org.eclipse.jdt.ui.JavaSearchResultPage">
 		<item value="1000" key="org.eclipse.jdt.search.resultpage.limit"/>

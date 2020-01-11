@@ -89,7 +89,7 @@ public class GuiGameOver extends GuiScreen
             this.drawCenteredString(this.fontRenderer, StatCollector.translateToLocal("deathScreen.hardcoreInfo"), this.width / 2, 144, 16777215);
         }
 
-        this.drawCenteredString(this.fontRenderer, StatCollector.translateToLocal("deathScreen.score") + ": " + EnumChatFormatting.YELLOW + this.mc.thePlayer.getScore(), this.width / 2, 100, 16777215);
+        this.drawCenteredString(this.fontRenderer, StatCollector.translateToLocal("deathScreen.score") + ": &e" + this.mc.thePlayer.getScore(), this.width / 2, 100, 16777215);
         super.drawScreen(par1, par2, par3);
     }
 

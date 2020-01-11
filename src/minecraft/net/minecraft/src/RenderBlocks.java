@@ -548,7 +548,7 @@ public class RenderBlocks
     private boolean renderBlockChest(Block block, int i, int j, int k) 
     {
 	
-    	if(!Config.getGameSettings().oldChests)
+    	if(!Config.getGameSettings().oldChests || block == Block.enderChest)
     	{
     	//block.setBlockBounds(0.0625F, 0.0F, 0.0625F, 0.9375F, 0.875F, 0.9375F);
 		return false;
