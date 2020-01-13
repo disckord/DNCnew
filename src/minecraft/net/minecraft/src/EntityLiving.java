@@ -1675,7 +1675,10 @@ public abstract class EntityLiving extends Entity
         int var2 = MathHelper.floor_double(this.boundingBox.minY);
         int var3 = MathHelper.floor_double(this.posZ);
         int var4 = this.worldObj.getBlockId(var1, var2, var3);
-        return Reflector.ForgeHooks_isLivingOnLadder.exists() ? Reflector.callBoolean(Reflector.ForgeHooks_isLivingOnLadder, new Object[] {Block.blocksList[var4], this.worldObj, Integer.valueOf(var1), Integer.valueOf(var2), Integer.valueOf(var3)}): var4 == Block.ladder.blockID || var4 == Block.vine.blockID;
+        int var5 = this.worldObj.getBlockId(var1, var2+1, var3);
+        return/* Reflector.ForgeHooks_isLivingOnLadder.exists() ?
+Reflector.callBoolean(Reflector.ForgeHooks_isLivingOnLadder, new Object[] {Block.blocksList[var4], this.worldObj, Integer.valueOf(var1), Integer.valueOf(var2), Integer.valueOf(var3)})
+: */var4 == Block.ladder.blockID || var4 == Block.vine.blockID || var5 == Block.ladder.blockID || var5 == Block.vine.blockID;
     }
 
     /**

@@ -49,7 +49,6 @@
 <fullyQualifiedTypeName name="java.util.zip.ZipFile"/>
 <fullyQualifiedTypeName name="net.lingala.zip4j.core.ZipFile"/>
 <fullyQualifiedTypeName name="java.lang.Deprecated"/>
-<fullyQualifiedTypeName name="net.minecraft.client.Minecraft"/>
 <fullyQualifiedTypeName name="net.minecraft.src.EnumToolMaterial"/>
 <fullyQualifiedTypeName name="org.lwjgl.opengl.GL11"/>
 <fullyQualifiedTypeName name="net.minecraft.src.MathHelper"/>
@@ -57,4 +56,5 @@
 <fullyQualifiedTypeName name="net.minecraft.src.EnumArrowType"/>
 <fullyQualifiedTypeName name="net.minecraft.src.EnumBowType"/>
 <fullyQualifiedTypeName name="net.minecraft.src.Item"/>
+<fullyQualifiedTypeName name="net.minecraft.client.Minecraft"/>
 </qualifiedTypeNameHistroy>

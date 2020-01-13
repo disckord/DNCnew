@@ -37,6 +37,13 @@ public class CraftingManager
         this.addRecipe(new ItemStack(Item.paper, 3), new Object[] {"###", '#', Item.reed});
         this.addShapelessRecipe(new ItemStack(Item.book, 1), new Object[] {Item.paper, Item.paper, Item.paper});
         //added recipes
+        this.addRecipe(new ItemStack(Item.ironArrow, 4), new Object[] {" X ", "X#X", " X ", 'X', Item.arrow, '#', Item.ingotIron});
+        this.addRecipe(new ItemStack(Item.goldArrow, 4), new Object[] {" X ", "X#X", " X ", 'X', Item.arrow, '#', Item.ingotGold});
+        this.addRecipe(new ItemStack(Item.diamondArrow, 4), new Object[] {" X ", "X#X", " X ", 'X', Item.arrow, '#', Item.diamond});
+        this.addRecipe(new ItemStack(Item.ironBow, 1), new Object[] {"##", "#X", "##", 'X', Item.bow, '#', Item.ingotIron});
+        this.addRecipe(new ItemStack(Item.diamondBow, 1), new Object[] {"##", "#X", "##", 'X', Item.bow, '#', Item.diamond});
+        this.addRecipe(new ItemStack(Item.goldBow, 1), new Object[] {"##", "#X", "##", 'X', Item.bow, '#', Item.ingotGold});
+        
         this.addRecipe(new ItemStack(Item.netherQuartz, 4), new Object[] {"#", '#', Block.blockNetherQuartz});
         
         this.addRecipe(new ItemStack(Block.coalBlock, 1), new Object[] {"###", "###", "###", '#', Item.coal});

@@ -1,4 +1,4 @@
-ofRenderDistanceFine:256
+ofRenderDistanceFine:128
 ofLimitFramerateFine:0
 ofFogType:2
 ofFogStart:0.2
@@ -40,12 +40,12 @@ ofBetterGrass:3
 ofConnectedTextures:2
 ofWeather:true
 ofSky:true
-ofStars:false
+ofStars:true
 ofSunMoon:true
 ofChunkUpdates:1
 ofChunkLoading:0
 ofChunkUpdatesDynamic:false
-ofTime:2
+ofTime:0
 ofClearWater:false
 ofDepthFog:true
 ofAaLevel:0

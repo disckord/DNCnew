@@ -583,7 +583,6 @@ public class EntityArrow extends Entity implements IProjectile
      */
     public void onCollideWithPlayer(EntityPlayer par1EntityPlayer)
     {
-    	//TODO give itemarrow depending on arrows arrowtype
         if (!this.worldObj.isRemote && this.inGround && this.arrowShake <= 0)
         {
             boolean var2 = this.canBePickedUp == 1 || this.canBePickedUp == 2 && par1EntityPlayer.capabilities.isCreativeMode;

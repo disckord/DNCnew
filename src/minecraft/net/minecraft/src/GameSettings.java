@@ -124,6 +124,7 @@ public class GameSettings
     public static final int CL_THREADED = 2;
     public static final String DEFAULT_STR = "Default";
     public KeyBinding ofKeyBindZoom;
+    public KeyBinding ofKeyBindingSprint;
 
     /** The name of the selected texture pack. */
     public String skin = "Default";
@@ -215,8 +216,9 @@ public class GameSettings
     {
         this.renderDistance = 1;
         this.limitFramerate = 0;
-        this.ofKeyBindZoom = new KeyBinding("Zoom", 29);
-        this.keyBindings = new KeyBinding[] {this.keyBindAttack, this.keyBindUseItem, this.keyBindForward, this.keyBindLeft, this.keyBindBack, this.keyBindRight, this.keyBindJump, this.keyBindSneak, this.keyBindDrop, this.keyBindInventory, this.keyBindChat, this.keyBindPlayerList, this.keyBindPickBlock, this.ofKeyBindZoom, this.keyBindCommand};
+        this.ofKeyBindZoom = new KeyBinding("Zoom", Keyboard.KEY_Z);
+        this.ofKeyBindingSprint = new KeyBinding("Sprint", Keyboard.KEY_LCONTROL);
+        this.keyBindings = new KeyBinding[] {this.keyBindAttack, this.keyBindUseItem, this.keyBindForward, this.keyBindLeft, this.keyBindBack, this.keyBindRight, this.keyBindJump, this.keyBindSneak, this.keyBindDrop, this.keyBindInventory, this.keyBindChat, this.keyBindPlayerList, this.keyBindPickBlock,this.ofKeyBindingSprint,this.ofKeyBindZoom,  this.keyBindCommand};
         this.difficulty = 2;
         this.hideGUI = false;
         this.fpperks = false;
@@ -246,8 +248,9 @@ public class GameSettings
     {
         this.renderDistance = 1;
         this.limitFramerate = 0;
-        this.ofKeyBindZoom = new KeyBinding("Zoom", 29);
-        this.keyBindings = new KeyBinding[] {this.keyBindAttack, this.keyBindUseItem, this.keyBindForward, this.keyBindLeft, this.keyBindBack, this.keyBindRight, this.keyBindJump, this.keyBindSneak, this.keyBindDrop, this.keyBindInventory, this.keyBindChat, this.keyBindPlayerList, this.keyBindPickBlock, this.ofKeyBindZoom, this.keyBindCommand};
+        this.ofKeyBindZoom = new KeyBinding("Zoom", Keyboard.KEY_Z);
+        this.ofKeyBindingSprint = new KeyBinding("Sprint", Keyboard.KEY_LCONTROL);
+        this.keyBindings = new KeyBinding[] {this.keyBindAttack, this.keyBindUseItem, this.keyBindForward, this.keyBindLeft, this.keyBindBack, this.keyBindRight, this.keyBindJump, this.keyBindSneak, this.keyBindDrop, this.keyBindInventory, this.keyBindChat, this.keyBindPlayerList, this.keyBindPickBlock,this.ofKeyBindingSprint, this.ofKeyBindZoom, this.keyBindCommand};
         this.difficulty = 2;
         this.hideGUI = false;
         this.perkSound = true;

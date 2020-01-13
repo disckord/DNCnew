@@ -1,5 +1,7 @@
 package net.minecraft.src;
 
+import net.minecraft.client.Minecraft;
+
 public class BWG4BiomesIndev extends BiomeGenBase
 {
     private int indevID;
@@ -10,12 +12,13 @@ public class BWG4BiomesIndev extends BiomeGenBase
         this.indevID = var1 - 101;
         this.spawnableCreatureList.add(new SpawnListEntry(EntityWolf.class, 1, 2, 3));
     }
-
     /**
      * Provides the basic grass color based on the biome temperature and rainfall
      */
     public int getBiomeGrassColor()
-    {
+    {	if(Minecraft.getMinecraft().gameSettings.alphaFoliage)
+        return 16777215;
+    else
         return 11272039;
     }
 
@@ -23,7 +26,9 @@ public class BWG4BiomesIndev extends BiomeGenBase
      * Provides the basic foliage color based on the biome temperature and rainfall
      */
     public int getBiomeFoliageColor()
-    {
+    {if(Minecraft.getMinecraft().gameSettings.alphaFoliage)
+    	return 16777215;
+    else
         return 5242667;
     }
 

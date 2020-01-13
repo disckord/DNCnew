@@ -5,6 +5,9 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
+import org.lwjgl.input.Keyboard;
+import org.lwjgl.input.Mouse;
+
 import net.minecraft.client.Minecraft;
 import net.minecraft.util.PerkGetter;
 import net.minecraft.util.SkinGetter;
@@ -225,7 +228,17 @@ public class EntityPlayerSP extends EntityPlayer
             this.pushOutOfBlocks(this.posX + (double)this.width * 0.35D, this.boundingBox.minY + 0.5D, this.posZ + (double)this.width * 0.35D);
             boolean var4 = this.getHealth() >= 15 || this.capabilities.allowFlying;
 
-            if (this.onGround && !var3 && this.movementInput.moveForward >= var2 && !this.isSprinting() && var4 && !this.isUsingItem() && !this.isPotionActive(Potion.blindness))
+            boolean sprintKey;
+            if (this.mc.gameSettings.ofKeyBindZoom.keyCode < 0)
+            {
+            	sprintKey = Mouse.isButtonDown(this.mc.gameSettings.ofKeyBindingSprint.keyCode + 100);
+            }
+            else
+            {
+            	sprintKey = Keyboard.isKeyDown(this.mc.gameSettings.ofKeyBindingSprint.keyCode);
+            }
+            this.setSprinting(sprintKey);
+           /* if (this.onGround && !var3 && this.movementInput.moveForward >= var2 && !this.isSprinting() && var4 && !this.isUsingItem() && !this.isPotionActive(Potion.blindness))
             {
                 if (this.sprintToggleTimer == 0)
                 {
@@ -237,16 +250,16 @@ public class EntityPlayerSP extends EntityPlayer
                     this.sprintToggleTimer = 0;
                 }
             }
-
+*/
             if (this.isSneaking())
             {
                 this.sprintToggleTimer = 0;
             }
 
-            if (this.isSprinting() && (this.movementInput.moveForward < var2  || !var4))
+           /* if (this.isSprinting() && (this.movementInput.moveForward < var2  || !var4))
             {
                 this.setSprinting(false);
-            }
+            }*/
 
             if (this.capabilities.allowFlying && !var1 && this.movementInput.jump)
             {

@@ -213,7 +213,7 @@ public class RenderBiped extends RenderLiving
                 GL11.glRotatef(45.0F, 0.0F, 1.0F, 0.0F);
                 GL11.glScalef(-var6, -var6, var6);
             }
-            else if (var4.itemID == Item.bow.itemID)
+          /*  else if (var4.itemID == Item.bow.itemID)
             {
                 var6 = 0.625F;
                 GL11.glTranslatef(0.0F, 0.125F, 0.3125F);
@@ -221,7 +221,7 @@ public class RenderBiped extends RenderLiving
                 GL11.glScalef(var6, -var6, var6);
                 GL11.glRotatef(-100.0F, 1.0F, 0.0F, 0.0F);
                 GL11.glRotatef(45.0F, 0.0F, 1.0F, 0.0F);
-            }
+            }*/
             else if (Item.itemsList[var4.itemID].isFull3D())
             {
                 var6 = 0.625F;

@@ -577,16 +577,20 @@ public class GuiMainMenu extends GuiScreen
             var9 = var9 + " Demo";
         }
 
-        this.drawString(this.fontRenderer, var9, 2, this.height - 10, 16777215);
+        this.drawString(this.fontRenderer, var9, 2, 2, 0x505050);
+        String opti = "Thanks to sp614x for Optifine!";
+        String mojang = "Copyright Mojang AB.";
         String var10 = "Thanks to Ted-80 for worldgen!";
         this.drawString(this.fontRenderer, var10, this.width - this.fontRenderer.getStringWidth(var10) - 2, this.height - 10, 16777215);
+        this.drawString(this.fontRenderer, mojang, this.width - this.fontRenderer.getStringWidth(var10) + 53, this.height - 25, 16777215);
 
-        if (this.field_92025_p != null && this.field_92025_p.length() > 0)
+        this.drawString(this.fontRenderer, opti, 2, this.height - 10, 16777215);
+        /*if (this.field_92025_p != null && this.field_92025_p.length() > 0)
         {
             drawRect(this.field_92022_t - 2, this.field_92021_u - 2, this.field_92020_v + 2, this.field_92019_w - 1, 1428160512);
             this.drawString(this.fontRenderer, this.field_92025_p, this.field_92022_t, this.field_92021_u, 16777215);
             this.drawString(this.fontRenderer, field_96138_a, (this.width - this.field_92024_r) / 2, ((GuiButton)this.buttonList.get(0)).yPosition - 12, 16777215);
-        }
+        }*/
 
         super.drawScreen(par1, par2, par3);
     }

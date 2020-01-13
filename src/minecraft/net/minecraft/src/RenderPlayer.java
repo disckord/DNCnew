@@ -295,7 +295,7 @@ public class RenderPlayer extends RenderLiving
                 GL11.glRotatef(45.0F, 0.0F, 1.0F, 0.0F);
                 GL11.glScalef(-var7, -var7, var7);
             }
-            else if (var22.itemID == Item.bow.itemID)
+           /* else if (var22.itemID == Item.bow.itemID)
             {
                 var7 = 0.625F;
                 GL11.glTranslatef(0.0F, 0.125F, 0.3125F);
@@ -303,7 +303,7 @@ public class RenderPlayer extends RenderLiving
                 GL11.glScalef(var7, -var7, var7);
                 GL11.glRotatef(-100.0F, 1.0F, 0.0F, 0.0F);
                 GL11.glRotatef(45.0F, 0.0F, 1.0F, 0.0F);
-            }
+            }*/
             else if (Item.itemsList[var22.itemID].isFull3D())
             {
                 var7 = 0.625F;
