@@ -228,17 +228,65 @@ public class EntityPlayerSP extends EntityPlayer
             this.pushOutOfBlocks(this.posX + (double)this.width * 0.35D, this.boundingBox.minY + 0.5D, this.posZ + (double)this.width * 0.35D);
             boolean var4 = this.getHealth() >= 15 || this.capabilities.allowFlying;
 
-            boolean sprintKey;
-            if (this.mc.gameSettings.ofKeyBindZoom.keyCode < 0)
+           
+           if(var4 && this.onGround && !var3 && this.movementInput.moveForward >= var2 && !this.isSprinting() && !this.isUsingItem() && !this.isPotionActive(Potion.blindness))
             {
-            	sprintKey = Mouse.isButtonDown(this.mc.gameSettings.ofKeyBindingSprint.keyCode + 100);
+            if (this.mc.gameSettings.ofKeyBindingSprint.keyCode < 0)
+            {
+            	if(Mouse.isButtonDown(this.mc.gameSettings.ofKeyBindingSprint.keyCode + 100))
+            	{
+            		  this.setSprinting(true);
+                      this.sprintToggleTimer = 0;
+            	}
+            	else if (this.sprintToggleTimer == 0)
+                {
+                    this.sprintToggleTimer = 7;
+                }
+            	else
+            	{
+            		 this.setSprinting(true);
+                     this.sprintToggleTimer = 0;
+            	}
             }
             else
             {
-            	sprintKey = Keyboard.isKeyDown(this.mc.gameSettings.ofKeyBindingSprint.keyCode);
+            	if(Keyboard.isKeyDown(this.mc.gameSettings.ofKeyBindingSprint.keyCode))
+            	{
+            		  this.setSprinting(true);
+                      this.sprintToggleTimer = 0;
+            	}
+            	else if (this.sprintToggleTimer == 0)
+                {
+                    this.sprintToggleTimer = 7;
+                }
+            	else
+            	{
+            		 this.setSprinting(true);
+                     this.sprintToggleTimer = 0;
+            	}
             }
-            this.setSprinting(sprintKey);
-           /* if (this.onGround && !var3 && this.movementInput.moveForward >= var2 && !this.isSprinting() && var4 && !this.isUsingItem() && !this.isPotionActive(Potion.blindness))
+        	}
+           if(var4 && this.onGround  && this.movementInput.moveForward >= var2 && !this.isSprinting() && !this.isUsingItem() && !this.isPotionActive(Potion.blindness))
+           {
+        	   if (this.mc.gameSettings.ofKeyBindingSprint.keyCode < 0)
+               {
+               	if(Mouse.isButtonDown(this.mc.gameSettings.ofKeyBindingSprint.keyCode + 100))
+               	{
+               		this.setSprinting(true);
+                    this.sprintToggleTimer = 0;
+               	}
+               }
+               else
+               {
+               	if(Keyboard.isKeyDown(this.mc.gameSettings.ofKeyBindingSprint.keyCode))
+               	{
+               		this.setSprinting(true);
+                    this.sprintToggleTimer = 0;
+               	{
+               } 
+           
+               	}}}
+            /*if (this.onGround && !var3 && this.movementInput.moveForward >= var2 && !this.isSprinting() && var4 && !this.isUsingItem() && !this.isPotionActive(Potion.blindness))
             {
                 if (this.sprintToggleTimer == 0)
                 {
@@ -249,17 +297,17 @@ public class EntityPlayerSP extends EntityPlayer
                     this.setSprinting(true);
                     this.sprintToggleTimer = 0;
                 }
-            }
-*/
+            }*/
+
             if (this.isSneaking())
             {
                 this.sprintToggleTimer = 0;
             }
 
-           /* if (this.isSprinting() && (this.movementInput.moveForward < var2  || !var4))
+            if (this.isSprinting() && (this.movementInput.moveForward < var2  || !var4))
             {
                 this.setSprinting(false);
-            }*/
+            }
 
             if (this.capabilities.allowFlying && !var1 && this.movementInput.jump)
             {

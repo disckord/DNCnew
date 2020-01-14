@@ -185,6 +185,7 @@ public class EntityArrow extends Entity implements IProjectile
  public void setArrowType(EnumArrowType eat)
  {
 	 this.eat = eat;
+	 this.damage = this.ebt.addedDmg + this.eat.damage;
 	 this.getDataWatcher().updateObject(13, Byte.valueOf((byte)(eat.ordinal())));
  }
     /**

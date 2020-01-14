@@ -6,6 +6,7 @@ public class EntityArrow extends Entity implements IProjectile
 {
 	
 	public EnumBowType ebt = EnumBowType.DEFAULT;
+	public EnumArrowType eat;
     private int xTile = -1;
     private int yTile = -1;
     private int zTile = -1;
@@ -34,7 +35,10 @@ public class EntityArrow extends Entity implements IProjectile
     	super(world);
     	 this.renderDistanceWeight = 10.0D;
          this.shootingEntity = par2EntityLiving;
-
+         if(this.eat == null)
+         {
+        	 this.eat = EnumArrowType.DEFAULT;
+         }
          if (par2EntityLiving instanceof EntityPlayer)
          {
              this.canBePickedUp = 1;
@@ -58,7 +62,7 @@ public class EntityArrow extends Entity implements IProjectile
     	this.eat = eat;
     	this.ebt = ebt;
     	this.damage = eat.damage + ebt.addedDmg;
-    	
+    	 
     	 this.renderDistanceWeight = 10.0D;
          this.shootingEntity = par2EntityLiving;
 
@@ -85,6 +89,10 @@ public class EntityArrow extends Entity implements IProjectile
     public EntityArrow(World par1World)
     {
         super(par1World);
+        if(this.eat == null)
+        {
+       	 this.eat = EnumArrowType.DEFAULT;
+        }
         this.renderDistanceWeight = 10.0D;
         this.setSize(0.5F, 0.5F);
     }
@@ -92,6 +100,10 @@ public class EntityArrow extends Entity implements IProjectile
     public EntityArrow(World par1World, double par2, double par4, double par6)
     {
         super(par1World);
+        if(this.eat == null)
+        {
+       	 this.eat = EnumArrowType.DEFAULT;
+        }
         this.renderDistanceWeight = 10.0D;
         this.setSize(0.5F, 0.5F);
         this.setPosition(par2, par4, par6);
@@ -103,7 +115,10 @@ public class EntityArrow extends Entity implements IProjectile
         super(par1World);
         this.renderDistanceWeight = 10.0D;
         this.shootingEntity = par2EntityLiving;
-
+        if(this.eat == null)
+        {
+       	 this.eat = EnumArrowType.DEFAULT;
+        }
         if (par2EntityLiving instanceof EntityPlayer)
         {
             this.canBePickedUp = 1;
@@ -131,6 +146,10 @@ public class EntityArrow extends Entity implements IProjectile
     public EntityArrow(World par1World, EntityLiving par2EntityLiving, float par3)
     {
         super(par1World);
+        if(this.eat == null)
+        {
+       	 this.eat = EnumArrowType.DEFAULT;
+        }
         this.renderDistanceWeight = 10.0D;
         this.shootingEntity = par2EntityLiving;
 
@@ -154,11 +173,19 @@ public class EntityArrow extends Entity implements IProjectile
     
     protected void entityInit()
     {
-        this.dataWatcher.addObject(16, Byte.valueOf((byte)0));
+    
+    this.dataWatcher.addObject(16, Byte.valueOf((byte)0));
+    this.dataWatcher.addObject(13, Byte.valueOf((byte)0));
+    	
     }
- public EnumArrowType getArrowType()
+ public int getArrowType()
  {
-	 return this.eat;
+	 return this.getDataWatcher().getWatchableObjectByte(13);
+ }
+ public void setArrowType(EnumArrowType eat)
+ {
+	 this.eat = eat;
+	 this.getDataWatcher().updateObject(13, Byte.valueOf((byte)(eat.ordinal())));
  }
     /**
      * Similar to setArrowHeading, it's point the throwable entity to a x, y, z direction.
@@ -181,6 +208,7 @@ public class EntityArrow extends Entity implements IProjectile
         {
         	addedvel *= 1.5F;
         }*/
+        //flightDrop -= (eat.flightModifier * ebt.flightModifier);
         this.motionX = par1 * (double)addedvel;
         this.motionY = par3 * (double)addedvel;
         this.motionZ = par5 * (double)addedvel;
@@ -226,6 +254,7 @@ public class EntityArrow extends Entity implements IProjectile
      */
     public void onUpdate()
     {
+  
     double var11 = flightDrop;
     this.motionY -= var11;
        
@@ -557,8 +586,18 @@ public class EntityArrow extends Entity implements IProjectile
         if (!this.worldObj.isRemote && this.inGround && this.arrowShake <= 0)
         {
             boolean var2 = this.canBePickedUp == 1 || this.canBePickedUp == 2 && par1EntityPlayer.capabilities.isCreativeMode;
-
-            if (this.canBePickedUp == 1 && !par1EntityPlayer.inventory.addItemStackToInventory(new ItemStack(Item.arrow, 1)))
+            Item i= Item.arrow;
+            if(this.eat == EnumArrowType.GOLDARROW)
+            {
+            	i = Item.goldArrow;
+            }else if(this.eat == EnumArrowType.DIAMONDARROW)
+            {
+            	i = Item.diamondArrow;
+            }else if(this.eat == EnumArrowType.IRONARROW)
+            {
+            	i = Item.ironArrow;
+            }
+            if (this.canBePickedUp == 1 && !par1EntityPlayer.inventory.addItemStackToInventory(new ItemStack(i, 1)))
             {
                 var2 = false;
             }
