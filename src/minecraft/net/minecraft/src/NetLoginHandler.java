@@ -89,7 +89,6 @@ public class NetLoginHandler extends NetHandler
         else
         {
             PublicKey var2 = this.mcServer.getKeyPair().getPublic();
-
             if (par1Packet2ClientProtocol.getProtocolVersion() != a1Version.protocolID)
             {
                 if (par1Packet2ClientProtocol.getProtocolVersion() < a1Version.protocolID)
@@ -98,6 +97,7 @@ public class NetLoginHandler extends NetHandler
                 }
                 else
                 {
+                	
                     this.raiseErrorAndDisconnect("Outdated client!");
                 }
             }

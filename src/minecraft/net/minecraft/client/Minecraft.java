@@ -2175,7 +2175,6 @@ public abstract class Minecraft implements Runnable, IPlayerUsage
         {
             var6 = var5;
         }
-        System.out.println(var69);
         var1.put("demo", "" + var2);
         var1.put("stand-alone", "" + var3);
         var1.put("username", var6);

@@ -10,15 +10,17 @@ public class Packet2ClientProtocol extends Packet
     private String username;
     private String serverHost;
     private int serverPort;
+    private int testid;
 
     public Packet2ClientProtocol() {}
 
-    public Packet2ClientProtocol(int par1, String par2Str, String par3Str, int par4)
+    public Packet2ClientProtocol(int par1, String par2Str, String par3Str, int par4, int testid)
     {
         this.protocolVersion = par1;
         this.username = par2Str;
         this.serverHost = par3Str;
         this.serverPort = par4;
+        this.testid = testid;
     }
 
     /**
@@ -26,10 +28,11 @@ public class Packet2ClientProtocol extends Packet
      */
     public void readPacketData(DataInputStream par1DataInputStream) throws IOException
     {
-        this.protocolVersion = par1DataInputStream.readByte();
+        this.protocolVersion = par1DataInputStream.readInt();
         this.username = readString(par1DataInputStream, 16);
         this.serverHost = readString(par1DataInputStream, 255);
         this.serverPort = par1DataInputStream.readInt();
+        this.testid = par1DataInputStream.readInt();
     }
 
     /**
@@ -37,10 +40,11 @@ public class Packet2ClientProtocol extends Packet
      */
     public void writePacketData(DataOutputStream par1DataOutputStream) throws IOException
     {
-        par1DataOutputStream.writeByte(this.protocolVersion);
+        par1DataOutputStream.writeInt(this.protocolVersion);
         writeString(this.username, par1DataOutputStream);
         writeString(this.serverHost, par1DataOutputStream);
         par1DataOutputStream.writeInt(this.serverPort);
+        par1DataOutputStream.writeInt(this.testid);
     }
 
     /**
@@ -56,9 +60,13 @@ public class Packet2ClientProtocol extends Packet
      */
     public int getPacketSize()
     {
-        return 3 + 2 * this.username.length();
+        return 4 + 2 * this.username.length();
     }
 
+    public int gettestint()
+    {
+    	return this.testid;
+    }
     /**
      * Returns the protocol version.
      */

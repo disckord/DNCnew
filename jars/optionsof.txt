@@ -1,4 +1,4 @@
-ofRenderDistanceFine:128
+ofRenderDistanceFine:256
 ofLimitFramerateFine:0
 ofFogType:2
 ofFogStart:0.2
